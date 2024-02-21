@@ -1,5 +1,5 @@
 ---
-title: Assignment guide
+title: Assignment Guide
 output:
   html_document:
     toc: true
@@ -182,7 +182,7 @@ You want feedback on the pitch itself, including on how compelling the hook is (
 Thus, when you get up to present, I would just launch right in and grab people's attention (unless you are thinking about pitching it to a paper with a different audience than the NYT, in which case that is helpful context.)
 
 
-# Peer reviews 
+# Peer Reviews 
 
 My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
