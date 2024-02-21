@@ -1,0 +1,1144 @@
+---
+title: "PubPol 495 <br> Climate Change and Democracy"
+subtitle: "Fall 2024"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+
+> All that you touch, You Change. <br>
+All that you Change Changes you. <br>
+The only lasting truth is Change. <br> - Octavia E. Butler
+
+
+
+> “We live in a big science fiction novel we are all writing together” - Kim Stanley Robinson
+
+<!--https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html-->
+
+This is a reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
+	
+<!--Tuesdays and Thursdays 2:30–3:50 a.m., 1210 Weill Hall--> 
+
+Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
+
+Office hours: TBD, 3215 Weill Hall
+
+Links: 
+
+- 🏛️ [Best practices for our classroom environment ](https://judgelord.github.io/PP495/best-practices)
+
+- 🪶 [Assignment guide](https://judgelord.github.io/PP495/assignments)
+
+-  📖 [Glossary](https://judgelord.github.io/PP495/glossary)
+
+- Subscribe to the course calendar [here    📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+- Sign up for discussion opening, closing remarks, and paper meetings [here 📅](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus-2024.html). The current version is [here](https://judgelord.github.io/PP495/syllabus-2024.html).
+
+
+
+	
+
+# 🗺️  Objectives
+
+In the past century---the blink of an eye in ecological time---a small portion of humans concentrated in wealthier and more industrialized countries began to radically transform the ecology of our planet at an unprecedented scale.^[OK, sure, cyanobacteria were [similarly tranfromative](https://asm.org/articles/2022/february/the-great-oxidation-event-how-cyanobacteria-change), but that was billions of years ago, and cyanobacteria cannot reflect on their actions. They make oxygen, but neither politics nor policy.] 
+
+This class aims to help you develop your own critique of various policy fights over what to do about our new relationship with our biosphere. 
+
+Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. -->
+
+The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focus on policy debates in the United States, the underlying political struggles can be seen everywhere. 
+
+The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
+
+It is easy to critique those with whom we severely disagree, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may have no idea what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
+
+
+As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 10% of your grade.
+
+
+
+# 🏛️ Learning Environment
+
+Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
+
+To realize this goal, I expect us to respect our colleagues and cultivate inclusive discussions. This means that we must be careful not to mislead, degrade, interrupt someone who does not speak as much, or enforce hierarchies based on race, religion, ethnicity, nationality, gender expression, sexual orientation, or ability.
+
+<!--[Best Practices for Navigating the Classroom Environment - 
+Fall 2022](https://docs.google.com/document/d/1uSAbeIoEHqZwBzBlbDsz_jl5J_mapwoRxyOK1OGhBdM)--> 
+
+## 📜 Ford School and University of Michigan Policies
+
+**Ford School Inclusivity Statement:**
+Members of the Ford School community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity. While working together to build this community, we ask all members to: 
+
+- share their unique experiences, values, and beliefs
+- be open to the views of others
+- honor the uniqueness of their colleagues
+- appreciate the opportunity that we have to learn from each other in this community
+- value one another’s opinions and communicate in a respectful manner
+- keep confidential discussions that the community has of a personal (or professional) nature
+- use this opportunity together to discuss ways in which we can create an inclusive environment in Ford - classes and across the UM community
+
+
+Being a constructive member of a diverse community is always a learning process. The University has many resources to help us in this endeavor, including a [glossary of terms]( 
+https://www.dropbox.com/sh/7whjk69ckv3h39r/AAAsKb3tOl4OulF63-mJsHa1a/Glossary%20of%20Terms?dl=0&preview=Clearinghouse+-+Glossary.pdf&subfolder_nav_tracking=1).
+
+**Ford School Public Health Protection Policy.**  In order to participate in any in-person aspects of this course---including meeting with other students to study or work on a team project---you must follow all the public health safety measures and policies put in place by the State of Michigan, Washtenaw County, the University of Michigan, and the Ford School. Up-to-date information on U-M policies can be found on the  [U-M Health Response website](https://campusblueprint.umich.edu/).  It is expected that you will protect and enhance the health of everyone in the Ford School community by staying home and following self-isolation guidelines if you are experiencing any symptoms of COVID-19. 
+
+**Student Mental Health and Wellbeing.**  The University of Michigan is committed to advancing the mental health and wellbeing of its students.  We acknowledge that a variety of issues, both those relating to the pandemic and other issues such as strained relationships, increased anxiety, alcohol/drug problems, and depression, can directly impact students’ academic performance and overall wellbeing. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. 
+
+You may access the Ford School’s embedded counselor Paige Ziegler (pziegler@umich.edu) and/or counselors and urgent services at [Counseling and Psychological Services (CAPS)](https://caps.umich.edu/) and/or [University Health Service (UHS)](https://www.uhs.umich.edu/mentalhealthsvcs).  Students may also use the Crisis Text Line (text '4UMICH' to 741741) to be connected to a trained crisis volunteer.  You can find additional resources both on and off campus through the [University Health Service](https://uhs.umich.edu/stressresources) and through [CAPS](https://caps.umich.edu/article/um-mental-health-resources).
+
+**Student/Faculty Interaction Best Practices.** We strive to ensure a safe learning environment free from gender-based and sexual harassment, sexual violence, retaliation, and a hostile environment based on discrimination and intimidation. We make the following commitments:  
+
+- To conduct office hours with the door open unless the student requests a closed-door meeting;
+- To document meeting times with students so that this record can be reviewed;
+- To meet students individually only at university venues;
+- To conduct off-campus meetings only at places where alcohol is not served;
+- To communicate electronically with students only on university platforms and not on social media, text, or non-university apps.
+- For more information on resources for reporting sexual misconduct, please see [the faculty senate best practices for faculty interactions](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [U-M's page on Sexual and Gender-Based Misconduct](https://sexualmisconduct.umich.edu/).
+
+
+**Accommodations for Students with Disabilities:**  
+Accommodations for Students with Disabilities: The University of Michigan recognizes disability as an integral part of diversity and is committed to creating an inclusive and equitable educational environment for students with disabilities. Students who are experiencing a disability-related barrier should visit the Services for Students with Disabilities website. They can be reached at 734-763-3000 or ssdoffice@umich.edu. For students who are connected with SSD, accommodation requests can be made in Accommodate. If you have any questions or concerns, please contact your SSD Coordinator or visit SSD’s Current Student webpage. SSD considers aspects of the course design, course learning objects, and the individual academic and course barriers experienced by the student. Further conversation with SSD, instructors, and the student may be warranted to ensure an accessible course experience.
+
+::: {.callout-important}
+**If you require accommodations from SSD, please start that process quickly because it takes time. **
+:::
+
+**Academic Integrity:**  The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism, and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the [MPP](https://www.dropbox.com/s/wuq2jfmbpflm4f2/FINAL%202023%20Masters%20Handbook.pdf?dl=0),  [BA](https://www.dropbox.com/s/zhllbd4vpfr439r/FINAL%202023%20BA%20Handbook.pdf?dl=0), and [Ph.D. Program](https://www.dropbox.com/s/06x1tzt1e32pjjw/FINAL%202023%20PHD%20Handbook.pdf?dl=0) handbooks. Additional information regarding academic dishonesty, plagiarism, and misconduct and their consequences is available at [U-M's academic-policies page]( http://www.rackham.umich.edu/current-students/policies/academic-policies/section11#112).
+
+
+
+**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures, or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g., social media), you must first have informed consent. Without explicit permission from the instructor and, in some cases, your classmates, the public distribution or posting of any photos, audio/video recordings, or pre-recordings from class, discussion section, or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
+
+Please review additional information and policies regarding [academic expectations and resources](https://intranet.fordschool.umich.edu/academic-expectations) at the Ford School of Public Policy.
+
+See the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
+
+
+## 📵 Technology in Class
+
+No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues. Out of respect to the instructor and your fellow students, put your cell phone away for the duration of class. 
+
+## 🛠️ Tools That Generate Text
+
+You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/). I expect the same. 
+
+Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason. 
+
+I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
+
+Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
+Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will be checking to make sure sources of evidence are used appropriately. 
+
+If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
+
+I reserve the right to discuss your papers in length with you if I have concerns.
+
+# 🪶 Assignments 
+
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP495/assignments). 
+
+> <mark>**All assignments are to be submitted on Canvas.** </mark>
+
+## How to write an op-ed 
+
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
+
+## Example op-eds
+
+> [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by the NYT Editorial Board via [proquest](https://www.proquest.com/news/docview/2788890406/96ABFB8014664952PQ)
+
+> [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)  by Jeff Colgan via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
+
+> [The Climate Solution That’s Horrible for the Climate](https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html) via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
+
+> [I’m a Scientist Who Spoke Up About Climate Change. My Employer Fired Me.](https://www.nytimes.com/2023/01/10/opinion/scientist-fired-climate-change-activism.html)
+
+> Rumble at the Sierra Club via [proquest](https://www.proquest.com/docview/432709597)
+
+> [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells via [proquest](https://www.proquest.com/docview/2875467846/E16DE7745E4B4954PQ)
+
+> [Georgia’s Unique Runoff System, a Product of Institutional Racism by Shaher Zakaria](https://mjpa.umich.edu/2021/01/14/georgias-unique-runoff-system-a-product-of-institutional-racism/)
+
+> [The Patent System is Failing to Promote Pharmaceutical Innovation by Christina Del Grec](https://mjpa.umich.edu/2021/12/01/the-patent-system-is-failing-to-promote-pharmaceutical-innovation/)
+
+And here's a piece by two climate activists trying to influence policy:
+
+> [Will Lawmakers Sacrifice Our Health and Safety to Get a Debt Ceiling Deal?](https://www.nytimes.com/2023/05/26/opinion/debt-ceiling-clean-energy-oil-gas-environmental-justice.html) via [proquest]
+
+
+## Due dates 
+
+> <mark>**Discussion posts are due Mondays and Wednesdays at 7 p.m.** </mark>
+
+> <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
+
+::: {.callout-important}
+There is an incremental assignment building to your final op-ed due **every** Tuesday. 
+:::
+
+
+::: {.callout-tip}
+[Subscribe to the due dates calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+:::
+
+
+Below is the schedule of due dates. 
+
+On all but three weeks, the assignments are incremental steps to one larger assignment. On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
+
+### Find your voice - 15% of final grade
+
+- Week 1: Introduce yourself to the class---e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means---feel free to be creative (1%) 
+- Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 3: Ten op-ed-style headlines (in-class peer workshop) (1%) <!---COULD BE 1--> 
+- Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) (10%)
+- Week 5: 
+  - Meet with me about your op-ed ideas---[Sign up here](https://calendar.app.google/xjdkaHSmbzbTLykr9) (part of the previous assignment grade)
+  - Civic engagement (1%)
+- At some point during the first half of the semester, pitch one of your critiques to the class (2-3 minutes each). Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
+
+
+
+### Craft your critique - 25% of final grade
+
+- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies  (9%)
+- Week 7: peer critique of first 400 words  (5%)
+- Week 8: Two revised first 400 words + annotated bibliographies  (10%)
+- Week 9: 
+  - My feedback on your first 400 words 
+  - Civic engagement post (1%)
+
+### Hone your critique - 36% of final grade
+
+Through multiple rounds of revision, you will hone your critique, improving your logic and writing (writing can always be improved).
+
+::: {.callout-note}
+I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+:::
+
+- Week 10: One 750-800 word op-ed + annotated bibliography  (10%)
+- Week 11: Peer critique of op-ed  (5%)
+- Week 12: Revised op-ed (10%)
+- Week 13: 
+  - My feedback on your op-ed.  
+  - Civic engagement post (1%)
+- Week 14: Final due (10%)
+
+## Participation 24% (26 class periods X 1% per class - 2 pass days) 
+
+- Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
+- Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
+- Summarize the discussion questions posed on Canvas for two classes (1-3 minutes) 
+- Summarize what we have learned and how we have refined the points of debate at the end of two classes (1-3 minutes)
+
+[Sign up to summarize questions or what we learned here.](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+
+
+You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
+
+### Late Submissions
+
+Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
+
+- If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
+- Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
+
+Under extenuating circumstances, I will attempt to work out some alternative review cycle.
+
+# 📚  Materials
+
+Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
+
+I call on students during class and expect you to do all assigned readings for each week before Tuesday’s class (discussion posts are due Monday evening). 
+
+##	Required Books
+
+We will read large portions of two books: 
+
+- *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
+
+- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be conscientious of your classmates.)
+
+
+The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
+
+##	Recommended Books
+
+We will read smaller portions of the following books, which will be available on Canvas: 
+
+- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)
+
+- [*Politics: The Central Texts* by Roberto Mangabeira Unger (1997, Verso Books)](https://www.versobooks.com/products/1570-politics)
+
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis (2022, Simon & Schuster)](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
+
+- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway (2011, Bloomsbury Publishing)](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
+
+- [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)](https://www.simonandschuster.com/books/Charleston/Susan-Crawford/9781639363575) 
+
+
+Other books you may find useful: 
+
+- *Politics is for Power* by Eitan Hersh
+- *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
+- *Uncertain Futures: How to Unlock the Climate Impasse* by Alexander Gazmararian and Dustin Tingley. Cambridge University Press
+<!-- *Rules for Radicals* by Saul Alinsky-->
+- *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
+  - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
+
+## Resources 
+
+### American Government Module
+
+If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
+
+- [Day 1](http://leccap.engin.umich.edu/leccap/player/r/jdCaYX)
+- [Day 2](http://leccap.engin.umich.edu/leccap/player/r/r4jN5e)
+- [Day 3](http://leccap.engin.umich.edu/leccap/player/r/bSYi7Y)
+- [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
+
+# 📖 Reading by Week
+
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
+
+If you hit a paywall on a link from the syllabus:
+
+1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
+2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
+3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not have to pay for any of the online content for this course. 
+
+There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
+
+There are some questions we will ask of every reading: 
+
+- What is the author's argument? 
+- What do you think about it? 
+- Does it apply elsewhere? 
+- What does it imply for what we should do? 
+
+Come to class ready to answer these questions. 
+
+## Week 1: Hope 
+
+...in an unequal and chaotic world.
+
+### Thursday: Syllabus review and in-class discussion [best-practices exercise](best-practices.html)
+
+
+> [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
+
+> [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
+
+
+> Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
+
+
+<!--
+Further reading: 
+
+- [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
+--> 
+
+## Week 2: Policy 
+
+> "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
+
+### Tuesday: The State of US Climate Policy: 
+
+Note: This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
+
+>  [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
+
+> [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
+
+> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
+
+> [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
+
+> All We Can Save: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)
+
+> [The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) (59 min) 🎧
+
+> Skim: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
+
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
+
+> Skim: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
+
+- <https://energyinnovationact.org/>
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
+
+<!-- More summaries of US policy TBD --> 
+
+### Thursday: The State of Michigan Climate Policy
+
+> [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
+
+> [Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
+
+The State of Ann Arbor Climate Policy:
+
+> Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
+
+
+Further reading on state-level policy:
+
+- [The Battle Over Clean Energy with Leah C. Stokes (SSN 2019)](https://scholars.org/podcast/battle-over-clean-energy) (25 min)
+
+- [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira) 🎧 
+
+- [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details) 🎧 
+
+- [Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details) 🎧 
+
+- [Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details) 🎧 
+
+- [Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details) 🎧 
+
+- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
+
+- [David Hsu on the grassroots policy that lets communities control their own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
+
+
+
+Further reading on federal policy: 
+
+- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details) 🎧
+
+
+Further resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
+
+- [Naming the Problem: What It Will Take to Counter Extremism and Engage Americans in the Fight against Global Warming by Theda Skocpol](https://grist.org/wp-content/uploads/2013/03/skocpol-captrade-report-january-2013y.pdf)
+
+- [What Theda Skocpol gets right about the cap-and-trade fight by David Roberts](https://grist.org/climate-energy/what-theda-skocpol-gets-right-about-the-cap-and-trade-fight/)
+
+
+Further resources for understanding the Inflation Reduction Act: 
+
+ - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
+
+- ["Inflation Reduction Act (IRA) Summary: Energy and Climate Provisions" - Bipartisan Policy Center ](https://bipartisanpolicy.org/blog/inflation-reduction-act-summary-energy-climate-provisions/)
+
+ - [Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive. A sortable and filterable list for stakeholders big and small.](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)
+ 
+- [Investments trackers](https://jackconness.com/ira-chips-investments)
+
+- [Report detailing IRA's impact on US emissions + economy and public health](https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
+
+- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781) 
+
+- [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
+
+- [Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
+
+
+
+
+
+
+## Week 3: Politics
+
+...in the Anthropocene
+
+> "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
+
+### Tuesday: World Views
+
+- What is the "Anthropocene challenge" as described by Purdy? 
+- What does Purdy mean by politics and anti-politics? What are some examples? 
+- What does Buck mean by the "constructive ambiguity" of net zero? 
+- Purdy discusses several forms of environmental imagination/ideology that shaped US environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? What parallels do you see in the history of US environmental policy? 
+
+
+> Purdy, Prologue and Introduction (1-50)
+
+> [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
+
+### Thursday: Public Opinion
+
+- How has public opinion on climate change shifted since 2017? 
+- What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
+
+> [Global Warming’s Six Americas, Fall 2023](https://climatecommunication.yale.edu/publications/global-warmings-six-americas-fall-2023/) (1 page)
+
+- Explore the data: [climatecommunication.yale.edu](https://climatecommunication.yale.edu/visualizations-data/americans-climate-views/)
+
+> ["Which Republicans are worried about global warming?" By Matthew Ballew, Jennifer Carman, Seth Rosenthal, Marija Verner, John Kotcher, Edward Maibach, and Anthony Leiserowitz](https://climatecommunication.yale.edu/publications/republicans-worried-about-global-warming/) (5 pages)
+
+> ["Climate Change: US Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
+
+
+
+> Skim: [Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223) via [the library](https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845)
+
+
+Further Readings: 
+
+- Mildenberger, M. and D. Tingley (2019). Beliefs about climate beliefs: The importance of second-order opinions
+for climate politics. British Journal of Political Science 49(4), 1279–1307.
+
+
+<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
+
+Jasny, L., J. Waggle, and D. R. Fisher (2015). An empirical examination of echo chambers in us climate policy networks. Nature Climate Change 5(8), 782–786.
+
+The People Think What I Think: False Consensus and Unelected Elite
+Misperception of Public Opinion
+Alexander C. Fur nas Northwestern University
+Timothy M. LaPira James Madison University
+https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d72478370af/1701291881135/Elite_Misperception_of_Public_Opinion-3.pdf
+-->
+
+- ["Attribution matters: Revisiting the link between extreme weather experience and climate change mitigation responses" by Charles A. Ogunbode, Christina Demski, Stuart B. Capstick, and Robert G. Sposato, Global Environmental Change Volume, 2019, Pages 31-39](https://www.sciencedirect.com/science/article/pii/S0959378018302693?casa_token=2ZIQabxUgWIAAAAA:U-uwPc7HldtRO4dwJ0K9J4ywxT8QD-gmU4NYon_AwhxBMeJuTzosANP78rQVMz9vkVZyRrUYgg)
+
+- ["Changing minds about global warming: vicarious experience predicts self-reported opinion change in the USA" by Matthew T. Ballew, Jennifer R. Marlon, Matthew H. Goldberg, Edward W. Maibach, Seth A. Rosenthal, Emily Aiken & Anthony Leiserowitz,  2022](https://link.springer.com/article/10.1007/s10584-022-03397-w)
+
+
+- [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedalus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
+
+- [“Witnessing for the Middle to Depolarize the Climate Change Conversation”, *Daedalus* Fall 2020](Robert Harry Socolow,  https://www.amacad.org/publication/witnessing-middle-depolarize-climate-change-conversation)
+
+- [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, *Daedalus* Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
+
+- ["Conservatism, the Far Right, and the Environment" by Jesse Callahan Bryant and Justin Farrell in *Annual Review of Sociology*](https://osf.io/preprints/socarxiv/u7c23)
+
+
+
+<!--
+- [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
+
+
+- [Global warming will happen faster than we think, Y Xu, V Ramanathan, DG Victor, *Nature* (2018)](https://www.nature.com/articles/d41586-018-07586-5)
+--> 
+
+- [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
+
+- [Garside, Susanna & Haoyu Zhai. 2022. If not now, when? Climate disaster and the Green vote following the 2021 Germany Floods, Research & Politics, 9(4).](https://journals.sagepub.com/doi/10.1177/20531680221141523)
+
+
+## Week 4: God and Nature
+
+> "The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke's insistence that "God wants us to do something" and that nature revealed the intended tasks...And for the Romantics who created the Sierra Club, nature's beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there---and look." (Purdy, p. 199)
+
+The religious, colonial, and mystic foundations of Western environmental law and politics: 
+
+### Tuesday
+
+> Purdy, Chapter 1: An Unequal Terrain (51-70) and Chapter 2: God's Avid Gardeners (70-95) 
+
+### Thursday 
+
+> Purdy, Chapter 4: Natural Utopias (116-152)
+
+The black church as a site of modern climate advocacy: 
+
+> All We Can Save: Greens Are Just as Good as Kale by Heather McTeer Toney
+
+<!--## Nature as Teacher
+
+Aesthetics--> 
+
+## Week 5: Justice 
+
+- What are some of the different ways environmental justice is defined? 
+- Where did these ideas come from? 
+- How are policies addressing environmental justice consistent or inconsistent with different definitions? 
+- How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
+
+### Tuesday 
+
+> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
+
+>  ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
+
+### Thursday
+
+> [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
+
+> [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/)
+
+Further reading: 
+
+- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
+
+- [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+
+- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
+
+
+- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
+
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
+
+
+## Week 6: Utilitarianism and Technology
+
+> "For the conservationists of the Progressive ers, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
+
+- How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
+- What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
+
+### Tuesday: Utilitarianism and managerialism
+
+> Purdy, Chapter 5: A Conservationist Empire (153-187)
+
+### Thursday: Technology
+
+Learning curves: 
+
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧 
+
+Climate engineering: 
+
+> [After Geoengineering: Climate Tragedy, Repair, and Restoration
+By Holly Jean Buck](https://books.google.com/books?id=0TOGDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false) Introduction (pages 1-49, most importantly 24-28, 34-38, and 40-43)
+
+> *All We Can Save: A Handful of Dust* by Kate Marvel 
+
+Further Reading: 
+
+- [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
+
+- [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 
+
+- [Engineering Earth’s Climate?](https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/) 🎥
+
+- [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation) 🎧 
+
+- Michael B. Gerrard, Introduction and Overview, in Climate Engineering and the Law: Regulation and Liability for Solar Radiation Management and Carbon Dioxide Removal (Gerrard & Hester, eds. 2019)
+
+- Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
+
+- [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
+
+- [Dr. Ye Tao on a grand scheme to cool the Earth: Mirrors. Lots of mirrors.](https://www.volts.wtf/p/volts-podcast-dr-ye-tao-on-a-grand#details) 🎧 
+
+- [Why we shouldn’t shut nuclear power plants --- starts at minute 35](https://kpfa.org/player/?audio=377066) 🎧 
+
+
+## Week 7: Ecological Critique
+
+> "The Wilderness Society is, philosophically, a disclaimer of the biotic arrogance of *homo americanus*." (Leopold, cited in Purdy, p. 192)
+
+> "It is a curious feature of environmental politics...that its rhetorical fidelity to the past can trick an observer into overlooking how innovative it is...In this respect, environmental politics resembles many religious traditions and the constitutional politics of the United States." (Purdy, p. 194) 
+
+> "Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age." (Purdy, p. 227)
+
+### Tuesday
+
+> Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
+
+### Thursday
+
+> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
+
+Further reading: 
+
+- [Rachel Carson’s Warning on D.D.T. Ignited an Environmental Movement](https://retroreport.org/video/rachel-carsons-warning-on-ddt-ignited-an-environmental-movement/)
+
+- *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
+
+<!-- add degrowth critique here?  --> 
+
+## --- SPRING BREAK ---
+
+
+
+## Week 8: Indigenous and Feminist Critiques  
+
+### Tuesday: Indigenous Critique
+
+> [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
+
+> [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
+> More TBD (including selections from *All We Can Save*)
+
+Further reading:
+
+- [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
+
+- ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
+
+
+### Thursday: Eco-feminist Critique
+
+> ["Alive in the Sunshine" by Alyssa Battistoni ](https://jacobin.com/2014/01/alive-in-the-sunshine)
+
+> More TBD (including selections from *All We Can Save*)
+
+
+
+## Week 9: Nationalist Critique
+
+<!--QUESTIONS TBD--> 
+
+<!--Blood and Soil
+
+Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
+
+### Tuesday: Power and population
+
+Great power competition:
+
+> ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
+
+- ["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
+
+Neo-Malthusian: 
+
+> ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+
+> ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+
+> ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
+
+### Thursday: Immigration and ethno-nationalist critique
+
+> [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
+
+
+::: {.callout-warning}
+The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.splcenter.org/fighting-hate/extremist-files/group/federation-american-immigration-reform) and [Hardin as an Extreamist White Nationalist](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin). While all assigned readings have a perspective, these views most starkly contrast the University of Michigan's stated goals and policies. And yet, these views are increasingly prominent in climate policy discourse, so it is important to understand them.
+
+
+Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
+:::
+
+> [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+
+> [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
+
+
+Further reading on climate migration: 
+
+- [Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
+
+
+Further critique of neo-Malthusian ideas: 
+
+[Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion](https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism) (Climate change is only discussed in the Introduction, the rest is not so relevant)
+
+
+Further Research: 
+
+- [Information about climate-induced migration spurs negative attitudes about immigrants by  Kaitlin Raimi](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
+
+- [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
+
+- [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
+
+- [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](10.1073/pnas.2007597117)
+
+- [H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” *Nature Climate Change*, 12, 634-641](https://www.nature.com/articles/s41558-022-01401-w)
+- Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.
+
+- [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
+
+
+
+
+
+
+##  Week 10: Institutions 
+
+- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
+
+### Tuesday: Governance
+
+Collective action
+
+>  Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.
+
+Governing institutions
+
+> *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
+
+- What is Unger's critique of deep structure theorists (e.g., Marx)? 
+- What is Unger's critique of modern social science? 
+- Why does Unger think that debates among critics and defenders of capitalism are incoherent? 
+-  What does Unger mean by the "plasticity" of institutions? 
+
+> Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
+
+
+Further reading: 
+
+- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
+
+
+### Thursday: Regulation and Electoral Institutions
+
+> [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
+
+> Selections (TBD) from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change
+
+- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan different? 
+
+
+Electoral institutions: 
+
+> Skim: ["Legislative Staff and Representation in Congress" by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. *The American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66)
+
+> Skim: [“Institutions, Climate Change, and the Foundations of Long-term Policymaking.” Finnegan, Jared, 2022 *Comparative Political Studies*.](https://doi.org/10.1177/00104140211047416)
+
+
+Further reading: 
+
+- [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
+
+- [How Voting Rights and Redistricting Shape Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
+
+- [Clean Energy Gatekeepers You’ve Never Heard Of (Political Climate 2023)](https://www.politicalclimatepodcast.com/episodes/episode/2344cfff/clean-energy-gatekeepers-youve-never-heard-of)
+
+
+- [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details) 🎧 
+
+- [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans) 🎧 
+
+
+##  Week 11: Movements 
+
+- To what extent have climate movements been effective, and why?
+- To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+
+### Tuesday: Structure
+
+> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008
+
+> [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
+
+> [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
+
+### Thursday: Issue frames
+
+> [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
+
+Further reading: 
+
+- [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22949545/generation-green-new-deal-the-pelosi-sit-in)
+
+- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
+
+- [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
+
+##  Week 12: Markets
+
+<!--TBD QUESTIONS--> 
+
+### Tuesday: New Keynesian, neoliberal, and libertarian economics
+
+> ["Information" by Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html) (7 pages)
+
+> ["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) (11 pages)
+
+> [Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law) (9 pages)
+
+Research: 
+
+> [Building Political Support for Carbon Pricing](https://scholars.org/contribution/building-political-support-carbon-pricing) (2 pages) and [Paying for Pollution by Leigh Raymond](https://scholars.org/podcast/paying-pollution) (22 min) 🎧 
+
+### Thursday: Market critics
+
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
+
+> [Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
+
+Criticism of the critics: 
+
+> [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
+
+> [Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn't think so.](https://kpfa.org/player/?audio=399010) (minutes 6:10-44:55)🎧 
+
+Further reading: 
+
+- [Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
+
+- Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
+
+- [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)  🎧 
+
+##  Week 13: Incumbents
+
+...as a force explaining action and inaction. 
+
+- Why are groups effective at shaping policy? 
+- What industries will lose from climate policies, and could they pivot?
+<!--- Identify examples of “odd bed-fellows”--> 
+- What industries have most effectively obstructed policy? How do they work with/against political actors?
+
+### Tuesday: The global political economy of climate policy:
+
+> Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
+
+> Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.
+
+
+### Thursday: US political economy of climate policy: 
+
+> [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+
+> [*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
+
+> Skim: ["Power Flows: Transmission Lines and Corporate Profits" by Catherine Hausman](https://www.nber.org/papers/w32091)
+
+<!--
+> Watch: [Leah Stokes - The Future is Electric | Bioneers 2023](https://www.youtube.com/watch?v=57Ry9LnUW0g)
+--> 
+
+<!--
+> Catie's article on utility lobbying? 
+--> 
+
+Further Reading: 
+
+- [Op-Ed: Yes, ExxonMobil misled the public by NAOMI ORESKES AND GEOFFREY SUPRAN](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html)
+
+- [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
+
+
+- Tom Athanasiou on what the US return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
+
+## Week 14: Planning for Change
+
+<!--Learning Objectives
+-Understand the basic role of local governments in planning and development. 
+- Understand how planners control individuals of individual parcels of land but must constantly deal with broader economic and social forces at work in an urban area.
+-Understand different planning approaches:  top-down and bottom-up planning, consensus planning, and centralized and fragmenting budgeting.
+-Understand the planning paradox:  making decisions attuned to the interests of existing stakeholders and planning to change the urban area to adapt to changing economic, environmental, and social forces.
+-Understand how climate change affects different cities’ environments and economies and, thus, changes the agendas of city governments.
+-Understand the linkages between cities and surrounding suburban and rural areas.   How do cities affect the economies of surrounding areas?  How do cities depend on these surrounding areas? How do these surrounding areas (especially suburbs) rely on cities? How do land use changes in surrounding areas lead to changes in cities?  
+
+Adaptation planning 
+Learning Objectives
+-Explain the meaning of vulnerability, risk, and resilience planning and provide examples
+-Differentiate between mitigation and adaptation and how they can relate to each other
+-Identify technologies that could help with adaptation and the challenges behind their adaptation.
+
+
+-->
+
+> [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
+
+> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
+
+> [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
+
+Further reading:
+
+- [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund on the need for central planning to cope with the climate crisis (FT article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
+
+- Sommer, L. (2020, August 6). Why Sprawl Could Be The Next Big Climate Change Battle. NPR. https://www.npr.org/2020/08/06/812199726/why-sprawl-could-be-the-next-big-climate-change-battle
+
+- https://legal-planet.org/2018/12/05/were-never-going-to-meet-our-ghg-transportation-goals-until-we-radically-rethink-our-cities/
+
+- [The Greens' Dilemma: Building Tomorrow's Climate Infrastructure Today](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443474)
+
+- [3 cities face a climate dilemma: to build or not to build homes in risky places](https://www.npr.org/2023/11/06/1204923950/arizona-california-new-jersey-climate-flood-wildfire-drought-building-homes)
+
+- [The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details) 🎧 
+
+- [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)  🎧 
+
+- [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)  🎧 
+
+## Week 15: Reflection
+
+### Tuesday: Wrap-up
+
+- How has your understanding of the politics of policymaking changed since the start of the semester?
+- Which reading stands out to us most and why?
+- What connections do you see between your op-eds and the readings?
+
+### Thursday: No class
+
+## Ammendments 
+
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP495/commits/main/docs/syllabus-2024.html).
+
+<!-- MORE IDEAS 
+
+https://www.climateandcommunity.org/
+
+[A Planet to Win: Why We Need a Green New Deal by Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and Thea Riofrancos](https://www.versobooks.com/products/2546-a-planet-to-win)
+
+
+Climate Crisis and the Global Green New Deal: The Political Economy of Saving the Planet
+by Noam Chomsky and Robert Pollin
+
+Climate Leviathan: A Political Theory of Our Planetary Future
+by Geoff Mann and Joel Wainwright
+
+
+The Conservation Revolution: Radical Ideas for Saving Nature Beyond the Anthropocene
+by Bram Büscher and Robert Fletcher
+
+
+Climate Change as Class War: Building Socialism on a Warming Planet
+by Matthew T. Huber
+
+Who Will Build the Ark?: Debates on Climate Strategy from 'New Left Review'
+Edited by Benjamin Kunkel and Lola Seaton
+
+
+- https://www.nytimes.com/interactive/2021/10/25/climate/world-climate-pledges-co26.html
+- [Countries’ climate pledges built on flawed data (2021)](https://www.washingtonpost.com/climate-environment/interactive/2021/greenhouse-gas-emissions-pledges-data/)
+- [Climate Pledges COP26 (2021)](https://www.nytimes.com/interactive/2021/10/25/climate/world-climate-pledges-co26.html)
+- [Why tackling global warming is a challenge without precedent](https://www.economist.com/schools-brief/2020/04/23/why-tackling-global-warming-is-a-challenge-without-precedent)
+
+
+Gardiner, Stephen M. "Ethics and climate change: an introduction." Wiley Interdisciplinary Reviews: Climate Change 1.1 (2010): 54-66. https://doi.org/10.1002/wcc.16 https://wires-onlinelibrary-wiley-com.ezp-prod1.hul.harvard.edu/doi/pdfdirect/10.1002/wcc.16
+Highly Recommended Readings
+Political Theory on Climate Change, Melissa Lane, Annual Review of Political Science, Vol. 19, 2016, https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-042114-015427
+Supplementary Readings
+“The Political Theory of Climate Change: State of the Field”, Melissa Lane and Nancy Rosenblum, https://www.ssrc.org/programs/anxieties-of-democracy/working-group-on-climate-change/climate-change-reports/
+Caney, Simon, “Just Emissions,” Philosophy and Public Affairs 40 (2012) 255-300
+Shue, Henry, “Subsistence Emissions and Luxury Emissions,” Law and Policy 15 (1993): 39-59.
+John Barry, Arthur P.J. Mol & Anthony R. Zito (2013) Climate change ethics, rights, and policies: an introduction, Environmental Politics, 22:3, 361-376, DOI: 10.1080/09644016.2013.788861
+Miller, David. National Responsibility and Global Justice. Oxford University Press, 2007
+
+Kennard, Amanda, and Keith Schnakenberg “Global Climate Policy and Collective Action: A Comment” XXX, Global Environmental Politics.
+Victor, D. G. (2011). Global warming gridlock: creating more effective strategies for protecting the planet. Cambridge University Press. 
+Scott Barrett, Climate treaties and the imperative of enforcement, 24 Oxford Review of Economic Policy 239 (2008)
+Milkoreit, Manjana. "The Paris Agreement on Climate Change—Made in USA?." Perspectives on Politics 17.4 (2019): 1019-1037.
+Jason Bordoff and Meghan L. O’Sullivan, “Green Upheaval The New Geopolitics of Energy”, Foreign Affairs, January/February 2022 
+Monogan III, J. E., Konisky, D. M., & Woods, N. D. (2017). Gone with the wind: federalism and the strategic location of air polluters. American Journal of Political Science, 61(2), 257-270.
+Konisky, D. M., & Woods, N. D. (2010). Exporting air pollution? Regulatory enforcement and environmental free riding in the United States. Political Research Quarterly, 63(4), 771-782.
+
+IR 
+
+Keohane, R. O., & Victor, D. G. (2016). Cooperation and discord in global climate policy. Nature Climate Change, 6(6), 570-575. 
+Transnational Actors and Transnational Governance in Global Environmental Politics, Thomas Hale, Annual Review of Political Science, Vol. 23, 2020, https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-050718-032644
+Supplementary readings
+“Rethinking Approaches to Climate Change Policy”, Scott Barrett, Jessica Green, Robert O. Keohane, and Michael Oppenheimer, https://www.ssrc.org/programs/anxieties-of-democracy/working-group-on-climate-change/climate-change-reports/
+Stavins, Robert N. and Robert C. Stowe, eds. “The Paris Agreement and Beyond: International Climate Change Policy Post-2020.” Paper, Harvard Project on Climate Agreements, Belfer Center, October 2016.
+https://bostonreview.net/forum/charles-sabel-david-g-victor-how-fix-climate
+Matto Mildenberger (2020), Carbon Captured: how business and labor control climate politics, MIT Press
+Konisky, D. M. (2007). Regulatory competition and environmental enforcement: Is there a race to the bottom?. American Journal of Political Science, 51(4), 853-872.
+Victor, D. G., Akimoto, K., Kaya, Y., Yamaguchi, M., Cullenward, D., & Hepburn, C. (2017). Prove Paris was more than paper promises. Nature News, 548(7665), 25.
+Tingley, D., & Tomz, M. 2022. The Effects of Naming and Shaming on Public Support for Compliance with International Agreements: An Experimental Analysis of the Paris Agreement. International Organization. Vol 76(2) pg 445-468
+Tingley, D., & Tomz, M. (2020). International Commitments and Domestic Opinion: The Effect of the Paris Agreement on Public Support for Policies to Address Climate Change. Environmental Politics, 29 (7), 1135-1156
+The Collapse of the Kyoto Protocol and the Struggle to Slow Global Warming, David G. Victor
+Cullenward, D., & Victor, D. G. (2020). Making climate policy work. John Wiley & Sons.
+“Save the Environment, Save American Democracy How a Pro-Climate Vision Can Strengthen America’s Social Fabric, Robert O. Keohane and Jeff D. Colgan, Foreign Affairs, https://www.foreignaffairs.com/articles/united-states/2021-09-20/save-environment-save-american-democracy. 
+Understanding Multilateral Institutions in Easy and Hard Times, Robert O. Keohane, Annual Review of Political Science, Vol. 23, 2020, https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-050918-042625
+
+[Skjaerseth, Jon Birger. "The ‘successful' ozone-layer negotiations: Are there any lessons to be learned?." Global Environmental Change 2.4 (1992): 292-300.](https://www.sciencedirect.com/science/article/abs/pii/095937809290046A)
+
+Climate Impacts on Governance and Government Capacity 
+Learning Objectives
+-Identify what governance and government capacity is and why it matters
+-Identify how climate change is creating new governance challenges domestically and internationally
+
+Readings
+Ezra Klein, What if American Democracy Fails the Climate Crisis? https://www.nytimes.com/2021/06/22/magazine/ezra-klein-climate-crisis.html 
+Obradovich, N., Tingley, D., & Rahwan, I. (2018). Effects of environmental stressors on daily governance. Proceedings of the National Academy of Sciences, 115 (35), 8710-8715. 
+Belcher, O., Neimark, B., & Bigger, P. (2020). The US military is not sustainable. Science, 367(6481), 989-990.
+https://www.nytimes.com/2021/10/01/opinion/climate-change-geoengineering.html 
+
+Supplementary Readings
+Mittiga, Ross. 2021. Political Legitimacy, Authoritarianism, and Climate Change. American Political Science Review, 1-14. doi:10.1017/S0003055421001301
+https://ceobs.org/the-militarys-contribution-to-climate-change/
+Emily Farris, Future directions in civil‑military responses to natural disasters https://www.brookings.edu/wp-content/uploads/2016/06/05-civ-mil-disasters-ferris.pdf 
+https://gwagner.com/books/geoengineering-the-gamble/; https://gwagner.com/talk-geoengineering
+Jesse L. Reynolds and Gernot Wagner. Highly decentralized solar geoengineering. Environmental Politics, DOI: 10.1080/09644016.2019.1648169
+https://www.defenseone.com/technology/2021/08/climate-change-already-disrupting-military-it-will-get-worse-officials-say/184416/
+Deutsch, Judith. 2016. The Military’s ‘Securitization’ of Climate Change. Counterpunch, May 5.
+The National Intelligence Council. 2021. Global Trends 2040. Section 1, Section 2.3 (Environment and Energy), Section 4 (Looking to the Future)
+https://ceobs.org/the-militarys-contribution-to-climate-change/
+https://ceobs.org/topics/military-and-the-environment/
+https://www.newsecuritybeat.org/2018/02/climate-change-complicate-politics-u-s-military-bases/
+
+The politics of water in an era of climate change 
+Learning Objectives
+- Identify how property rights—and battles over them—influence the politics of water
+- Understand how cross-border flows of water can create opportunities for international conflict and cooperation
+
+Mini-case
+The California drought
+
+Readings
+https://www-economist-com.ezp-prod1.hul.harvard.edu/asia/2014/11/27/water-in-them-hills
+https://www-economist-com.ezp-prod1.hul.harvard.edu/the-economist-explains/2021/02/11/why-is-the-grand-ethiopian-renaissance-dam-contentious
+https://www.nytimes.com/2021/10/17/us/san-diego-drought.html
+Explained, “Worlds Water Crisis”. Netflix.  April 2020, https://www.youtube.com/watch?v=C65iqOSCZOY
+Supplementary Readings
+Tir, Jaroslav, and Douglass Stinnett. 2012. Weathering Climate Change: Can Institutions Mitigate International Water Conflict? Journal of Peace Research 49 (1): 211-225.
+Gleick, Peter H. 1993. Water and Conflict: Fresh Water Resources and International Security. International Security 18 (1): 79-112.
+https://www.youtube.com/watch?v=glgCA9WmqkI – “The War for Australia’s Water”
+
+violent conflict 
+Learning objectives
+-Identify the mechanisms linking climate change and violent conflict at multiple levels (individual, intrastate, interstate)
+-Explain how conflict can exacerbate problems induced by climate change, potentially leading to a vicious cycle
+
+Mini-case
+Violence Against Indigenous Amazonian Environmentalists
+
+Readings
+Climate Change and Conflict, Vally Koubi, Annual Review of Political Science, Vol. 22, 2019, https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-050317-070830
+Climate and Conflict Marshall Burke, Solomon M. Hsiang, Edward Miguel Annual Review of Economics 2015 7:1, 577-617 https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080614-115430
+Busby, Joshua W. 2021. Beyond Internal Conflict: The Emergent Practice of Climate Security. Journal of Peace Research. DOI: 10.1177/0022343320971019.
+Supplementary Readings
+Mach, K.J., Kraan, C.M., Adger, W.N. et al. Climate as a risk factor for armed conflict. Nature 571, 193–197 (2019). https://doi.org/10.1038/s41586-019-1300-6 https://www.nature.com/articles/s41586-019-1300-6
+Civil conflicts are associated with the global climate Solomon M. Hsiang, Kyle C. Meng & Mark A. Cane https://www.nature.com/articles/nature10311 (letter review at https://www.nature.com/articles/476406a)
+Insurgency, Terrorism and Organized Crime in a Warming Climate https://climate-diplomacy.org/sites/default/files/2020-10/CD%20Report_Insurgency_170724_web.pdf, summary at https://www.youtube.com/watch?v=CwqNrR2H6xk   
+Selby, Jan, and Mike Hulme. 2015. Is Climate Change Really to Blame for Syria’s Civil War? The Guardian, November 29
+Hendrix, Cullen S., and Stephan Haggard. 2015. Global Food Prices, Regime Type, and Urban Unrest in the Developing World. Journal of Peace Research 52 (2): 143-157
+Perez, Ines. 2013. Climate Change and Rising Food Prices Heightened Arab Spring. Scientific American, March 4.
+Glaser, Sarah M., Cullen S. Hendrix, Brittany Franck, Karin Wedig, and Les Kaufman. 2019. Armed Conflict and Fisheries in the Lake Victoria Basin. Ecology and Society 24 (1).
+Al-Jazeera Television. 2011. Inside Story - Is Climate Change a Global Security Threat?
+https://tipofthesphere.substack.com/p/climate-security-bookshelf
+Burke, M., González, F., Baylis, P., Heft-Neal, S., Baysan, C., Basu, S., & Hsiang, S. (2018). Higher temperatures increase suicide rates in the United States and Mexico. Nature Climate Change, 8(8), 723-729.
+
+
+---> 
+
+
+
+
+---
+
+<!--exclude: true-->
+
+## More Information on Student Instructor Best Practices
+
+We will conduct office hours with my door open unless you request otherwise.
+
+Students who wish to have confidential conversations with me may schedule a private meeting via Zoom or may ask to have a closed-door meeting. But this closed-door meeting must be made on your request in writing, even on the spot. I will never suggest a closed-door meeting myself because of the power dynamic.
+
+We will document all pre-scheduled meetings between the instructor and the student via Google Calendar (or other software) and/or university email.
+
+Students who email to request an office hour appointment should expect to receive an email confirmation or a Google Calendar (or other software) invitation from me, or, upon my email confirmation and request, may send me a Google Calendar (or other software) invitation for this meeting. The purpose is to provide a permanent record of the meeting and to ensure that all class activities are documented and transparent. Students who choose to drop by for informal meetings are welcome to do so, but there will be no documentation provided. (See above for open-door policy.)
+
+We will choose meeting locations and conduct meetings with student and instructor safety in mind.
+
+We will ensure that all individual meetings between instructor/student will take place at university venues.
+
+We will ensure that all off-campus meetings, trips, or events must engage with course material.
+
+Off-campus meetings will not involve alcohol or take place at locations that serve alcohol. If the class goes out for a meal, it will be at a cafe or restaurant that does not serve alcohol. The location/day/time of any off-campus meetings between the instructor and students will be documented in Google Calendar (or other software).
+
+We, the instructors, will conduct all individual communications using the University platforms of email, Canvas, Slack, or Piazza, with the caveat that we may use non-university platforms set up by students (such as GroupMe) only if they include all students in the class.
+
+There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, WhatsApp, etc.
+
+For more information on resources for reporting sexual misconduct, please see [the faculty senate best practices for faculty interactions](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [U-M's page on Sexual and Gender-Based Misconduct](https://sexualmisconduct.umich.edu/).
