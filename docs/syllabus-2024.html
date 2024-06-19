@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -43,6 +43,33 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -71,7 +98,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">🗺️ Objectives</a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">🗺️ Objectives</a>
+  <ul class="collapse">
+  <li><a href="#course-philosophy" id="toc-course-philosophy" class="nav-link" data-scroll-target="#course-philosophy">Course Philosophy</a></li>
+  </ul></li>
   <li><a href="#learning-environment" id="toc-learning-environment" class="nav-link" data-scroll-target="#learning-environment">🏛️ Learning Environment</a>
   <ul class="collapse">
   <li><a href="#ford-school-and-university-of-michigan-policies" id="toc-ford-school-and-university-of-michigan-policies" class="nav-link" data-scroll-target="#ford-school-and-university-of-michigan-policies">📜 Ford School and University of Michigan Policies</a></li>
@@ -81,8 +111,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">🪶 Assignments</a>
   <ul class="collapse">
   <li><a href="#how-to-write-an-op-ed" id="toc-how-to-write-an-op-ed" class="nav-link" data-scroll-target="#how-to-write-an-op-ed">How to write an op-ed</a></li>
-  <li><a href="#example-op-eds" id="toc-example-op-eds" class="nav-link" data-scroll-target="#example-op-eds">Example op-eds</a></li>
-  <li><a href="#due-dates" id="toc-due-dates" class="nav-link" data-scroll-target="#due-dates">Due dates</a>
+  <li><a href="#example-op-eds" id="toc-example-op-eds" class="nav-link" data-scroll-target="#example-op-eds">Example Op-eds</a></li>
+  <li><a href="#due-dates" id="toc-due-dates" class="nav-link" data-scroll-target="#due-dates">Due Dates</a>
   <ul class="collapse">
   <li><a href="#find-your-voice---15-of-final-grade" id="toc-find-your-voice---15-of-final-grade" class="nav-link" data-scroll-target="#find-your-voice---15-of-final-grade">Find your voice - 15% of final grade</a></li>
   <li><a href="#craft-your-critique---25-of-final-grade" id="toc-craft-your-critique---25-of-final-grade" class="nav-link" data-scroll-target="#craft-your-critique---25-of-final-grade">Craft your critique - 25% of final grade</a></li>
@@ -101,6 +131,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#american-government-module" id="toc-american-government-module" class="nav-link" data-scroll-target="#american-government-module">American Government Module</a></li>
   </ul></li>
+  <li><a href="#background-on-climate-science" id="toc-background-on-climate-science" class="nav-link" data-scroll-target="#background-on-climate-science">Background on Climate Science</a></li>
   </ul></li>
   <li><a href="#reading-by-week" id="toc-reading-by-week" class="nav-link" data-scroll-target="#reading-by-week">📖 Reading by Week</a>
   <ul class="collapse">
@@ -115,8 +146,8 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#week-3-politics" id="toc-week-3-politics" class="nav-link" data-scroll-target="#week-3-politics">Week 3: Politics</a>
   <ul class="collapse">
-  <li><a href="#tuesday-world-views" id="toc-tuesday-world-views" class="nav-link" data-scroll-target="#tuesday-world-views">Tuesday: World Views</a></li>
-  <li><a href="#thursday-public-opinion" id="toc-thursday-public-opinion" class="nav-link" data-scroll-target="#thursday-public-opinion">Thursday: Public Opinion</a></li>
+  <li><a href="#tuesday-world-views" id="toc-tuesday-world-views" class="nav-link" data-scroll-target="#tuesday-world-views">Tuesday: World Views:</a></li>
+  <li><a href="#thursday-public-opinion" id="toc-thursday-public-opinion" class="nav-link" data-scroll-target="#thursday-public-opinion">Thursday: Public Opinion:</a></li>
   </ul></li>
   <li><a href="#week-4-god-and-nature" id="toc-week-4-god-and-nature" class="nav-link" data-scroll-target="#week-4-god-and-nature">Week 4: God and Nature</a>
   <ul class="collapse">
@@ -141,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#week-8-indigenous-and-feminist-critiques" id="toc-week-8-indigenous-and-feminist-critiques" class="nav-link" data-scroll-target="#week-8-indigenous-and-feminist-critiques">Week 8: Indigenous and Feminist Critiques</a>
   <ul class="collapse">
   <li><a href="#tuesday-indigenous-critique" id="toc-tuesday-indigenous-critique" class="nav-link" data-scroll-target="#tuesday-indigenous-critique">Tuesday: Indigenous Critique</a></li>
-  <li><a href="#thursday-eco-feminist-critique" id="toc-thursday-eco-feminist-critique" class="nav-link" data-scroll-target="#thursday-eco-feminist-critique">Thursday: Eco-feminist Critique</a></li>
+  <li><a href="#thursday-ecofeminist-critique" id="toc-thursday-ecofeminist-critique" class="nav-link" data-scroll-target="#thursday-ecofeminist-critique">Thursday: Ecofeminist Critique</a></li>
   </ul></li>
   <li><a href="#week-9-nationalist-critique" id="toc-week-9-nationalist-critique" class="nav-link" data-scroll-target="#week-9-nationalist-critique">Week 9: Nationalist Critique</a>
   <ul class="collapse">
@@ -155,20 +186,24 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#week-11-movements" id="toc-week-11-movements" class="nav-link" data-scroll-target="#week-11-movements">Week 11: Movements</a>
   <ul class="collapse">
-  <li><a href="#tuesday-structure" id="toc-tuesday-structure" class="nav-link" data-scroll-target="#tuesday-structure">Tuesday: Structure</a></li>
-  <li><a href="#thursday-issue-frames" id="toc-thursday-issue-frames" class="nav-link" data-scroll-target="#thursday-issue-frames">Thursday: Issue frames</a></li>
+  <li><a href="#tuesday-opportunity-structure-and-mobilizing-structures" id="toc-tuesday-opportunity-structure-and-mobilizing-structures" class="nav-link" data-scroll-target="#tuesday-opportunity-structure-and-mobilizing-structures">Tuesday: Opportunity Structure and Mobilizing Structures</a></li>
+  <li><a href="#thursday-issue-framing" id="toc-thursday-issue-framing" class="nav-link" data-scroll-target="#thursday-issue-framing">Thursday: Issue framing</a></li>
   </ul></li>
   <li><a href="#week-12-markets" id="toc-week-12-markets" class="nav-link" data-scroll-target="#week-12-markets">Week 12: Markets</a>
   <ul class="collapse">
-  <li><a href="#tuesday-new-keynesian-neoliberal-and-libertarian-economics" id="toc-tuesday-new-keynesian-neoliberal-and-libertarian-economics" class="nav-link" data-scroll-target="#tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics</a></li>
-  <li><a href="#thursday-market-critics" id="toc-thursday-market-critics" class="nav-link" data-scroll-target="#thursday-market-critics">Thursday: Market critics</a></li>
+  <li><a href="#tuesday-new-keynesian-neoliberal-and-libertarian-economics" id="toc-tuesday-new-keynesian-neoliberal-and-libertarian-economics" class="nav-link" data-scroll-target="#tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics:</a></li>
+  <li><a href="#thursday-carbon-markets-and-pricing" id="toc-thursday-carbon-markets-and-pricing" class="nav-link" data-scroll-target="#thursday-carbon-markets-and-pricing">Thursday: Carbon markets and pricing:</a></li>
   </ul></li>
   <li><a href="#week-13-incumbents" id="toc-week-13-incumbents" class="nav-link" data-scroll-target="#week-13-incumbents">Week 13: Incumbents</a>
   <ul class="collapse">
   <li><a href="#tuesday-the-global-political-economy-of-climate-policy" id="toc-tuesday-the-global-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#tuesday-the-global-political-economy-of-climate-policy">Tuesday: The global political economy of climate policy:</a></li>
   <li><a href="#thursday-us-political-economy-of-climate-policy" id="toc-thursday-us-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#thursday-us-political-economy-of-climate-policy">Thursday: US political economy of climate policy:</a></li>
   </ul></li>
-  <li><a href="#week-14-planning-for-change" id="toc-week-14-planning-for-change" class="nav-link" data-scroll-target="#week-14-planning-for-change">Week 14: Planning for Change</a></li>
+  <li><a href="#week-14-planning-for-change" id="toc-week-14-planning-for-change" class="nav-link" data-scroll-target="#week-14-planning-for-change">Week 14: Planning for Change</a>
+  <ul class="collapse">
+  <li><a href="#tuesday-3" id="toc-tuesday-3" class="nav-link" data-scroll-target="#tuesday-3">Tuesday:</a></li>
+  <li><a href="#thursday-3" id="toc-thursday-3" class="nav-link" data-scroll-target="#thursday-3">Thursday:</a></li>
+  </ul></li>
   <li><a href="#week-15-reflection" id="toc-week-15-reflection" class="nav-link" data-scroll-target="#week-15-reflection">Week 15: Reflection</a>
   <ul class="collapse">
   <li><a href="#tuesday-wrap-up" id="toc-tuesday-wrap-up" class="nav-link" data-scroll-target="#tuesday-wrap-up">Tuesday: Wrap-up</a></li>
@@ -187,26 +222,37 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <blockquote class="blockquote">
-<p>All that you touch, You Change. <br> All that you Change Changes you. <br> The only lasting truth is Change. <br> - Octavia E. Butler</p>
+<p>“All that you touch, You Change. <br> All that you Change Changes you. <br> The only lasting truth is Change.” <br> - Octavia E. Butler</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>“We live in a big science fiction novel we are all writing together” - Kim Stanley Robinson</p>
+<p>“We live in a big science fiction novel we are all writing together” <br> - Kim Stanley Robinson</p>
 </blockquote>
 <!--https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html-->
-<p>This is a reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.</p>
-<!--Tuesdays and Thursdays 2:30–3:50 a.m., 1210 Weill Hall-->
+<p>This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.</p>
+<!--Tuesdays and Thursdays 2:30–3:50 p.m., 1210 Weill Hall-->
 <p>Instructor: Devin Judge-Lord, <a href="mailto:judgelor@umich.edu" class="email">judgelor@umich.edu</a>, 715-204-4287</p>
-<p>Office hours: TBD, 3215 Weill Hall</p>
-<p>Links:</p>
+<p>Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall</p>
+<p>Links to course resources:</p>
 <ul>
-<li><p>🏛️ <a href="https://judgelord.github.io/PP495/best-practices">Best practices for our classroom environment</a></p></li>
-<li><p>🪶 <a href="https://judgelord.github.io/PP495/assignments">Assignment guide</a></p></li>
-<li><p>📖 <a href="https://judgelord.github.io/PP495/glossary">Glossary</a></p></li>
-<li><p>Subscribe to the course calendar <a href="https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">here 📅</a></p></li>
-<li><p>Sign up for discussion opening, closing remarks, and paper meetings <a href="https://calendar.app.google/xjdkaHSmbzbTLykr9">here 📅</a></p></li>
+<li><p>🏛️ <a href="best-practices">Best practices for our classroom environment</a></p></li>
+<li><p>🪶 <a href="assignments">Assignment Guide</a></p></li>
+<li><p>📖 <a href="glossary">Glossary</a></p></li>
+<li><p><a href="https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">📅 Subscribe to the course calendar</a></p></li>
+<li><p><a href="https://calendar.app.google/xjdkaHSmbzbTLykr9">📅 Sign up for discussion opening, closing remarks, and paper meetings</a></p></li>
 </ul>
-<p>Syllabus updated: <a href="https://github.com/judgelord/PP495/commits/main/docs/syllabus-2024.html">February 21 2024</a>. The current version is <a href="https://judgelord.github.io/PP495/syllabus-2024.html">here</a>.</p>
+<p>Syllabus updated: <a href="https://github.com/judgelord/PP495/commits/main/docs/syllabus-2024.html">June 19 2024</a>. The current version is <a href="syllabus-2024.html">here</a>.</p>
+<!--
+This course advanced my understanding of the subject matter. Q1631*
+My interest in the subject has increased because of this course. Q1632
+I knew what was expected of me in this course. Q1633
+I had a strong desire to take this course. Q4
+As compared with other courses of equal credit, the workload for this course was (Much Lighter, Lighter, Typical, Heavier, Much Heavier). Q891
+The instructor seemed well-prepared for class meetings. Q230
+The instructor explained the material clearly. Q199
+The instructor treated students with respect. Q217
+-->
 <section id="objectives" class="level1">
 <h1>🗺️ Objectives</h1>
 <p>In the past century—the blink of an eye in ecological time—a small portion of humans concentrated in wealthier and more industrialized countries began to radically transform the ecology of our planet at an unprecedented scale.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
@@ -214,8 +260,19 @@ ul.task-list li input[type="checkbox"] {
 <p>Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. “Politics” can mean many things, and a core objective of this class is understanding different forms of politics—different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. --></p>
 <p>The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics—from left to right, religious to utilitarian, populist to technocratic—with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focus on policy debates in the United States, the underlying political struggles can be seen everywhere.</p>
 <p>The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?</p>
-<p>It is easy to critique those with whom we severely disagree, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world—specifically, the organizations for whom you hope to work. You may have no idea what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking—and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like <a href="https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice">this one</a>.</p>
+<p>Critiquing those with whom we severely disagree is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world—specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking—and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like <a href="https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice">this one</a>.</p>
 <p>As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues’ writing are a major part of this class and 10% of your grade.</p>
+<section id="course-philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="course-philosophy">Course Philosophy</h2>
+<p>In designing this course, I proceed from several premises:</p>
+<ol type="1">
+<li><p>It is worth knowing the <strong>history</strong> of our current policy debates and the <strong>ideas and values</strong> that the rhetoric of these policy debates evokes.</p></li>
+<li><p>It is more interesting to explore <strong>serious proposals</strong> about what to do than people arguing against doing anything. That said, there are lots of ideas about what to do, and many don’t agree. I just don’t give a ton of time to defenders of the status quo, especially to the extent that they intentionally use obfuscating rhetoric—I don’t want this class to be a victim of efforts to sow confusion. Thus, I focus on authors with the most earnest, sincere, and uncompromised statements of what to do and why. For example, big business lobbyists and public relations firms significantly shape our current debate, but we ought to take what they say is good for the environment with a huge grain of salt because they are not primarily interested in our relationship with our biosphere; they aim to help their clients make money by spinning what is good for business as good for the environment.</p></li>
+<li><p>It is more interesting to explore <strong>deeply rooted ideas</strong> and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don’t want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should be reshaped and how we should balance competing values. Then, let that inform your analysis of the rhetoric.</p></li>
+<li><p><strong>Humans are having a significant impact on the biosphere</strong>. I don’t have much about climate change <a href="https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html">denialism</a> on the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that policies they dislike will work, slow policymaking behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of <a href="#purdy.html#anti-politics">anti-politics</a>. The <a href="https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/">merchants of doubt</a> have shifted <a href="https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353">from attacking science to attacking policies</a> as too uncertain, too expensive, and unnecessary.</p></li>
+<li><p>Individual action is good but insufficient; <strong>collective action (and thus politics) is required</strong>. This class is in the public policy school, and I am a political scientist. We are here to learn about the many different kinds of policy and politics proposed to address climate change, not argue about whether policy and politics, in general, are useful for solving problems.</p></li>
+</ol>
+</section>
 </section>
 <section id="learning-environment" class="level1">
 <h1>🏛️ Learning Environment</h1>
@@ -276,32 +333,37 @@ Important
 <h2 class="anchored" data-anchor-id="tools-that-generate-text">🛠️ Tools That Generate Text</h2>
 <p>You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a <a href="https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/">SALAMI</a>. I expect the same.</p>
 <p>Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument. I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason.</p>
-<p>I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.</p>
-<p>Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> Thus, <mark><strong>references must be hyperlinked</strong></mark> whenever possible; I will be checking to make sure sources of evidence are used appropriately.</p>
+<p>I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.</p>
+<p>Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> Thus, <mark><strong>references must be hyperlinked</strong></mark> whenever possible; I will check to make sure sources of evidence are used appropriately.</p>
 <p>If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong.</p>
 <p>I reserve the right to discuss your papers in length with you if I have concerns.</p>
 </section>
 </section>
 <section id="assignments" class="level1">
 <h1>🪶 Assignments</h1>
-<p>Credit hours will be earned by attending two classes of <span class="math inline">\(1.3\bar{3}\)</span> hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization’s approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the <a href="https://judgelord.github.io/PP495/assignments">assignment guide</a>.</p>
+<p>Credit hours will be earned by attending two classes of <span class="math inline">\(1.3\bar{3}\)</span> hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization’s approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the <a href="assignments">assignment guide</a>.</p>
+<p>On all but three weeks, the assignments are incremental steps to your final op-ed.&nbsp;On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might <a href="https://www.regulations.gov/">Comment on a proposed federal agency policy</a>, <a href="https://ars.apps.lara.state.mi.us/">Comment on a proposed state agency policy</a> (sort by Filing Date to see pending rules), Recommend a course of action to one of <a href="https://www.usa.gov/elected-officials">your elected representatives</a> )</p>
+<p>Alternatively, on week 9, you may write a reflection on how you carry with you different world views/ways of seeing nature/forms of environmental imagination/paradigms and how they shape your thinking. This should mirror Purdy’s self-reflection in the introduction of <em>After Nature</em> by including the four world views we read about, but it may also include others (including, perhaps, some of the new emerging visions discussed in Chapter 7).</p>
 <blockquote class="blockquote">
 <p><mark><strong>All assignments are to be submitted on Canvas.</strong> </mark></p>
 </blockquote>
 <section id="how-to-write-an-op-ed" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-write-an-op-ed">How to write an op-ed</h2>
 <ul>
-<li><a href="https://scholars.org/resource/how-best-practices-writing-compelling-oped">SSN: Best Practices for Writing a Compelling Op-ed</a></li>
-<li><a href="https://scholars.org/resource/how-best-practices-pitching-oped">SSN: Best Practices for Pitching an Op-ed</a></li>
+<li><a href="https://scholars.org/resource/how-best-practices-writing-compelling-oped">SSN: Best Practices for Writing a Compelling Op-ed</a> <code>(Canvas)</code></li>
+<li><a href="https://scholars.org/resource/how-best-practices-pitching-oped">SSN: Best Practices for Pitching an Op-ed</a> <code>(Canvas)</code></li>
 </ul>
 </section>
 <section id="example-op-eds" class="level2">
-<h2 class="anchored" data-anchor-id="example-op-eds">Example op-eds</h2>
+<h2 class="anchored" data-anchor-id="example-op-eds">Example Op-eds</h2>
 <blockquote class="blockquote">
 <p><a href="https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html">Humanity Is Facing a Great Injustice. The World Bank Must Respond</a> by the NYT Editorial Board via <a href="https://www.proquest.com/news/docview/2788890406/96ABFB8014664952PQ">proquest</a></p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html">Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy</a> by Jeff Colgan via <a href="https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ">proquest</a></p>
+</blockquote>
+<blockquote class="blockquote">
+<p><a href="https://www.bentley.edu/news/ecofeminism-answer-climate-crisis">Is Ecofeminism the Answer to the Climate Crisis?</a></p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html">The Climate Solution That’s Horrible for the Climate</a> via <a href="https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ">proquest</a></p>
@@ -313,7 +375,7 @@ Important
 <p>Rumble at the Sierra Club via <a href="https://www.proquest.com/docview/432709597">proquest</a></p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html">The Pope’s Journey to Climate Outrage</a> by David Wallace-Wells via <a href="https://www.proquest.com/docview/2875467846/E16DE7745E4B4954PQ">proquest</a></p>
+<p><a href="https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html">The Pope’s Journey to Climate Outrage</a> by David Wallace-Wells via <a href="https://www.proquest.com/docview/2875467846/E16DE7745E4B4754PQ">proquest</a></p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://mjpa.umich.edu/2021/01/14/georgias-unique-runoff-system-a-product-of-institutional-racism/">Georgia’s Unique Runoff System, a Product of Institutional Racism by Shaher Zakaria</a></p>
@@ -327,7 +389,7 @@ Important
 </blockquote>
 </section>
 <section id="due-dates" class="level2">
-<h2 class="anchored" data-anchor-id="due-dates">Due dates</h2>
+<h2 class="anchored" data-anchor-id="due-dates">Due Dates</h2>
 <blockquote class="blockquote">
 <p><mark><strong>Discussion posts are due Mondays and Wednesdays at 7 p.m.</strong> </mark></p>
 </blockquote>
@@ -344,7 +406,7 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>There is an incremental assignment building to your final op-ed due <strong>every</strong> Tuesday.</p>
+<p>There is an incremental assignment building to your final op-ed, due almost <strong>every Tuesday</strong>.</p>
 </div>
 </div>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -361,19 +423,23 @@ Tip
 </div>
 </div>
 <p>Below is the schedule of due dates.</p>
-<p>On all but three weeks, the assignments are incremental steps to one larger assignment. On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might <a href="https://www.regulations.gov/">Comment on a proposed federal agency policy</a>, <a href="https://ars.apps.lara.state.mi.us/">Comment on a proposed state agency policy</a> (sort by Filing Date to see pending rules), Recommend a course of action to one of <a href="https://www.usa.gov/elected-officials">your elected representatives</a> )</p>
 <section id="find-your-voice---15-of-final-grade" class="level3">
 <h3 class="anchored" data-anchor-id="find-your-voice---15-of-final-grade">Find your voice - 15% of final grade</h3>
 <ul>
 <li>Week 1: Introduce yourself to the class—e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means—feel free to be creative (1%)</li>
 <li>Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
-<li>Week 3: Ten op-ed-style headlines (in-class peer workshop) (1%) <!---COULD BE 1--></li>
-<li>Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) (10%)</li>
+<li>Week 3: Ten op-ed-style headlines critiquing one or more of the above organizations (in-class peer workshop) (1%) <!---COULD BE 1--></li>
+<li>Week 4:
+<ul>
+<li>Five revised headlines and the first 200 words for each (10%)</li>
+<li>an annotated bibliography for each, which do not count toward the word limit</li>
+</ul></li>
 <li>Week 5:
 <ul>
 <li>Meet with me about your op-ed ideas—<a href="https://calendar.app.google/xjdkaHSmbzbTLykr9">Sign up here</a> (part of the previous assignment grade)</li>
 <li>Civic engagement (1%)</li>
-</ul></li>
+</ul>
+<!--Reflection on either your experience with climate activism or feelings about climate change.--></li>
 <li>At some point during the first half of the semester, pitch one of your critiques to the class (2-3 minutes each). Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)</li>
 </ul>
 </section>
@@ -381,8 +447,9 @@ Tip
 <h3 class="anchored" data-anchor-id="craft-your-critique---25-of-final-grade">Craft your critique - 25% of final grade</h3>
 <ul>
 <li>Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies (9%)</li>
+<li>Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (9%)</li>
 <li>Week 7: peer critique of first 400 words (5%)</li>
-<li>Week 8: Two revised first 400 words + annotated bibliographies (10%)</li>
+<li>Week 8: Two revised first 400 words + annotated bibliographies + updated revision spreadsheets (10%)</li>
 <li>Week 9:
 <ul>
 <li>My feedback on your first 400 words</li>
@@ -407,29 +474,35 @@ Note
 </div>
 </div>
 <ul>
-<li>Week 10: One 750-800 word op-ed + annotated bibliography (10%)</li>
+<li>Week 10: One 750-800 word op-ed + annotated bibliography + updated revision spreadsheet (10%)</li>
 <li>Week 11: Peer critique of op-ed (5%)</li>
-<li>Week 12: Revised op-ed (10%)</li>
+<li>Week 12: Revised op-ed + updated revision spreadsheet (10%)</li>
 <li>Week 13:
 <ul>
-<li>My feedback on your op-ed.<br>
-</li>
+<li>My feedback on your op-ed</li>
 <li>Civic engagement post (1%)</li>
 </ul></li>
-<li>Week 14: Final due (10%)</li>
+<li>Week 14: Final due + updated revision spreadsheet (10%)</li>
 </ul>
 </section>
 </section>
 <section id="participation-24-26-class-periods-x-1-per-class---2-pass-days" class="level2">
 <h2 class="anchored" data-anchor-id="participation-24-26-class-periods-x-1-per-class---2-pass-days">Participation 24% (26 class periods X 1% per class - 2 pass days)</h2>
 <ul>
-<li>Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.</li>
+<li>Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-150 words and include a brief summary of (1) Your understanding of the author’s main argument, (2) What you think about that argument, AND (3) A question <em>about the reading(s)</em> that merits further discussion. <!--TODO See my [guide for crafting a good discussion question]().--></li>
 <li>Participate in class discussion. Attendance is required. You must let me know <em>ahead of time</em> if you must miss.</li>
 <li>Summarize the discussion questions posed on Canvas for two classes (1-3 minutes)</li>
 <li>Summarize what we have learned and how we have refined the points of debate at the end of two classes (1-3 minutes)</li>
 </ul>
 <p><a href="https://calendar.app.google/xjdkaHSmbzbTLykr9">Sign up to summarize questions or what we learned here.</a></p>
 <p>You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don’t want me to call you into the conversation, just let me know ahead of time.</p>
+<p>Pass days will initially appear as “0” on Canvas, but I will adjust participation points when I calculate your final scores in Canvas.</p>
+<p>Beyond your two pass days, I allow you to make up two additional days:</p>
+<ul>
+<li>If you know that you will miss class, write a 1-page reflection on the readings and share it with the class <strong>at least 1 hour ahead of class time</strong></li>
+<li>If you unexpectedly miss class, write a 1-page reflection on the readings <strong>AND schedule a time to discuss the readings with me</strong> (ideally, during office hours)</li>
+</ul>
+<p>Beyond four missed classes (two passes, two make-ups), I only allow make-ups in extenuating circumstances. Participation is core part of this class and the entire class is deprived of your perspective when you are not with us.</p>
 <section id="late-submissions" class="level3">
 <h3 class="anchored" data-anchor-id="late-submissions">Late Submissions</h3>
 <p>Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option.</p>
@@ -488,9 +561,21 @@ Note
 </ul>
 </section>
 </section>
+<section id="background-on-climate-science" class="level2">
+<h2 class="anchored" data-anchor-id="background-on-climate-science">Background on Climate Science</h2>
+<p>Climate Change 101</p>
+<ul>
+<li>A short explainer in simple language from IPCC authors: <a href="https://kids.frontiersin.org/articles/10.3389/frym.2024.1343809">We Are Not on Track: Greenhouse Gas Emissions Are Higher Than Ever!</a></li>
+</ul>
+<p>Assessments of the Science:</p>
+<ul>
+<li><a href="https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming/">Analysis: How well have climate models projected global warming?</a></li>
+</ul>
+</section>
 </section>
 <section id="reading-by-week" class="level1">
 <h1>📖 Reading by Week</h1>
+<p>I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation (see weeks on justice, markets, nationalism, and movements).</p>
 <p>🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don’t need to keep listening.</p>
 <p>If you hit a paywall on a link from the syllabus:</p>
 <ol type="1">
@@ -498,7 +583,7 @@ Note
 </li>
 <li>Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.<br>
 </li>
-<li>If 1 &amp; 2 don’t work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don’t pop up for me because of some cached credentials, and I don’t realize that the content is paywalled. You should not have to pay for any of the online content for this course.</li>
+<li>If 1 &amp; 2 don’t work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don’t pop up for me because of some cached credentials, and I don’t realize that the content is paywalled. You should not pay for any of the online content for this course.</li>
 </ol>
 <p>There are many “further” readings, and some required readings (especially the longer academic articles) say “skim.” Here is advice on <a href="https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf">how to read political science from Amelia Hoover Green</a> and <a href="https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia">how to skim from Jessica Calarco</a>.</p>
 <p>There are some questions we will ask of every reading:</p>
@@ -521,6 +606,9 @@ Note
 <p><a href="https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c"><em>But the Greatest of These is Love</em> - Mary Annaïse Heglar (Medium, 2019)</a> <code>(Canvas)</code></p>
 </blockquote>
 <blockquote class="blockquote">
+<p><a href="https://www.wired.com/story/what-you-can-do-solve-climate-change/"><em>We Can’t Tackle Climate Change Without You: It’s time to make a commitment to do more for the climate. Do what you’re good at, and do your best.</em> - Mary Annaïse Heglar (Wired, 2020)</a></p>
+</blockquote>
+<blockquote class="blockquote">
 <p>Please read <mark> the entire syllabus</mark> before class—this is your chance to ask questions about the assignments and readings.</p>
 </blockquote>
 <!--
@@ -537,12 +625,12 @@ Further reading:
 </blockquote>
 <section id="tuesday-the-state-of-us-climate-policy" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday-the-state-of-us-climate-policy">Tuesday: The State of US Climate Policy:</h3>
-<p>Note: This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann’s critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.</p>
+<p>This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann’s critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.</p>
 <blockquote class="blockquote">
 <p><a href="https://scholars.org/podcast/climate-health-care-and-irs">Interview with Matto Mildenberger (SSN, 2023)</a> (minutes 2-13) 🎧</p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://www.volts.wtf/p/an-insiders-view-of-the-biden-years">An insider’s view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)</a> (minutes 1-54) 🎧</p>
+<p><a href="https://www.volts.wtf/p/an-insiders-view-of-the-biden-years">An insider’s view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)</a> (minutes 1-54) 🎧 OR <a href="https://www.volts.wtf/p/getting-ready-for-ira-2">Getting ready for IRA 2: A conversation with Costa Samaras.</a> (minutes 1-68) 🎧</p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics">Climate Bidenomics by Alyssa Battistoni and Geoff Mann in <em>New Left Review</em></a> (5 pages)</p>
@@ -551,10 +639,13 @@ Further reading:
 <p><a href="https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/">2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)</a> (35 min) 🎧</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>All We Can Save: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)</p>
+<p><em>All We Can Save</em>: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)</p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://www.volts.wtf/p/the-farm-bill-is-the-most-important">The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)</a> (59 min) 🎧</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><a href="https://www.climateandcommunity.org/gnd-for-public-housing-2024">The Case for a Green New Deal for Public Housing, Executive Summary by Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch</a> (4 pages)</p>
 </blockquote>
 <blockquote class="blockquote">
 <p>Skim: <a href="https://www.congress.gov/bill/117th-congress/house-bill/3039">Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct</a></p>
@@ -623,7 +714,7 @@ Further reading:
 <p>“In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons.” (Purdy, p.&nbsp;21)</p>
 </blockquote>
 <section id="tuesday-world-views" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-world-views">Tuesday: World Views</h3>
+<h3 class="anchored" data-anchor-id="tuesday-world-views">Tuesday: World Views:</h3>
 <ul>
 <li>What is the “Anthropocene challenge” as described by Purdy?</li>
 <li>What does Purdy mean by politics and anti-politics? What are some examples?</li>
@@ -638,7 +729,7 @@ Further reading:
 </blockquote>
 </section>
 <section id="thursday-public-opinion" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-public-opinion">Thursday: Public Opinion</h3>
+<h3 class="anchored" data-anchor-id="thursday-public-opinion">Thursday: Public Opinion:</h3>
 <ul>
 <li>How has public opinion on climate change shifted since 2017?</li>
 <li>What kinds of questions do public opinion researchers ask? What don’t they seem to ask?</li>
@@ -658,9 +749,15 @@ Further reading:
 <blockquote class="blockquote">
 <p>Skim: <a href="https://doi.org/10.1017/S0003055422000223">Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. “Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies.” <em>American Political Science Review</em> (2022): 1-19.</a> via <a href="https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845">the library</a></p>
 </blockquote>
+<blockquote class="blockquote">
+<p>Skim: <a href="https://doi.org/10.1371/journal.pone.0300048">Climate change belief systems across political groups in the United States by Sanguk Lee, Matthew H. Goldberg, Seth A. Rosenthal, Edward W. Maibach, John E. Kotcher, and Anthony Leiserowitz. <em>PLOS ONE</em> (2024)</a></p>
+</blockquote>
 <p>Further Readings:</p>
 <ul>
-<li>Mildenberger, M. and D. Tingley (2019). Beliefs about climate beliefs: The importance of second-order opinions for climate politics. British Journal of Political Science 49(4), 1279–1307.</li>
+<li><p>Mildenberger, M. and D. Tingley (2019). Beliefs about climate beliefs: The importance of second-order opinions for climate politics. British Journal of Political Science 49(4), 1279–1307.</p></li>
+<li><p><a href="https://www.nature.com/articles/s41599-020-00574-z">“Optimistic vs.&nbsp;pessimistic endings in climate change appeals” in <em>Nature</em> by Brandi S. Morris, Polymeros Chrysochou, Simon T. Karg &amp; Panagiotis Mitkidis</a></p></li>
+<li><p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2397818">“Climate Change: Leveraging Legacy” Vanderbilt Law and Economics Research Paper No.&nbsp;14-7 2014 by Michael P. Vandenbergh and Kaitlin Raimi</a></p></li>
+<li><p><a href="https://alexgaz.scholar.princeton.edu/sites/g/files/toruqf4651/files/documents/Future.pdf">“Valuing the Future: Changing Time Horizons and Policy Preferences” by Alexander F. Gazmararian</a></p></li>
 </ul>
 <!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
@@ -694,10 +791,10 @@ https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d
 </section>
 <section id="week-4-god-and-nature" class="level2">
 <h2 class="anchored" data-anchor-id="week-4-god-and-nature">Week 4: God and Nature</h2>
+<p>The religious, colonial, and mystic foundations of Western environmental law and politics:</p>
 <blockquote class="blockquote">
 <p>“The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke’s insistence that”God wants us to do something” and that nature revealed the intended tasks…And for the Romantics who created the Sierra Club, nature’s beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there—and look.” (Purdy, p.&nbsp;199)</p>
 </blockquote>
-<p>The religious, colonial, and mystic foundations of Western environmental law and politics:</p>
 <section id="tuesday" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday">Tuesday</h3>
 <blockquote class="blockquote">
@@ -720,6 +817,9 @@ Aesthetics-->
 </section>
 <section id="week-5-justice" class="level2">
 <h2 class="anchored" data-anchor-id="week-5-justice">Week 5: Justice</h2>
+<blockquote class="blockquote">
+<p>People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p.&nbsp;1)</p>
+</blockquote>
 <ul>
 <li>What are some of the different ways environmental justice is defined?</li>
 <li>Where did these ideas come from?</li>
@@ -729,10 +829,10 @@ Aesthetics-->
 <section id="tuesday-1" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday-1">Tuesday</h3>
 <blockquote class="blockquote">
-<p><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514">“Three faces of climate justice”, <em>Annual Review of Political Science</em> (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301</a> (14 pages)</p>
+<p><a href="https://doi.org/10.2737/PNW-GTR-534">“Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534” (2002) by Dorceta Taylor</a> <!--could also go under movements--> (1-41)</p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://doi.org/10.2737/PNW-GTR-534">“Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534” (2002) by Dorceta Taylor</a> <!--could also go under movements--> (1-41)</p>
+<p><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514">“Three faces of climate justice”, <em>Annual Review of Political Science</em> (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301</a> (14 pages)</p>
 </blockquote>
 </section>
 <section id="thursday-1" class="level3">
@@ -745,8 +845,8 @@ Aesthetics-->
 </blockquote>
 <p>Further reading:</p>
 <ul>
-<li><p><a href="https://www.amacad.org/publication/racism-motivator-climate-justice">Racism as a Motivator for Climate Justice, Mark A. Mitchell, <em>Daedalus</em> Fall 2020</a></p></li>
 <li><p><a href="https://scholars.org/podcast/fight-climate-justice">The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)</a> (31 min) 🎧</p></li>
+<li><p><a href="https://www.amacad.org/publication/racism-motivator-climate-justice">Racism as a Motivator for Climate Justice, Mark A. Mitchell, <em>Daedalus</em> Fall 2020</a></p></li>
 <li><p><a href="https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/">Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)</a> (32 min) 🎧</p></li>
 <li><p>Bullard, R. D. (2005). <em>The quest for environmental justice: Human rights and the politics of pollution</em></p></li>
 <li><p><a href="https://www.volts.wtf/p/putting-more-climate-philanthropy">Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)</a> (48 min) 🎧</p></li>
@@ -786,6 +886,7 @@ Aesthetics-->
 <li><p><a href="https://www.volts.wtf/p/decarbonizing-us-transportation-with">Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium</a> 🎧</p></li>
 <li><p><a href="https://www.volts.wtf/p/learning-curves-will-lead-to-extremely">Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research</a> 🎧</p></li>
 <li><p><a href="https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/">Engineering Earth’s Climate?</a> 🎥</p></li>
+<li><p><a href="https://www.nytimes.com/2024/04/05/podcasts/the-daily/engineering-climate-change.html">An Engineering Experiment to Cool the Earth: A new technology is attempting to brighten clouds and bounce some of the sun’s rays back into space.</a> 🎧</p></li>
 <li><p><a href="https://www.volts.wtf/p/how-to-think-about-solar-radiation">How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining</a> 🎧</p></li>
 <li><p>Michael B. Gerrard, Introduction and Overview, in Climate Engineering and the Law: Regulation and Liability for Solar Radiation Management and Carbon Dioxide Removal (Gerrard &amp; Hester, eds.&nbsp;2019)</p></li>
 <li><p>Chapter 5, <em>Ethics and Politics</em> in <em>A Case for Climate Engineering</em> by David Keith <code>(Canvas)</code></p></li>
@@ -803,8 +904,13 @@ Aesthetics-->
 <blockquote class="blockquote">
 <p>“It is a curious feature of environmental politics…that its rhetorical fidelity to the past can trick an observer into overlooking how innovative it is…In this respect, environmental politics resembles many religious traditions and the constitutional politics of the United States.” (Purdy, p.&nbsp;194)</p>
 </blockquote>
+<!--
+> "Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age." (Purdy, p. 227)-->
 <blockquote class="blockquote">
-<p>“Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age.” (Purdy, p.&nbsp;227)</p>
+<p>“Environmental policymaking is a choice among futures.” (Purdy, p.&nbsp;264)</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice.” (Purdy, p.&nbsp;266)</p>
 </blockquote>
 <section id="tuesday-2" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday-2">Tuesday</h3>
@@ -815,7 +921,7 @@ Aesthetics-->
 <section id="thursday-2" class="level3">
 <h3 class="anchored" data-anchor-id="thursday-2">Thursday</h3>
 <blockquote class="blockquote">
-<p>Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)</p>
+<p>Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs.&nbsp;post-humanist debates (e.g., animal rights)</p>
 </blockquote>
 <p>Further reading:</p>
 <ul>
@@ -829,29 +935,72 @@ Aesthetics-->
 <h2 class="anchored" data-anchor-id="week-8-indigenous-and-feminist-critiques">Week 8: Indigenous and Feminist Critiques</h2>
 <section id="tuesday-indigenous-critique" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday-indigenous-critique">Tuesday: Indigenous Critique</h3>
-<blockquote class="blockquote">
-<p><a href="https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&amp;id=73&amp;collection=journals&amp;index=">Andrea Tunks, “Tangata Whenua Ethics and Climate Change”</a></p>
-</blockquote>
+<ul>
+<li>What is the indigenous critique?</li>
+<li>In the context of renewable energy siting?</li>
+<li>In the context of adaptation?</li>
+<li>In the context of greenhouse gas emissions?</li>
+<li>Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations?</li>
+<li>“Indigenous lands” are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence.</li>
+<li>What are the implications of expanding or shrinking indigenous governance for addressing climate change?</li>
+<li>Conversely, what are the implications of various climate policies for indigenous governance?</li>
+</ul>
 <blockquote class="blockquote">
 <p><a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte">Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in <em>Environmental Justice in North America</em></a></p>
 </blockquote>
 <blockquote class="blockquote">
-<p>More TBD (including selections from <em>All We Can Save</em>)</p>
+<p><a href="https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&amp;id=73&amp;collection=journals&amp;index=">Andrea Tunks, “Tangata Whenua Ethics and Climate Change”</a></p>
 </blockquote>
+<!--
+> More TBD (including selections from *All We Can Save*)
+-->
 <p>Further reading:</p>
 <ul>
 <li><p><a href="https://nca2023.globalchange.gov/chapter/16/">Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.</a></p></li>
 <li><p><a href="https://www.science.org/doi/10.1126/science.abe4943">“Effects of land dispossession and forced migration on Indigenous peoples in North America” by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in <em>Science</em></a></p></li>
 </ul>
 </section>
-<section id="thursday-eco-feminist-critique" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-eco-feminist-critique">Thursday: Eco-feminist Critique</h3>
+<section id="thursday-ecofeminist-critique" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-ecofeminist-critique">Thursday: Ecofeminist Critique</h3>
+<p>Battistoni asks if it is possible to increase people’s quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications.</p>
 <blockquote class="blockquote">
-<p><a href="https://jacobin.com/2014/01/alive-in-the-sunshine">“Alive in the Sunshine” by Alyssa Battistoni</a></p>
+<p>“Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free…As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor.” (Battistoni, <em>Alive in the Sunshine</em>)</p>
 </blockquote>
+<ul>
+<li>What is the ecofeminist critique? Specifically, what is the argument about reproductive work? What are the implications of this argument for climate policy?</li>
+<li>In “A Green New Deal for Care,” what does Battistoni mean when she says that “pink-collar jobs are green jobs?”</li>
+<li>In “Alive in the Sunshine,” Battistoni presents two ways of seeing the movement for Payment for Ecosystem Services. What are their ideological roots? What are the implications of each for climate policy?</li>
+</ul>
+<p>Background on ecofeminism:</p>
+<ul>
+<li><a href="https://www.teenvogue.com/story/intersectional-environmentalist-ecofeminism">“Ecofeminism explains how patriarchy has contributed to the climate crisis” by Leah Thomas</a></li>
+</ul>
+<p>Policy implications of valuing care work:</p>
 <blockquote class="blockquote">
-<p>More TBD (including selections from <em>All We Can Save</em>)</p>
+<p><a href="https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en">“A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction”</a> <strong>OR</strong> <a href="https://jacobin.com/2014/01/alive-in-the-sunshine">“Alive in the Sunshine”</a> by Alyssa Battistoni</p>
 </blockquote>
+<!--
+(in class?) EXERCISE: 
+https://docs.google.com/document/d/1aUXsJ1MrF2M67Lew-HP-UJHG1e1D6WlrjpdKCLBVz6s/edit
+
+> More TBD (including selections from *All We Can Save*)
+-->
+<p>Further reading:</p>
+<ul>
+<li><a href="https://www.teenvogue.com/story/climate-activists-explain-why-climate-justice-movement-needs-feminism">4 Climate Activists Explain Why the Climate-Justice Movement Needs Feminism</a></li>
+</ul>
+<p>A marketing professor critiquing the War Mobilization rhetoric around climate change:</p>
+<ul>
+<li><a href="https://www.bentley.edu/news/ecofeminism-answer-climate-crisis">Is Ecofeminism the Answer to the Climate Crisis?</a> (This is also a pretty good model for an op-ed critiquing rhetoric)</li>
+</ul>
+<p>Ecofeminism as a critique of scientific rationality:</p>
+<ul>
+<li><a href="https://www.jstor.org/stable/1395330?seq=4">Review: Mies and Shiva’s “Ecofeminism”: A New Testament? by Maxine Molyneux and Deborah Lynn Steinberg, <em>Feminist Review</em>, 49</a></li>
+</ul>
+<p>Recent policy efforts:</p>
+<ul>
+<li><a href="https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html">Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.</a></li>
+</ul>
 </section>
 </section>
 <section id="week-9-nationalist-critique" class="level2">
@@ -866,9 +1015,9 @@ Military experts warn us our national security is threatened by massive waves of
 <blockquote class="blockquote">
 <p><a href="https://www.city-journal.org/article/china-is-no-climate-partner">“Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives.” by Jordan McGillis, City Journal</a> (1 page)</p>
 </blockquote>
-<ul>
-<li><a href="https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/">“The case for US cooperation with India on a just transition away from coal” by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)</a></li>
-</ul>
+<blockquote class="blockquote">
+<p><a href="https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/">“The case for US cooperation with India on a just transition away from coal” by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)</a></p>
+</blockquote>
 <p>Neo-Malthusian:</p>
 <blockquote class="blockquote">
 <p><a href="https://www.jstor.org/stable/1724745">“The Tragedy of the Commons” by Garrett Hardin in <em>Science</em>, Vol. 162, No.&nbsp;3859 (1968), p.&nbsp;1243-1248</a> (6 pages)</p>
@@ -882,8 +1031,11 @@ Military experts warn us our national security is threatened by massive waves of
 </section>
 <section id="thursday-immigration-and-ethno-nationalist-critique" class="level3">
 <h3 class="anchored" data-anchor-id="thursday-immigration-and-ethno-nationalist-critique">Thursday: Immigration and ethno-nationalist critique</h3>
+<!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
+
+- Background: Human rights perspective: -->
 <blockquote class="blockquote">
-<p><a href="https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf"><em>U.S. Immigration and the Environment</em> from the Federation for American Immigration Reform</a> (30 pages)</p>
+<p>To discuss: <a href="https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf"><em>U.S. Immigration and the Environment</em> from the Federation for American Immigration Reform</a> (30 pages)</p>
 </blockquote>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -903,23 +1055,28 @@ Warning
 <p><a href="https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration">Climate denial is waning on the right. What’s replacing it might be just as scary</a></p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley"><em>How fascism works.</em> By Sean Illing interview with Jason Stanley for Vox</a></p>
+<p><a href="https://www.thewelcometablefilm.com/">The Welcome Table</a> (minute 0-3:20)</p>
 </blockquote>
+<!--
+> [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
+-->
 <p>Further reading on climate migration:</p>
 <ul>
 <li><a href="https://www.propublica.org/article/climate-change-will-force-a-new-american-migration">Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica</a></li>
 </ul>
 <p>Further critique of neo-Malthusian ideas:</p>
-<p><a href="https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism">Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion</a> (Climate change is only discussed in the Introduction, the rest is not so relevant)</p>
+<ul>
+<li><a href="https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism">Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion</a> (Climate change is only discussed in the Introduction, the rest is not so relevant)</li>
+</ul>
 <p>Further Research:</p>
 <ul>
 <li><p><a href="https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants">Information about climate-induced migration spurs negative attitudes about immigrants by Kaitlin Raimi</a></p></li>
 <li><p><a href="https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197">‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey</a></p></li>
 <li><p><a href="https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&amp;utm_source=lib-home">The origins of totalitarianism by Hannah Arendt</a></p></li>
-<li><p><a href="10.1073/pnas.2007597117">H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.</a></p></li>
+<li><p><a href="https://www.pnas.org/doi/10.1073/pnas.2007597117">H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.</a></p></li>
 <li><p><a href="https://www.nature.com/articles/s41558-022-01401-w">H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” <em>Nature Climate Change</em>, 12, 634-641</a></p></li>
 <li><p>Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.</p></li>
-<li><p><a href="10.1007/s10584-021-03133-w">H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)</a></p></li>
+<li><p><a href="https://link.springer.com/article/10.1007/s10584-021-03133-w">H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)</a></p></li>
 </ul>
 </section>
 </section>
@@ -932,7 +1089,7 @@ Warning
 <h3 class="anchored" data-anchor-id="tuesday-governance">Tuesday: Governance</h3>
 <p>Collective action</p>
 <blockquote class="blockquote">
-<p>Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. <em>American Economic Review</em>, 100(3), 641-72.</p>
+<p><a href="https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641">Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. <em>American Economic Review</em>, 100(3), 641-72.</a></p>
 </blockquote>
 <p>Governing institutions</p>
 <blockquote class="blockquote">
@@ -958,14 +1115,14 @@ Warning
 <p><a href="https://www.volts.wtf/p/the-wonky-but-incredibly-important">The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman</a> 🎧</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Selections (TBD) from <a href="https://www.project2025.org/playbook/">The The Heritage Foundation’s <em>Mandate for Leadership: The Conservative Promise</em></a> that address climate change</p>
+<p>SKIM: Selections from <a href="https://www.project2025.org/playbook/">The The Heritage Foundation’s <em>Mandate for Leadership: The Conservative Promise</em></a> that address climate change <code>(Canvas)</code></p>
 </blockquote>
 <ul>
-<li>As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation’s plan different?</li>
+<li>As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation’s plan similar or different?</li>
 </ul>
 <p>Electoral institutions:</p>
 <blockquote class="blockquote">
-<p>Skim: <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66">“Legislative Staff and Representation in Congress” by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. <em>The American Political Science Review</em></a></p>
+<p>Skim: <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66">“Legislative Staff and Representation in Congress” by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. <em>The American Political Science Review</em></a>;</p>
 </blockquote>
 <blockquote class="blockquote">
 <p>Skim: <a href="https://doi.org/10.1177/00104140211047416">“Institutions, Climate Change, and the Foundations of Long-term Policymaking.” Finnegan, Jared, 2022 <em>Comparative Political Studies</em>.</a></p>
@@ -986,10 +1143,10 @@ Warning
 <li>To what extent have climate movements been effective, and why?</li>
 <li>To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true?</li>
 </ul>
-<section id="tuesday-structure" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-structure">Tuesday: Structure</h3>
+<section id="tuesday-opportunity-structure-and-mobilizing-structures" class="level3">
+<h3 class="anchored" data-anchor-id="tuesday-opportunity-structure-and-mobilizing-structures">Tuesday: Opportunity Structure and Mobilizing Structures</h3>
 <blockquote class="blockquote">
-<p>McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” <em>Annual Review of Political Science</em> 20:189–2008</p>
+<p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801">McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” <em>Annual Review of Political Science</em> 20:189–2008</a> (189-199)</p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://www.volts.wtf/p/building-a-movement-that-can-take">Building a movement that can take full advantage of the IRA</a> 🎧</p>
@@ -998,14 +1155,17 @@ Warning
 <p><a href="https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb">What the Hell Is Going On at the Sierra Club? by Kate Aronoff</a></p>
 </blockquote>
 </section>
-<section id="thursday-issue-frames" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-issue-frames">Thursday: Issue frames</h3>
+<section id="thursday-issue-framing" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-issue-framing">Thursday: Issue framing</h3>
+<blockquote class="blockquote">
+<p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801">McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” <em>Annual Review of Political Science</em> 20:189–2008</a> (Pgs. 199-205)</p>
+</blockquote>
 <blockquote class="blockquote">
 <p><a href="https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&amp;lang=en&amp;">Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.</a> <code>(Canvas)</code></p>
 </blockquote>
 <p>Further reading:</p>
 <ul>
-<li><p><a href="https://www.politicalclimatepodcast.com/episodes/episode/22949545/generation-green-new-deal-the-pelosi-sit-in">Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)</a></p></li>
+<li><p><a href="https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in">Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)</a></p></li>
 <li><p><a href="https://www.volts.wtf/p/how-climate-activists-can-help-get">How climate activists can help get things built: A conversation with Jeff Ordower of 350.org</a> 🎧</p></li>
 <li><p><a href="https://scholars.org/podcast/real-culprits-climate-change">The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)</a></p></li>
 </ul>
@@ -1015,41 +1175,55 @@ Warning
 <h2 class="anchored" data-anchor-id="week-12-markets">Week 12: Markets</h2>
 <!--TBD QUESTIONS-->
 <section id="tuesday-new-keynesian-neoliberal-and-libertarian-economics" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics</h3>
+<h3 class="anchored" data-anchor-id="tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics:</h3>
+<ul>
+<li>What would Hayek say about
+<ol type="1">
+<li>A central plan for apartment building heating?</li>
+<li>A fee for high-polluters? (the current policy)</li>
+<li>Tradable emissions credits? (as Ketcham &amp; McGillis propose)</li>
+</ol></li>
+<li>What information would city officials and building managers need in each scenario?</li>
+</ul>
 <blockquote class="blockquote">
-<p><a href="https://www.econlib.org/library/Enc/Information.html">“Information” by Joseph E. Stiglitz</a> (7 pages)</p>
+<p><a href="https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details">Elizabeth Popp Berman on the “economic style of thinking” that consumed US policy</a> 🎧 <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
+--></p>
 </blockquote>
+<!--
+> ["Information" by Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html) (7 pages)-->
 <blockquote class="blockquote">
 <p><a href="https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader">“The Use of Knowledge in Society” By Friedrich A. Hayek in <em>American Economic Review</em></a> (11 pages)</p>
 </blockquote>
 <blockquote class="blockquote">
 <p><a href="https://www.city-journal.org/article/gothams-airheaded-carbon-law">Gotham’s Airheaded Carbon Law</a> (9 pages)</p>
 </blockquote>
-<p>Research:</p>
+</section>
+<section id="thursday-carbon-markets-and-pricing" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-carbon-markets-and-pricing">Thursday: Carbon markets and pricing:</h3>
 <blockquote class="blockquote">
 <p><a href="https://scholars.org/contribution/building-political-support-carbon-pricing">Building Political Support for Carbon Pricing</a> (2 pages) and <a href="https://scholars.org/podcast/paying-pollution">Paying for Pollution by Leigh Raymond</a> (22 min) 🎧</p>
 </blockquote>
-</section>
-<section id="thursday-market-critics" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-market-critics">Thursday: Market critics</h3>
 <blockquote class="blockquote">
-<p><a href="https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details">Elizabeth Popp Berman on the “economic style of thinking” that consumed US policy</a> 🎧 OR <a href="https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist">Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)</a> <code>(Canvas)</code></p>
+<p><a href="https://fordschool.umich.edu/news/2023/exploring-carbon-pricing-and-carbon-border-adjustments">“Exploring Carbon Pricing and Carbon Border Adjustments” on Michigan Minds</a></p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/">Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”</a></p>
-</blockquote>
-<p>Criticism of the critics:</p>
-<blockquote class="blockquote">
-<p><a href="https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist">The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )</a></p>
-</blockquote>
-<blockquote class="blockquote">
-<p><a href="https://kpfa.org/player/?audio=399010">Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn’t think so.</a> (minutes 6:10-44:55)🎧</p>
+<p><a href="https://www.wilsoncenter.org/article/carbon-pricing-enters-middle-age">“Carbon Pricing Enters Middle Age” by Barry Rabe (Wilson Center, 2023)</a></p>
 </blockquote>
 <p>Further reading:</p>
 <ul>
+<li><p><a href="https://direct.mit.edu/books/monograph/3584/Can-We-Price-Carbon">Can We Price Carbon? MIT Press (2018), Chapter 3, by Barry Rabe</a> also available via <a href="https://muse.jhu.edu/book/58688">muse</a> and <a href="https://ebookcentral.proquest.com/lib/umichigan/detail.action?pq-origsite=primo&amp;docID=5351324">proquest</a></p></li>
 <li><p><a href="https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details">Subsidies really do matter to the US oil &amp; gas industry</a> 🎧</p></li>
-<li><p>Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.</p></li>
+<li><p><a href="https://www.pnas.org/doi/10.1073/pnas.1006388108">“Growth in emission transfers via international trade from 1990 to 2008” by Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. <em>Proceedings of the National Academy of Sciences (PNAS)</em> 108(21):8903–8908.</a></p></li>
 <li><p><a href="https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed">Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm</a> 🎧</p></li>
+</ul>
+<p>Market critics:</p>
+<ul>
+<li><p><a href="https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/">“The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”</a></p></li>
+<li><p><a href="https://kpfa.org/player/?audio=399010">Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn’t think so.</a> (minutes 6:10-44:55)🎧</p></li>
+</ul>
+<p>Criticism of the critics:</p>
+<ul>
+<li><a href="https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist">The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )</a></li>
 </ul>
 </section>
 </section>
@@ -1058,17 +1232,21 @@ Warning
 <p>…as a force explaining action and inaction.</p>
 <ul>
 <li>Why are groups effective at shaping policy?</li>
-<li>What industries will lose from climate policies, and could they pivot? <!--- Identify examples of “odd bed-fellows”--></li>
+<li>Which industries will lose from which climate policies? Could they pivot? <!--- Identify examples of “odd bed-fellows”--></li>
 <li>What industries have most effectively obstructed policy? How do they work with/against political actors?</li>
 </ul>
 <section id="tuesday-the-global-political-economy-of-climate-policy" class="level3">
 <h3 class="anchored" data-anchor-id="tuesday-the-global-political-economy-of-climate-policy">Tuesday: The global political economy of climate policy:</h3>
 <blockquote class="blockquote">
-<p>Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” <em>International Organization</em></p>
+<p>Skim: <a href="https://doi.org/10.1017/S0020818320000296">Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” <em>International Organization</em></a></p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” <em>Global Environmental Politics</em> 20(4): 4-27.</p>
+<p>Skim: <a href="https://doi.org/10.1162/glep_a_00578">Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” <em>Global Environmental Politics</em> 20(4): 4-27.</a></p>
 </blockquote>
+<p>Further reading:</p>
+<ul>
+<li><a href="https://doi.org/10.1017/S0020818320000107"><em>The Enemy of My Enemy: When Firms Support Climate Change Regulation</em> (2020) by Amanda Kennard</a></li>
+</ul>
 </section>
 <section id="thursday-us-political-economy-of-climate-policy" class="level3">
 <h3 class="anchored" data-anchor-id="thursday-us-political-economy-of-climate-policy">Thursday: US political economy of climate policy:</h3>
@@ -1113,14 +1291,19 @@ Learning Objectives
 
 
 -->
+<section id="tuesday-3" class="level3">
+<h3 class="anchored" data-anchor-id="tuesday-3">Tuesday:</h3>
 <blockquote class="blockquote">
 <p><a href="https://kpfa.org/player/?audio=365879">Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.</a> 🎧 at 34:00-57:00</p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="http://pegasusbooks.com/books/charleston-9781639363575-hardcover"><em>Charleston: Race, Water, and the Coming Storm</em> by Susan Crawford (Select Chapters TBD)</a> <code>(Canvas)</code></p>
-</blockquote>
-<blockquote class="blockquote">
 <p><a href="https://www.volts.wtf/p/minnesota-forces-transportation-planners#details">Minnesota forces transportation planners to take climate change seriously</a> 🎧</p>
+</blockquote>
+</section>
+<section id="thursday-3" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-3">Thursday:</h3>
+<blockquote class="blockquote">
+<p><a href="http://pegasusbooks.com/books/charleston-9781639363575-hardcover"><em>Charleston: Race, Water, and the Coming Storm</em> by Susan Crawford (Chapters 1 and 10)</a> <code>(Canvas)</code></p>
 </blockquote>
 <p>Further reading:</p>
 <ul>
@@ -1133,6 +1316,7 @@ Learning Objectives
 <li><p><a href="https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform">What’s up with Manchin’s plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it’s a bad deal</a> 🎧</p></li>
 <li><p><a href="https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable">Charles Marohn on unsustainable suburbs: They can’t pay for themselves</a> 🎧</p></li>
 </ul>
+</section>
 </section>
 <section id="week-15-reflection" class="level2">
 <h2 class="anchored" data-anchor-id="week-15-reflection">Week 15: Reflection</h2>
@@ -1287,6 +1471,10 @@ https://tipofthesphere.substack.com/p/climate-security-bookshelf
 Burke, M., González, F., Baylis, P., Heft-Neal, S., Baysan, C., Basu, S., & Hsiang, S. (2018). Higher temperatures increase suicide rates in the United States and Mexico. Nature Climate Change, 8(8), 723-729.
 
 
+World in the making: On the global visual politics of climate engineering (2023)
+Ann-Kathrin Benner  and Delf Rothe
+https://www.cambridge.org/core/journals/review-of-international-studies/article/world-in-the-making-on-the-global-visual-politics-of-climate-engineering/276476FAE0FA1C5993251C36216A01D2
+
 --->
 <hr>
 <!--exclude: true-->
@@ -1395,10 +1583,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1408,8 +1613,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1421,7 +1635,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1465,6 +1802,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1490,6 +1828,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1550,6 +1914,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

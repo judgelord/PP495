@@ -1,0 +1,438 @@
+---
+title: "PubPol 475.011 <br> Politics for the Anthropocene"
+subtitle: "2024"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   # background-opacity: 0.2
+   # background-image: "earthrise_vis_1092_lrg.png"
+   # data-background-image: /path/to/title_image.png
+   # data-background-size: cover
+   # data-background-opacity: "0.2"
+   # background-image-size: "cover"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+## Questions {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+### - What facts or arguments stuck with you? 
+
+### - What surprised you? 
+
+### - How has your thinking changed? 
+
+### - What connections do you see between your op-eds and the readings?
+
+### - If you could waive a magic wand and change one thing? 
+
+
+
+
+## 1: Hope {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+...in an unequal and chaotic world.
+
+
+[*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
+
+[*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
+
+[*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
+
+
+
+
+<!--
+Further reading: 
+
+[Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
+--> 
+
+## 2: Policy {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+> "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
+
+
+The State of US Climate Policy: 
+
+
+[Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
+
+[An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
+OR 
+[Getting ready for IRA 2: A conversation with Costa Samaras.](https://www.volts.wtf/p/getting-ready-for-ira-2) (minutes 1-68) 🎧 
+
+[Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
+
+[2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
+
+*All We Can Save*: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)
+
+[The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) (59 min) 🎧
+
+[The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024) (4 pages)
+
+[Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
+
+[Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
+
+[H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
+
+- <https://energyinnovationact.org/>
+[Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
+
+<!-- More summaries of US policy TBD --> 
+
+The State of Michigan Climate Policy
+
+[Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
+
+[Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
+
+The State of Ann Arbor Climate Policy:
+
+[Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
+
+
+# How we got here  {background-opacity="0.5" background-image="earthrise_vis_1092_lrg.png"}
+
+## 3: Politics {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+...in the Anthropocene
+
+
+World Views:
+
+- What is the "Anthropocene challenge" as described by Purdy? 
+- What does Purdy mean by politics and anti-politics? What are some examples? 
+
+> "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
+
+Purdy, Prologue and Introduction (1-50)
+
+- What does Buck mean by the "constructive ambiguity" of net zero? 
+- Purdy discusses several forms of environmental imagination/ideology that shaped US environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? What parallels do you see in the history of US environmental policy?
+
+
+[The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
+
+Public Opinion:
+
+- How has public opinion on climate change shifted since 2017? 
+- What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
+
+[Global Warming’s Six Americas, Fall 2023](https://climatecommunication.yale.edu/publications/global-warmings-six-americas-fall-2023/) (1 page)
+
+- Explore the data: [climatecommunication.yale.edu](https://climatecommunication.yale.edu/visualizations-data/americans-climate-views/)
+
+["Which Republicans are worried about global warming?" By Matthew Ballew, Jennifer Carman, Seth Rosenthal, Marija Verner, John Kotcher, Edward Maibach, and Anthony Leiserowitz](https://climatecommunication.yale.edu/publications/republicans-worried-about-global-warming/) (5 pages)
+
+["Climate Change: US Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
+
+
+
+[Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223) via [the library](https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845)
+
+[Climate change belief systems across political groups in the United States by Sanguk Lee, Matthew H. Goldberg, Seth A. Rosenthal, Edward W. Maibach, John E. Kotcher, and Anthony Leiserowitz. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0300048)
+
+
+
+## 4: God and Nature {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+The religious, colonial, and mystic foundations of Western environmental law and politics: 
+
+
+> "The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke's insistence that  "God wants us to do something" and that nature revealed the intended tasks...And for the Romantics who created the Sierra Club, nature's beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there---and look." (Purdy, p. 199)
+
+
+
+
+Purdy, Chapter 1: An Unequal Terrain (51-70) and Chapter 2: God's Avid Gardeners (70-95) 
+
+ 
+
+Purdy, Chapter 4: Natural Utopias (116-152)
+
+
+All We Can Save: Greens Are Just as Good as Kale by Heather McTeer Toney
+
+<!--## Nature as Teacher
+
+Aesthetics--> 
+
+## 5: Justice  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
+
+
+["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
+
+[“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
+
+[*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
+
+[Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/)
+
+
+## 6: Utilitarianism and Technology {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+> "For the conservationists of the Progressive ers, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
+
+- How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
+- What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
+
+Utilitarianism and managerialism: 
+
+Purdy, Chapter 5: A Conservationist Empire (153-187)
+
+
+Learning curves: 
+
+[*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧 
+
+Climate engineering: 
+
+[After Geoengineering: Climate Tragedy, Repair, and Restoration
+By Holly Jean Buck](https://books.google.com/books?id=0TOGDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false) Introduction (pages 1-49, most importantly 24-28, 34-38, and 40-43)
+
+*All We Can Save: A Handful of Dust* by Kate Marvel 
+
+
+## 7: Ecological Critique  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+> "The Wilderness Society is, philosophically, a disclaimer of the biotic arrogance of *homo americanus*." (Leopold, cited in Purdy, p. 192)
+
+> "It is a curious feature of environmental politics...that its rhetorical fidelity to the past can trick an observer into overlooking how innovative it is...In this respect, environmental politics resembles many religious traditions and the constitutional politics of the United States." (Purdy, p. 194) 
+
+<!--
+> "Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age." (Purdy, p. 227)--> 
+
+
+
+
+
+
+
+Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
+
+
+
+Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
+
+# Where we might go next   {background-opacity="0.5" background-image="earthrise_vis_1092_lrg.png"}
+
+## 8: Indigenous Critique  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+- What is the indigenous critique? 
+  - In the context of renewable energy siting? 
+  - In the context of adaptation?
+  - In the context of greenhouse gas emissions? 
+- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
+  - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+  - Conversely, what are the implications of various climate policies for indigenous governance?
+
+
+[Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
+[Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
+
+
+
+## 8:  Feminist Critiques   {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications. 
+
+- What is the ecofeminist critique? Specifically, what is the argument about reproductive work? What are the implications of this argument for climate policy? 
+- In "A Green New Deal for Care," what does Battistoni mean when she says that "pink-collar jobs are green jobs?" 
+- In "Alive in the Sunshine," Battistoni presents two ways of seeing the movement for Payment for Ecosystem Services. What are their ideological roots? What are the implications of each for climate policy? 
+
+> "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
+
+Policy implications of valuing care work:
+
+["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) **OR** ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
+
+
+
+
+## 9: Nationalist Critiques {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+<!--QUESTIONS TBD--> 
+
+<!--Blood and Soil
+
+Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
+
+Great power competition:
+
+["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
+
+["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
+
+Neo-Malthusian environmentalism: 
+
+["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+
+["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+
+["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) 
+
+
+[*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
+
+[Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+
+
+
+
+
+
+##  10: Institutions  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
+
+
+Collective action:
+
+[Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
+
+Governing institutions:
+
+*Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)` 
+
+- What is Unger's critique of deep structure theorists (e.g., Marx)? 
+- What is Unger's critique of modern social science? 
+- Why does Unger think that debates among critics and defenders of capitalism are incoherent? 
+-  What does Unger mean by the "plasticity" of institutions? 
+
+["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
+
+
+##  10: Institutions  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+Regulation:
+
+[The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
+
+[The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
+
+- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
+
+
+Electoral institutions: 
+
+["Legislative Staff and Representation in Congress" by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. *The American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66);
+
+[“Institutions, Climate Change, and the Foundations of Long-term Policymaking.” Finnegan, Jared, 2022 *Comparative Political Studies*.](https://doi.org/10.1177/00104140211047416)
+
+
+##  11: Movements  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+- To what extent have climate movements been effective, and why?
+- To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+
+Opportunity Structure and Mobilizing Structures:
+
+[McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
+
+[Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
+
+[What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
+
+Issue framing:
+
+[McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)
+
+[Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
+
+##  12: Markets {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+- What would Hayek say about
+  1. A central plan for apartment building heating?
+  2. A fee for high-polluters? (NYC's current policy)
+  3. Tradable emissions credits? (as Ketcham & McGillis propose)
+- What information would city officials and building managers need in each scenario? 
+
+New Keynesian, neoliberal, and libertarian economics: 
+
+["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) (11 pages)
+
+[Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law) (9 pages)
+
+
+
+Carbon markets and pricing: 
+
+[Building Political Support for Carbon Pricing](https://scholars.org/contribution/building-political-support-carbon-pricing) (2 pages) and [Paying for Pollution by Leigh Raymond](https://scholars.org/podcast/paying-pollution) (22 min) 🎧 
+
+["Exploring Carbon Pricing and Carbon Border Adjustments" on  Michigan Minds](https://fordschool.umich.edu/news/2023/exploring-carbon-pricing-and-carbon-border-adjustments)
+
+["Carbon Pricing Enters Middle Age" by Barry Rabe (Wilson Center, 2023)](https://www.wilsoncenter.org/article/carbon-pricing-enters-middle-age)
+
+
+
+##  13: Incumbents {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+...as a force explaining action and inaction. 
+
+- Why are groups effective at shaping policy? 
+- Which industries will lose from which climate policies? Could they pivot?
+<!--- Identify examples of “odd bed-fellows”--> 
+- What industries have most effectively obstructed policy? How do they work with/against political actors?
+
+The global political economy of climate policy:
+
+[Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*](https://doi.org/10.1017/S0020818320000296)
+
+[Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
+
+US political economy of climate policy: 
+
+[*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+
+[*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
+
+["Power Flows: Transmission Lines and Corporate Profits" by Catherine Hausman](https://www.nber.org/papers/w32091)
+
+
+
+## 14: Planning for Change {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+- Why are our governing institutions so bad at planning ahead? 
+- What solutions do Jacob, Kraft, and Crawford offer? What do you think? 
+
+ [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
+
+ [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
+
+ [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
+ 
+## ["Environmental policymaking is a choice among futures." (Purdy, p. 264)]() {background-image="earthrise_vis_1092_lrg.png"}
+
+
+> ["Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice." (Purdy, p. 266)]()
+
+
+- [What facts or arguments stuck with you?]()
+
+- [What surprised you?]()
+
+- [How has your thinking changed?]()
+
+- [What connections do you see between your op-eds and the readings?]()
+
+- [If you could waive a magic wand and change one thing?]()
+
+
