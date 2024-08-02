@@ -362,26 +362,30 @@ If you are looking for more foundation in how government works, the Ford School 
 
 Climate Change 101
 
-- A short explainer in simple language from IPCC authors: [We Are Not on Track: Greenhouse Gas Emissions Are Higher Than Ever!
-](https://kids.frontiersin.org/articles/10.3389/frym.2024.1343809)
+- A short explainer in simple language from IPCC authors: [We Are Not on Track: Greenhouse Gas Emissions Are Higher Than Ever!](https://kids.frontiersin.org/articles/10.3389/frym.2024.1343809)
+- [Climate Change FAQ - the New York Times Climate Desk](https://www.nytimes.com/interactive/2023/climate/climate-change-faq.html?)
 
-Assessments of the Science: 
+Assessments of Climate Models: 
 
 - [Analysis: How well have climate models projected global warming?](https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming/)
+
+Sources of Greehouse Gasses
+
+- [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
+
+Attribution Science
+
+- 
+
+## Background on Climate Policy
+
+European Union Climate Policy:
+
+- [What’s next for the European Green Deal?](https://www.aljazeera.com/program/counting-the-cost/2024/6/6/whats-next-for-the-eus-green-deal]
 
 # 📖 Reading by Week
 
 I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation (see weeks on justice, markets, nationalism, and movements).
-
-🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
-
-If you hit a paywall on a link from the syllabus:
-
-1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
-2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
-3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not pay for any of the online content for this course. 
-
-There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
 
 There are some questions we will ask of every reading: 
 
@@ -392,21 +396,40 @@ There are some questions we will ask of every reading:
 
 Come to class ready to answer these questions. 
 
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
+
+If you hit a paywall on a link from the syllabus:
+
+1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
+2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
+3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not pay for any of the online content for this course. 
+There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
+
+
+
 ## Week 1: Hope
 
 ...in an unequal and chaotic world.
 
-### Thursday: Syllabus review and in-class discussion [best-practices exercise](best-practices.html)
+### Tuesday: Syllabus review and in-class discussion [best-practices exercise](best-practices.html)
+
+- What has your personal experience with climate change discourse and policy? What motivates you to do something? What makes you not want to get involved? 
 
 
-> [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
+>  To discuss: [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
 
-> [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
+>  To discuss: [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
 
-> [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
+>  To discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
 
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
+
+Thursday: 
+
+- [https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
+
+>  To discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf)
 
 
 <!--
@@ -423,21 +446,25 @@ Further reading:
 
 This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
 
->  [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
+Background: 
 
-> [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
+- [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
+
+- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+>  To discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
+
+>  To discuss: [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
+
+>  To discuss: [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
 OR 
 [Getting ready for IRA 2: A conversation with Costa Samaras.](https://www.volts.wtf/p/getting-ready-for-ira-2) (minutes 1-68) 🎧 
 
-> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
-
-> [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
-
 > *All We Can Save*: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)
 
-> [The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) (59 min) 🎧
+>  To discuss: [The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) (59 min) 🎧
 
-> [The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024) (4 pages)
+>  To discuss: [The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024) (4 pages)
 
 > Skim: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
 
@@ -522,6 +549,12 @@ Further resources for understanding the Inflation Reduction Act:
 
 > "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
 
+In the news:
+
+- [Climate hasn't been core to the GOP. These conservatives are trying to change that](https://www.npr.org/2024/07/19/nx-s1-5041975/young-republicans-advocate-climate-action) (also see the [American Conservation Coalition's website](https://acc.eco/our-platform/)---is there a UMich chapter?)
+- [Climate change made it in the GOP debate. Some young Republicans say that's a win](https://www.npr.org/2023/08/25/1195566969/climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win)
+-[Josh Shapiro offers Harris a path through fracking minefield - Energy Wire - E&E News](https://www.eenews.net/articles/josh-shapiro-offers-harris-a-path-through-fracking-minefield/)
+
 ### Tuesday: World Views:
 
 - What is the "Anthropocene challenge" as described by Purdy? 
@@ -533,6 +566,11 @@ Further resources for understanding the Inflation Reduction Act:
 > Purdy, Prologue and Introduction (1-50)
 
 > [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
+
+Further reading on net net zero: 
+
+- [All Hail The Planet: Carbon Offsets]((https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#carbon)
+
 
 ### Thursday: Public Opinion:
 
@@ -681,7 +719,9 @@ Further reading:
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧 
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧
+
+>  [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 (min 18-1:03) or [Empirically grounded technology forecasts and the energy transition" by Rupert Way, Matthew C. Ives, Penny Mealy, J. Doyne Farmer. 2022 ](https://doi.org/10.1016/j.joule.2022.08.009)
 
 Climate engineering: 
 
@@ -690,11 +730,13 @@ By Holly Jean Buck](https://books.google.com/books?id=0TOGDwAAQBAJ&printsec=fron
 
 > *All We Can Save: A Handful of Dust* by Kate Marvel 
 
+Carbon removal: 
+
+> [Communicating carbon removal- Rob Bellamy and Kaitlin T. Raimi](https://doi.org/10.3389/fclim.2023.1205388) (Pages 1-4)
+
 Further Reading: 
 
 - [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
-
-- [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 
 
 - [Engineering Earth’s Climate?](https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/) 🎥
 
@@ -817,6 +859,7 @@ Recent policy efforts:
 
 ## Week 9: Nationalist Critique
 
+
 <!--QUESTIONS TBD--> 
 
 <!--Blood and Soil
@@ -825,19 +868,25 @@ Military experts warn us our national security is threatened by massive waves of
 
 ### Tuesday: Power and population
 
-Great power competition:
+- Background on securitization: [All Hail The Planet: Military](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#military) (11:38)
 
-> ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
+Great power competition: 
 
-> ["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
+> To discuss: ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
+
+> To discuss: ["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
 
 Neo-Malthusian: 
 
-> ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+- Background on population and the climate: [The population question - NYT Climate Forward](https://www.nytimes.com/2022/11/18/climate/the-population-question.html)
 
-> ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+- Background on climate migration: [Connecting the dots between climate, migration and the far-right - NPR Special Series on Climate, migration and the far right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)
 
-> ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
+> To discuss: ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+
+> To discuss: ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+
+> To discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
 
 ### Thursday: Immigration and ethno-nationalist critique
 
@@ -856,9 +905,11 @@ The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.sp
 Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
 :::
 
-> [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+Critique of the nationalist critique: 
 
-> [The Welcome Table](https://www.thewelcometablefilm.com/) (minute 0-3:20)
+> To discuss: [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+
+> To discuss: [The Welcome Table](https://www.thewelcometablefilm.com/) (minute 0-3:20)
 
 
 <!--
@@ -926,7 +977,7 @@ Further reading:
 
 > [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
 
-> SKIM: Selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
+> [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI) + SKIM: Selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
@@ -990,6 +1041,9 @@ Further reading:
   3. Tradable emissions credits? (as  Ketcham & McGillis propose)
 - What information would city officials and building managers need in each scenario? 
 
+- 4. ESG [disclosure rules](https://www.sec.gov/files/33-11275-fact-sheet.pdf)? 
+- 5. Shareholder activism?
+
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 -->
 
@@ -998,9 +1052,13 @@ Further reading:
 
 > ["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) (11 pages)
 
-> [Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law) (9 pages)
+> Opinion: [Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law) (9 pages)
 
 
+
+> Listen: [The Coordinated Attack on Shareholder Activism - Damages](https://podcasts.apple.com/us/podcast/damages/id1606039896?i=1000660221663) 🎧 
+
+The backlash against ESG is continuing, with a string of lawsuits aimed at shutting down shareholder activism. We don't often talk about shareholder activism in the vein of protecting protest, but it's absolutely part of the story. Andrew Behar, CEO of shareholder advocacy group As You Sow, joins Damages to explain what's going on.
 
 ### Thursday: Carbon markets and pricing:
 
@@ -1059,9 +1117,11 @@ Further reading:
 
 ### Thursday: US political economy of climate policy: 
 
+> News: [Coal power plants cost Americans millions when they didn’t have to](https://lailluminator.com/2024/07/25/coal-power-plants-cost-americans-millions-when-they-didnt-have-to-study-says/)
+
 > [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
-> [*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
+> [*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction - Leah Stokes ](https://academic.oup.com/book/32159/chapter/268128410)
 
 > Skim: ["Power Flows: Transmission Lines and Corporate Profits" by Catherine Hausman](https://www.nber.org/papers/w32091)
 
