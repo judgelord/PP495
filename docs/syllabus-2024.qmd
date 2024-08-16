@@ -186,6 +186,7 @@ Alternatively, on week 9, you may write a reflection on how you carry with you d
 
 ## How to write an op-ed 
 
+- [NYT: What Makes a Guest Essay Great?](https://help.nytimes.com/hc/en-us/articles/115014809107-New-York-Times-Opinion-Guest-Essays)
 - [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped) `(Canvas)`
 - [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped) `(Canvas)`
 
@@ -222,7 +223,7 @@ And here's a piece by two climate activists trying to influence policy:
 > <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
 
 ::: {.callout-important}
-There is an incremental assignment building to your final op-ed, due almost **every Tuesday**. 
+There is an incremental assignment building to your final op-ed due almost <mark>every Tuesday</mark>. 
 :::
 
 
@@ -278,10 +279,10 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
-- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-150 words and include a brief summary of (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion. <!--TODO See my [guide for crafting a good discussion question]().--> 
+- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
-- Summarize the discussion questions posed on Canvas for two classes (1-3 minutes) 
-- Summarize what we have learned and how we have refined the points of debate at the end of two classes (1-3 minutes)
+- Summarize the discussion questions posed on Canvas for two classes (2-3 minutes) 
+- Summarize what we have learned and how we have refined the points of debate at the end of two classes (2-3 minutes)
 
 [Sign up to summarize questions or what we learned here.](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
@@ -295,7 +296,7 @@ Beyond your two pass days, I allow you to make up two additional days:
 - If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **at least 1 hour ahead of class time**
 - If you unexpectedly miss class, write a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
-Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in extenuating circumstances. Participation is core part of this class and the entire class is deprived of your perspective when you are not with us. 
+Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is core part of this class and the entire class is deprived of your perspective when you are not with us. 
 
 ### Late Submissions
 
@@ -425,11 +426,13 @@ There are many "further" readings, and some required readings (especially the lo
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
 
-Thursday: 
+### Thursday: Competing Visions
 
-- [https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
+- [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
 
->  To discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf)
+>  To discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) 
+
+> Skim: [Other](https://www.dataforprogress.org/gnd-candidates)
 
 
 <!--
@@ -451,6 +454,10 @@ Background:
 - [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
 
 - [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+- [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
+
+- [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
 
 >  To discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
@@ -478,6 +485,10 @@ OR
 <!-- More summaries of US policy TBD --> 
 
 ### Thursday: The State of Michigan Climate Policy
+
+<!--GUEST SPEAKER --> 
+
+In-class peer-workshop of draft op-ed headlines for Week 3 assignment.
 
 > [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
 
@@ -675,22 +686,16 @@ Aesthetics-->
 - How are policies addressing environmental justice consistent or inconsistent with different definitions? 
 - How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
 
-### Tuesday 
+### Tuesday: US Movements and Policy
 
 >  ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
-> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
-
-
-### Thursday
-
-> [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
 
 > [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/)
 
 Further reading: 
 
-- [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
 
 
 - [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
@@ -702,6 +707,18 @@ Further reading:
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
 - [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
+
+### Thursday: Global Justice
+
+::: {.callout-note}
+[Sept. 26 Climate Summit](https://www.miclimateaction.org/uofm_students_and_faculty)
+:::
+
+
+> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
+
+>  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+
 
 
 ## Week 6: Utilitarianism and Technology
@@ -785,34 +802,9 @@ Further reading:
 <!-- add degrowth critique here?  --> 
 
 
-## Week 8: Indigenous and Feminist Critiques  
+## Week 8: Ecofeminist Critique
 
-### Tuesday: Indigenous Critique
-
-- What is the indigenous critique? 
- - In the context of renewable energy siting? 
- - In the context of adaptation?
- - In the context of greenhouse gas emissions? 
-- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
-- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
- - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
- - Conversely, what are the implications of various climate policies for indigenous governance?
-
-
-> [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
-
-> [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
-
-
-<!--
-> More TBD (including selections from *All We Can Save*)
---> 
-
-Further reading:
-
-- [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
-
-- ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
+### Tuesday: FALL BREAK 
 
 
 ### Thursday: Ecofeminist Critique
@@ -857,7 +849,36 @@ Recent policy efforts:
 - [Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
 
 
-## Week 9: Nationalist Critique
+
+Week 9:  Indigenous Critique
+
+- What is the indigenous critique? 
+ - In the context of renewable energy siting? 
+ - In the context of adaptation?
+ - In the context of greenhouse gas emissions? 
+- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
+ - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+ - Conversely, what are the implications of various climate policies for indigenous governance?
+
+
+> [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
+> [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
+
+
+<!--
+> More TBD (including selections from *All We Can Save*)
+--> 
+
+Further reading:
+
+- [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
+
+- ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
+
+
+## Week 10: Nationalist Critique
 
 
 <!--QUESTIONS TBD--> 
@@ -946,7 +967,7 @@ Further Research:
 
 
 
-##  Week 10: Institutions 
+##  Week 11: Institutions 
 
 - What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
@@ -1002,7 +1023,7 @@ Further reading:
 - [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans) 🎧 
 
 
-##  Week 11: Movements 
+##  Week 12: Movements 
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
@@ -1029,7 +1050,7 @@ Further reading:
 
 - [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
 
-##  Week 12: Markets
+##  Week 13: Markets
 
 <!--TBD QUESTIONS--> 
 
@@ -1095,7 +1116,7 @@ Criticism of the critics:
 
 
 
-##  Week 13: Incumbents
+##  Week 14: Incumbents
 
 ...as a force explaining action and inaction. 
 
@@ -1142,24 +1163,14 @@ Further Reading:
 
 - Tom Athanasiou on what the US return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
 
-## Week 14: Planning for Change
-
-<!--Learning Objectives
--Understand the basic role of local governments in planning and development. 
-- Understand how planners control individuals of individual parcels of land but must constantly deal with broader economic and social forces at work in an urban area.
--Understand different planning approaches:  top-down and bottom-up planning, consensus planning, and centralized and fragmenting budgeting.
--Understand the planning paradox:  making decisions attuned to the interests of existing stakeholders and planning to change the urban area to adapt to changing economic, environmental, and social forces.
--Understand how climate change affects different cities’ environments and economies and, thus, changes the agendas of city governments.
--Understand the linkages between cities and surrounding suburban and rural areas.   How do cities affect the economies of surrounding areas?  How do cities depend on these surrounding areas? How do these surrounding areas (especially suburbs) rely on cities? How do land use changes in surrounding areas lead to changes in cities?  
-
-Adaptation planning 
-Learning Objectives
--Explain the meaning of vulnerability, risk, and resilience planning and provide examples
--Differentiate between mitigation and adaptation and how they can relate to each other
--Identify technologies that could help with adaptation and the challenges behind their adaptation.
 
 
--->
+
+
+### Thursday: THANKSGIVING BREAK
+
+
+## Week 15: Planning for Change
 
 ### Tuesday: 
 
@@ -1167,7 +1178,6 @@ Learning Objectives
 
 > [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
 
-### Thursday: 
 
 > [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
 
@@ -1189,15 +1199,31 @@ Further reading:
 
 - [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)  🎧 
 
-## Week 15: Reflection
+<!--Learning Objectives
+-Understand the basic role of local governments in planning and development. 
+- Understand how planners control individuals of individual parcels of land but must constantly deal with broader economic and social forces at work in an urban area.
+-Understand different planning approaches:  top-down and bottom-up planning, consensus planning, and centralized and fragmenting budgeting.
+-Understand the planning paradox:  making decisions attuned to the interests of existing stakeholders and planning to change the urban area to adapt to changing economic, environmental, and social forces.
+-Understand how climate change affects different cities’ environments and economies and, thus, changes the agendas of city governments.
+-Understand the linkages between cities and surrounding suburban and rural areas.   How do cities affect the economies of surrounding areas?  How do cities depend on these surrounding areas? How do these surrounding areas (especially suburbs) rely on cities? How do land use changes in surrounding areas lead to changes in cities?  
 
-### Tuesday: Wrap-up
+Adaptation planning 
+Learning Objectives
+-Explain the meaning of vulnerability, risk, and resilience planning and provide examples
+-Differentiate between mitigation and adaptation and how they can relate to each other
+-Identify technologies that could help with adaptation and the challenges behind their adaptation.
+
+
+-->
+
+
+
+### Thursday: Wrap-up
 
 - How has your understanding of the politics of policymaking changed since the start of the semester?
 - Which reading stands out to us most and why?
 - What connections do you see between your op-eds and the readings?
 
-### Thursday: No class
 
 ## Ammendments 
 
