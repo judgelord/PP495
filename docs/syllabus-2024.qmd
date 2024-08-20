@@ -241,7 +241,7 @@ Below is the schedule of due dates.
 - Week 3: Ten op-ed-style headlines critiquing one or more of the above organizations (in-class peer workshop) (1%) <!---COULD BE 1--> 
 - Week 4: 
   - Five revised headlines and the first 200 words for each  (10%)
-  - an annotated bibliography for each, which do not count toward the word limit
+  - an annotated bibliography for each, which does not count toward the word limit
 - Week 5: 
   - Meet with me about your op-ed ideas---[Sign up here](https://calendar.app.google/xjdkaHSmbzbTLykr9) (part of the previous assignment grade)
   - Civic engagement  (1%)
@@ -287,6 +287,23 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 [Sign up to summarize questions or what we learned here.](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
 
+::: {.callout-note}
+
+Advice on writing good questions from Professor Rohde: 
+
+Questions should model good intellectual practice; that is, not just a one-sentence question, but a few sentences providing some important framing or context. This could include, for example, an explanation of why the question is important (the stakes), an elaboration on the nuances of the question, etc. Reference to specific language in the text(s) is encouraged, and quotes are welcome. For material on the syllabus, simply cite the author and page; for materials beyond the syllabus, please include a full reference. Be sure to reflect on the bulk of the readings for the day; i.e., demonstrate that you’ve read all of the assigned material.
+
+Questions should represent two specific types according to the following classification (identify the types in your post):
+
+- Clarification/Comprehension (e.g., What does X mean?)
+- Analytical/Interpretive (e.g., How does X evidence relate to Y point?)
+- Synthetic/Evaluative (e.g., Are you convinced by the author’s argument that X)
+- Connective/Comparative (e.g., How does X’s argument compare to Y’s we read last week?)
+- Provocative/Argumentative (e.g., Doesn’t evidence X undermine author’s point Y?!)
+- Applied/Extended (e.g., What light does X point shed upon current problem Y?) If you choose this - question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a - mindless invitation to extend an analysis across policy problems.
+:::
+
+
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 
 Pass days will initially appear as "0" on Canvas, but I will adjust participation points when I calculate your final scores in Canvas. 
@@ -296,7 +313,7 @@ Beyond your two pass days, I allow you to make up two additional days:
 - If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **at least 1 hour ahead of class time**
 - If you unexpectedly miss class, write a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
-Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is core part of this class and the entire class is deprived of your perspective when you are not with us. 
+Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
 
 ### Late Submissions
 
@@ -370,7 +387,7 @@ Assessments of Climate Models:
 
 - [Analysis: How well have climate models projected global warming?](https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming/)
 
-Sources of Greehouse Gasses
+Sources of Greenhouse Gases:
 
 - [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
 
@@ -383,6 +400,13 @@ Attribution Science
 European Union Climate Policy:
 
 - [What’s next for the European Green Deal?](https://www.aljazeera.com/program/counting-the-cost/2024/6/6/whats-next-for-the-eus-green-deal]
+
+
+
+
+
+
+---
 
 # 📖 Reading by Week
 
@@ -412,10 +436,12 @@ There are many "further" readings, and some required readings (especially the lo
 
 ...in an unequal and chaotic world.
 
-### Tuesday: Syllabus review and in-class discussion [best-practices exercise](best-practices.html)
+### Tuesday: Syllabus Review and in-class [best-practices exercise](best-practices.html)
+
+
+> Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
 
 - What has your personal experience with climate change discourse and policy? What motivates you to do something? What makes you not want to get involved? 
-
 
 >  To Discuss: [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
 
@@ -424,15 +450,14 @@ There are many "further" readings, and some required readings (especially the lo
 >  To Discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
 
 
-> Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
+### Thursday:  Visions for the Future
 
-### Thursday: Competing Visions
+- How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
 
-- [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
+> To Discuss: [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
 
->  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) 
-
-> Skim: [Other](https://www.dataforprogress.org/gnd-candidates)
+>  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  Skim: [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
 
 
 <!--
@@ -453,11 +478,7 @@ Background:
 
 - [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
 
-- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
-- [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
-
-- [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
 
 >  To Discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
@@ -488,7 +509,7 @@ OR
 
 <!--GUEST SPEAKER --> 
 
-In-class peer-workshop of draft op-ed headlines for Week 3 assignment.
+In-class peer workshop of draft op-ed headlines for Week 3 assignment.
 
 > Background: [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
 
@@ -812,7 +833,7 @@ Further reading:
 
 ### Thursday: Ecofeminist Critique
 
-Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications. 
+Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of care work. Her argument has many clear policy implications. 
 
 > "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
 
@@ -911,9 +932,10 @@ Further Reading:
  - In the context of renewable energy siting? 
  - In the context of adaptation?
  - In the context of greenhouse gas emissions? 
-- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
-- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
- - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+- Whyte mainly discusses decisions affecting Indigenous lands, while Tunks focuses on Indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+<!--
+- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. -->
+ - What are the implications of expanding or shrinking Indigenous governance for addressing climate change? 
  - Conversely, what are the implications of various climate policies for indigenous governance?
 
 
@@ -1067,6 +1089,12 @@ Electoral institutions:
 
 Further reading: 
 
+- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+- [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
+
+- [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
+
 - [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
 
 - [How Voting Rights and Redistricting Shape Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
@@ -1159,7 +1187,7 @@ Further reading:
 
 - [Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
 
-- ["Growth in emission transfers via international trade from 1990 to 2008" by Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. *Proceedings of the National Academy of Sciences (PNAS)* 108(21):8903–8908.](https://www.pnas.org/doi/10.1073/pnas.1006388108)
+- ["Growth in emission transfers via international trade from 1990 to 2008" by Peters, Glen P, Jan C Minx, Christopher L Weber, and Ottmar Edenhofer. 2011. *Proceedings of the National Academy of Sciences (PNAS)* 108(21):8903–8908.](https://www.pnas.org/doi/10.1073/pnas.1006388108)
 
 - [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)  🎧 
 
@@ -1181,7 +1209,7 @@ Criticism of the critics:
 
 ##  Week 14:  TBD 
 
-### Tuesday: Climate denial? Litigation as policy strategy? Intenational policy processes? 
+### Tuesday: Climate denial? Litigation as policy strategy? International policy processes? 
 -->
 
 ### Thursday: THANKSGIVING BREAK
@@ -1291,7 +1319,7 @@ Kennard, Amanda, and Keith Schnakenberg “Global Climate Policy and Collective 
 Victor, D. G. (2011). Global warming gridlock: creating more effective strategies for protecting the planet. Cambridge University Press. 
 Scott Barrett, Climate treaties and the imperative of enforcement, 24 Oxford Review of Economic Policy 239 (2008)
 Milkoreit, Manjana. "The Paris Agreement on Climate Change—Made in USA?." Perspectives on Politics 17.4 (2019): 1019-1037.
-Jason Bordoff and Meghan L. O’Sullivan, “Green Upheaval The New Geopolitics of Energy”, Foreign Affairs, January/February 2022 
+Jason Bordoff and Meghan L. O’Sullivan, “Green Upheaval: The New Geopolitics of Energy”, Foreign Affairs, January/February 2022 
 Monogan III, J. E., Konisky, D. M., & Woods, N. D. (2017). Gone with the wind: federalism and the strategic location of air polluters. American Journal of Political Science, 61(2), 257-270.
 Konisky, D. M., & Woods, N. D. (2010). Exporting air pollution? Regulatory enforcement and environmental free riding in the United States. Political Research Quarterly, 63(4), 771-782.
 
