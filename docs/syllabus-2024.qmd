@@ -42,9 +42,12 @@ Links to course resources:
 
 -  📖 [Glossary](glossary)
 
+
+<!--
 - [📅 Subscribe to the course calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 - [📅 Sign up for discussion opening, closing remarks, and paper meetings](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+--> 
 
 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus-2024.html). The current version is [here](syllabus-2024.html).
 
@@ -237,12 +240,12 @@ Below is the schedule of due dates.
 ### Find your voice - 15% of final grade
 
 - Week 1: Introduce yourself to the class---e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means---feel free to be creative (1%) 
-- Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 3: Ten op-ed-style headlines critiquing one or more of the above organizations (in-class peer workshop) (1%) <!---COULD BE 1--> 
-- Week 4: 
+- Week 1: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 2: Ten op-ed-style headlines critiquing one or more of the above organizations (in-class peer workshop) (1%) <!---COULD BE 1--> 
+- Week 3: 
   - Five revised headlines and the first 200 words for each  (10%)
   - an annotated bibliography for each, which does not count toward the word limit
-- Week 5: 
+- Week 4: 
   - Meet with me about your op-ed ideas---[Sign up here](https://calendar.app.google/xjdkaHSmbzbTLykr9) (part of the previous assignment grade)
   - Civic engagement  (1%)
   
@@ -253,13 +256,12 @@ Below is the schedule of due dates.
 
 ### Craft your critique - 25% of final grade
 
-- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies  (9%)
-- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (9%)
-- Week 7: peer critique of first 400 words  (5%)
-- Week 8: Two revised first 400 words + annotated bibliographies  + updated revision spreadsheets (10%)
+- Week 5:  Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (9%)
+- Week 6: peer critique of first 400 words  (5%)
+- Week 7: Two revised first 400 words + annotated bibliographies  + updated revision spreadsheets (10%)
 - Week 9: 
   - My feedback on your first 400 words 
-  - Civic engagement post (1%)
+  - Reflection post (1%)
 
 ### Hone your critique - 36% of final grade
 
@@ -693,6 +695,15 @@ The religious, colonial, and mystic foundations of Western environmental law and
 The black church as a site of modern climate advocacy: 
 
 > All We Can Save: Greens Are Just as Good as Kale by Heather McTeer Toney
+
+
+Further reading: 
+
+- ["How Religion Intersects With Americans’ Views on the Environment" - Pew Research Center](https://www.pewresearch.org/religion/2022/11/17/how-religion-intersects-with-americans-views-on-the-environment/)
+
+- ["The Faith Factor in Climate Change: How Religion Impacts American Attitudes on Climate and Environmental Policy" - Public Religion Research Institute](https://www.prri.org/research/the-faith-factor-in-climate-change-how-religion-impacts-american-attitudes-on-climate-and-environmental-policy/#:~:text=White%20evangelical%20Protestants%20(49%25),of%20color%2C%2028%25%20of%20Jewish)
+
+- [pReligiosity and climate change policies, Energy Economics, 2021](https://doi.org/10.1016/j.eneco.2021.105414)
 
 <!--## Nature as Teacher
 
