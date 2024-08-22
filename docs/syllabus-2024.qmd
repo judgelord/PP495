@@ -1,6 +1,5 @@
 ---
-title: "PubPol 495 <br> Climate Change and Democracy"
-subtitle: "Fall 2024"
+title: "PubPol 495<br>Climate Change and Democracy <br><br><br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
@@ -15,7 +14,6 @@ execute:
   engine: knitr
 ---
 
-
 > "All that you touch, You Change. <br>
 All that you Change Changes you. <br>
 The only lasting truth is Change." <br> - Octavia E. Butler
@@ -28,11 +26,11 @@ The only lasting truth is Change." <br> - Octavia E. Butler
 
 This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
-<!--Tuesdays and Thursdays 2:30–3:50 p.m., 1210 Weill Hall-->
+Tuesdays and Thursdays 1:00–2:20 p.m., 1110 Weill Hall
 
 Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
-Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
+Office hours: Wednesdays 2:30-3:30 p.m., 3215 Weill Hall
 
 Links to course resources: 
 
