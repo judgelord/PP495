@@ -21,9 +21,9 @@ In the first third of the class, you develop five op-ed ideas and attempt to wri
 
 Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
 
-- Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 3: Ten op-ed-style headlines
-- Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
+- A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Ten op-ed-style headlines
+- Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
 
 An annotated bibliography means two things: 
 
@@ -42,8 +42,8 @@ I expect the annotated bibliographies to grow significantly as you respond to cr
 
 As above, include a word count between the title and the essay.
 
-- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies
-- Week 8: Two revised first 400 words + annotated bibliographies  
+- Three revised headlines and the first 400 words for each + annotated bibliographies
+- Two revised first 400 words + annotated bibliographies  
 
 
 
@@ -55,9 +55,9 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
-- Week 10: One 750-800 word op-ed + annotated bibliography
-- Week 12: Revised op-ed  + annotated bibliography
-- Week 14: Final op-ed + annotated bibliography
+- One 750-800 word op-ed + annotated bibliography
+- Revised op-ed  + annotated bibliography
+- Final op-ed + annotated bibliography
 
 # Assessment 
 
