@@ -288,6 +288,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 
 ::: {.callout-note}
+<mark>Discussion questions are graded</mark> on a 0-3 scale. 
 
 Advice on writing good questions from Professor Rohde: 
 
@@ -310,8 +311,8 @@ Pass days will initially appear as "0" on Canvas, but I will adjust participatio
 
 Beyond your two pass days, I allow you to make up two additional days:
 
-- If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **at least 1 hour ahead of class time**
-- If you unexpectedly miss class, write a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
+- If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **with your discussion post.**
+- If you unexpectedly miss class, post a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
 
