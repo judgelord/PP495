@@ -284,7 +284,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
 - Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
-- Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
+- Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss class. 
 - Summarize the discussion questions posed on Canvas for two classes (2-3 minutes) 
 - Summarize what we have learned and how we have refined the points of debate at the end of two classes (2-3 minutes)
 
@@ -396,9 +396,11 @@ Sources of Greenhouse Gases:
 
 - [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
 
+<!--
 Attribution Science
 
 - 
+--> 
 
 ## Background on Climate Policy
 
@@ -464,6 +466,8 @@ There are many "further" readings, and some required readings (especially the lo
 
 >  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  Skim: [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
 
+> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
+
 
 <!--
 Further reading: 
@@ -475,7 +479,7 @@ Further reading:
 
 > "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
 
-### Tuesday: The State of US Climate Policy: 
+### Tuesday: The State of U.S. Climate Policy: 
 
 This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
 
@@ -508,7 +512,7 @@ OR
 - <https://energyinnovationact.org/>
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
 
-<!-- More summaries of US policy TBD --> 
+<!-- More summaries of U.S. policy TBD --> 
 
 ### Thursday: The State of Michigan Climate Policy
 
@@ -573,7 +577,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 - ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781) 
 
-- [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
+- [Charged: E.V. Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
 - [Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
 
@@ -599,7 +603,7 @@ In the news:
 - What is the "Anthropocene challenge" as described by Purdy? 
 - What does Purdy mean by politics and anti-politics? What are some examples? 
 - What does Buck mean by the "constructive ambiguity" of net zero? 
-- Purdy discusses several forms of environmental imagination/ideology that shaped US environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? What parallels do you see in the history of US environmental policy? 
+- Purdy discusses several forms of environmental imagination/ideology that shaped U.S. environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? What parallels do you see in the history of U.S. environmental policy? 
 
 
 > Purdy, Prologue and Introduction (1-50)
@@ -620,7 +624,7 @@ Further reading on net net zero:
 
 > Background: ["Which Republicans are worried about global warming?" By Matthew Ballew, Jennifer Carman, Seth Rosenthal, Marija Verner, John Kotcher, Edward Maibach, and Anthony Leiserowitz](https://climatecommunication.yale.edu/publications/republicans-worried-about-global-warming/) (5 pages)
 
-> Background: ["Climate Change: US Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
+> Background: ["Climate Change: U.S. Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
 
 
 
@@ -748,7 +752,7 @@ Carbon removal:
 
 Further Reading: 
 
-- [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
+- [Decarbonizing U.S. transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
 
 - [Engineering Earth’s Climate?](https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/) 🎥
 
@@ -776,7 +780,7 @@ Further Reading:
 - How are policies addressing environmental justice consistent or inconsistent with different definitions? 
 - How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
 
-### Tuesday: US Movements and Policy
+### Tuesday: U.S. Movements and Policy
 
 >  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
@@ -910,7 +914,7 @@ Further reading:
 - [*The Enemy of My Enemy: When Firms Support Climate Change Regulation* (2020) by Amanda Kennard](https://doi.org/10.1017/S0020818320000107)
 
 
-### Thursday: US political economy of climate policy: 
+### Thursday: U.S. political economy of climate policy: 
 
 Guest speaker: Geoffrey Henderson
 
@@ -941,7 +945,7 @@ Further Reading:
 - [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
 
 
-- Tom Athanasiou on what the US return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
+- Tom Athanasiou on what the U.S. return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
 
 
 ## Week 10:  Indigenous Critique
@@ -990,7 +994,7 @@ Great power competition:
 
 > To Discuss: Opinion: ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
 
-> To Discuss: Opinion: ["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
+> To Discuss: Opinion: ["The case for U.S. cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
 
 Neo-Malthusian: 
 
@@ -1130,7 +1134,7 @@ Further reading:
 ##  Week 13: Movements 
 
 - To what extent have climate movements been effective, and why?
-- To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+- To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
 
 ### Tuesday: Opportunity Structure and Mobilizing Structures 
 
@@ -1173,7 +1177,7 @@ Further reading:
 - 4. ESG [disclosure rules](https://www.sec.gov/files/33-11275-fact-sheet.pdf)? 
 - 5. Shareholder activism?
 
-> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 -->
 
 <!--
@@ -1203,7 +1207,7 @@ Further reading:
 - [Can We Price Carbon? MIT Press (2018), Chapter 3, by Barry Rabe](https://direct.mit.edu/books/monograph/3584/Can-We-Price-Carbon) also available via [muse](https://muse.jhu.edu/book/58688) and [proquest](https://ebookcentral.proquest.com/lib/umichigan/detail.action?pq-origsite=primo&docID=5351324)
 
 
-- [Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
+- [Subsidies really do matter to the U.S. oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
 
 - ["Growth in emission transfers via international trade from 1990 to 2008" by Peters, Glen P, Jan C Minx, Christopher L Weber, and Ottmar Edenhofer. 2011. *Proceedings of the National Academy of Sciences (PNAS)* 108(21):8903–8908.](https://www.pnas.org/doi/10.1073/pnas.1006388108)
 
@@ -1246,7 +1250,7 @@ Criticism of the critics:
 
 Further reading:
 
-- [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund on the need for central planning to cope with the climate crisis (FT article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
+- [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund on the need for central planning to cope with the climate crisis (F.T. article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
 
 - Sommer, L. (2020, August 6). Why Sprawl Could Be The Next Big Climate Change Battle. NPR. https://www.npr.org/2020/08/06/812199726/why-sprawl-could-be-the-next-big-climate-change-battle
 
@@ -1256,7 +1260,7 @@ Further reading:
 
 - [3 cities face a climate dilemma: to build or not to build homes in risky places](https://www.npr.org/2023/11/06/1204923950/arizona-california-new-jersey-climate-flood-wildfire-drought-building-homes)
 
-- [The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details) 🎧 
+- [The challenges of building transmission in the U.S., and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details) 🎧 
 
 - [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)  🎧 
 
@@ -1369,7 +1373,7 @@ Learning Objectives
 Readings
 Ezra Klein, What if American Democracy Fails the Climate Crisis? https://www.nytimes.com/2021/06/22/magazine/ezra-klein-climate-crisis.html 
 Obradovich, N., Tingley, D., & Rahwan, I. (2018). Effects of environmental stressors on daily governance. Proceedings of the National Academy of Sciences, 115 (35), 8710-8715. 
-Belcher, O., Neimark, B., & Bigger, P. (2020). The US military is not sustainable. Science, 367(6481), 989-990.
+Belcher, O., Neimark, B., & Bigger, P. (2020). The U.S. military is not sustainable. Science, 367(6481), 989-990.
 https://www.nytimes.com/2021/10/01/opinion/climate-change-geoengineering.html 
 
 Supplementary Readings
