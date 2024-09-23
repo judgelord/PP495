@@ -1,31 +1,108 @@
 ---
 title: "Notes on *After Nature* by Jedediah Purdy"
-format: html
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: true   
+   background-opacity: 0.2
+   #background-image: "earthrise_vis_1092_lrg.png"
+   #background-opacity: "0.2"
+   data-background-image: "earthrise_vis_1092_lrg.png"
+   data-background-size: cover
+   data-background-opacity: "0.2"
+   background-image-size: "cover"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
 ---
 
-# Anti-politics
 
-Anti-politics in the Providential view of nature
+## Week 4: God and Nature 
 
+The religious, colonial, and mystic foundations of Western environmental law and politics: 
+
+
+> "The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke's insistence that  "God wants us to do something" and that nature revealed the intended tasks...And for the Romantics who created the Sierra Club, nature's beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there---and look." (Purdy, p. 199)
+
+
+# Democracy v. Anti-politics {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
+
+
+## Anti-politics in the Monarchist/Restorationist view of Nature
+
+- Divinely-ordered nature (Plato, Cicero, the just rule of kings) is threatened by brute nature (unholy, atheist, anarchist, equality, democracy)
+
+
+## Democracy in the Providential view of nature
+
+> "North America became, in the public language of its most powerful country, the emblem of a Creation made to be Developed and settled. The blooming landscape of freedom and prosperity was the reward of a democratic people unafraid to swing an ax and steer a plow. The political culture that celebrated settlement supported, too, a new ideal of personal dignity, free labor, in which work changed from a mark of low status to a democratic emblem of personal worth." 
+
+- The Lockean idea everyone started out as equals in the original "State of Nature" and could claim bits of the earth by farming turned the monarchist idea of Natural Order on its head
+  - hierarchy as Natural vs. a human creation
+  - "de-naturalizing" politics
+
+## Democracy in the Providential view of nature
+
+
+- The Frontier Thesis as democracy-enabling: Released from the class-conflict pressures, universal white male suffrage and property ownership were less of a threat to the elite, and would-be peasants were harder to control (68)
+
+> "Gradations of inequality buckeled and broke becaue open land was available beyond the pale of the hierarchical sttlements." 
+
+## Anti-politics in the Providential view of nature
+
+- "Nature and nature's God took the side of the masters in the Massachusetts Bay Colony" (54)
 - God has given the natural world to man and demands cultivation. This is not up for political debate; it is the natural (Divine) order of the world
 - Manifest Destiny: God wants white settlement to advance across the North American content. It is destiny, not up for debate
 - The Frontier as anti-politics: the ever-expanding frontier of white settlement provided an individualist escape from political conflicts seen in Europe. Rather than being forced to engage in politics and deciding things collectively, people were able just to leave the community
-- Frontier thesis assumption (related to stages of development theory): the process of clearing and settling was a "natural" progression, not a project of war and ethnic cleansing
+  - Frontier thesis assumption (related to stages of development theory): the process of clearing and settling was a "natural" progression, not a project of war and ethnic cleansing
+  
+## Erasure as ideological work/environmental imagination
 
-Anti-politics in the Romantic View
+> "The land claims of the first and continuing inhabitants were erased ideologically even as the traces of those inhabitants were being wiped out on the ground. Providential imagination reworked conquest, expulsion, and genocide into a benign account of necessary and lawful progress...young John Quincy Adams asked rhetorically: "Shall the Lordly savage...forbid the wilderness to blossom like a rose?'"
+
+
+## Politics in the Romantic View
+
+- "Romantics insisted that self-knowledge depended on connection to the natural world" which is accessible to anyone*
+- Utopian thinking: "opened up space in imagination to consider how a better society might begin" 
+
+## Anti-politics in the Romantic View
 
 - Nature is sacred (or, at least, certain landscapes are). Secular cathedrals demand preservation as a moral imperative
 - Romantics argued with utilitarians, but instead of arguing on political/democratic grounds (i.e., that questions of how to manage landscapes should be up for debate), they argued that they were the real experts, as devotees of nature, uniquely able to grasp aesthetic values
 - Initially, the policy was to make parks and encourage pilgrimage. Later, wilderness: the near exclusion of humans from some areas. All in a very top-down way, often requiring the forced removal of the people who lived there
 
-Anti-politics in managerialism / utilitarianism (Purdy lumps together these two approaches, which are related but not synonymous)
+# Week 5: Utilitarianism and Technology
 
-- Resources (including timber and human resources) should be managed by experts to achieve the greatest good for the greatest many—technocracy, not democracy. 
+> “For the conservationists of the Progressive era, managing nature required a combination of civic spirit and administrative expertise.” (Purdy, p. 199)
+
+## Anti-politics in managerialism/utilitarianism 
+
+(Purdy lumps together these two approaches, which are related but not synonymous)
+
+- Experts should manage resources (including timber and human resources) to achieve the greatest good for the greatest many—technocracy, not democracy. 
 - Natural and social systems are so complex that leaving them up to individuals does not advance the public good. People do not know what is good for them or the sustainability of the resource
 - Supported US imperialism since legitimate government was assumed to be based on efficient administration, not democracy
 - Cost-benefit analysis is a modern form that dominates US environmental policymaking
 
-Anti-politics in the Ecological View
+## Questions for next week
+
+
+- How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion?
+
+- What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire?
+
+
+## Anti-politics in the Ecological View
 
 - Ecosystems are complex, so policy should be written by experts. Again, technocracy, not democracy. 
 - Ecosystems are complex, and central management is difficult, so policy should instead put a price on everything and establish markets to align individual choices with ecological impacts. Because there are no "natural" prices; experts must price everything...starting to slip into a version of utilitarianism without managerialism or cost-benefit analysis. 
