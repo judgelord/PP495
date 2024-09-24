@@ -75,8 +75,9 @@ Of heaven.
 
 ## {background-opacity="1" background-size="cover" background-image="https://miro.medium.com/v2/resize:fit:629/1*xvy41q5xRrMRN_nc8z7gFA.png"}
 
-# What kind of Democraratic Exo-anthropocene?
+# What kind of Democraratic Exo-anthropocene? {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
 
+##
 
 - [Yale Professor advocates for mini-publics on mars](https://www.ft.com/content/f0d95e10-ca83-47f4-9c06-3eab19261ab4)
 - [VOX article on Elon Musk's views](https://www.vox.com/2016/6/3/11852148/elon-musk-mars-government-direct-democracy) (I apologize for giving him such a prominent role in these slides. Just because he has money and fame does not mean his ideas are any good.)
