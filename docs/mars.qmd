@@ -1,0 +1,90 @@
+---
+title: "Colonizing Mars"
+subtitle: "How do different environmental worldviews travel to space?"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: true   
+   background-opacity: 0.2
+   #background-image: "earthrise_vis_1092_lrg.png"
+   #background-opacity: "0.2"
+   data-background-image: "earthrise_vis_1092_lrg.png"
+   data-background-size: cover
+   data-background-opacity: "0.2"
+   background-image-size: "cover"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# The Provedencial Worldview {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
+
+> “[T]he moon and other celestial bodies... shall be the province of all mankind.” <br>
+— Article 1, 1967 Outer Space Treaty
+
+##  {background-opacity="1" background-size="contain" background-image="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/patriotic-american-flag-manifest-destiny-mars-space-design-jacob-hughes.jpg"}
+
+## {background-opacity="1" background-size="cover" background-image="https://schiffsov.b-cdn.net/wp-content/uploads/2024/08/musk.png"}
+
+## {background-opacity="1" background-size="contain" background-image="https://www.azquotes.com/picture-quotes/quote-the-destiny-of-earthseed-is-to-take-root-among-the-stars-octavia-butler-38-99-20.jpg"}
+
+##
+
+> The Destiny of Earthseed  
+is to take root among the stars.    
+It is to live and to thrive   
+on new earths.    
+It is to become new beings    
+and to consider new questions.    
+It is to leap into the heavens     
+again and again.   
+It is to explore the vastness.  
+Of heaven.
+
+
+# The Romantic Worldview  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}  
+
+## {background-opacity="1" background-image="https://s.yimg.com/ny/api/res/1.2/u5PcHZP0i1G2cpbplLC4Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ5MjtjZj13ZWJw/https://o.aolcdn.com/hss/storage/midas/4d0f44e6a83d4d2a217244a020be649a/202001264/mars-travel-lede.jpg"}
+
+
+# The Utilitarian Worldview  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}  
+
+> “[E]xploration and use of outer space, including the moon and other celestial bodies, shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development, and shall be the province of all mankind.”
+— Article 1, 1967 Outer Space Treaty
+
+## {background-opacity="1" background-size="contain" background-image="https://millmentor.com/wp-content/uploads/2023/06/MM_news_Z7-01-Nasa-aims-to-mine-resources-on-moon-in-next-decade-1024x1024.png"}
+
+# Science v. Securitization  {background-opacity="1" background-size="contain" background-image="https://www.capellaspace.com/wp-content/uploads/2024/05/Open-Data-Gallery-_-1440X947.png"}
+
+(What is Mars useful for?)
+
+# The Ecological Worldview {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
+
+
+## {background-opacity="1" background-size="cover" background-image="https://upload.wikimedia.org/wikipedia/en/7/76/Mars_trilogy.jpg"}
+
+
+## {background-opacity="1" background-size="cover" background-image="https://miro.medium.com/v2/resize:fit:629/1*xvy41q5xRrMRN_nc8z7gFA.png"}
+
+# What kind of Democraratic Exo-anthropocene?
+
+
+- [Yale Professor advocates for mini-publics on mars](https://www.ft.com/content/f0d95e10-ca83-47f4-9c06-3eab19261ab4)
+- [VOX article on Elon Musk's views](https://www.vox.com/2016/6/3/11852148/elon-musk-mars-government-direct-democracy) (I apologize for giving him such a prominent role in these slides. Just because he has money and fame does not mean his ideas are any good.)
+
+
+
+If you want to go down a rabbit hole: 
+
+- Searching for examples of public discourse around democracy on mars, I found a [lawfirm](https://www.greeneconomylaw.com/) specializing in green startups and their blog about [law on mars](https://www.lawonmars.com/government-of-mars)
+
+More seriously, I recommend Kim Stanley Robinson's Ministry for the Future and Mars Trilogy.
