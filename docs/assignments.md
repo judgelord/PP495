@@ -31,7 +31,7 @@ An annotated bibliography means two things:
 
 2. Annotated means that it may include any additional context to help your reader understand why this source is important or why it supports the claim. If these are obvious, there is no need to annotate. Annotation is optional. It allows you to elaborate in ways you cannot in the tight word limit of the main essay. 
 
-I recommend using footnotes or end notes for annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications. 
+Use footnotes or end notes for annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications. 
 
 
 ### Craft your critique 
