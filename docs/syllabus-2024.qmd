@@ -742,9 +742,9 @@ Aesthetics-->
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧
 
->  [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 (min 18-1:03) or [Empirically grounded technology forecasts and the energy transition" by Rupert Way, Matthew C. Ives, Penny Mealy, J. Doyne Farmer. 2022 ](https://doi.org/10.1016/j.joule.2022.08.009)
+
+>  [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 (min 18-1:03) or [Empirically grounded technology forecasts and the energy transition" by Rupert Way, Matthew C. Ives, Penny Mealy, J. Doyne Farmer. 2022 ](https://doi.org/10.1016/j.joule.2022.08.009) (pages 1-24)
 
 Climate engineering: 
 
@@ -758,6 +758,8 @@ Carbon removal:
 > [Communicating carbon removal- Rob Bellamy and Kaitlin T. Raimi](https://doi.org/10.3389/fclim.2023.1205388) (Pages 1-4)
 
 Further Reading: 
+
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (pages 1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧
 
 - [Decarbonizing U.S. transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
 
@@ -780,6 +782,16 @@ Further Reading:
 
 ## Week 6: Justice 
 
+
+### Tuesday: Global Justice
+
+
+> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
+
+>  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+
+
+
 > People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
 
 - What are some of the different ways environmental justice is defined? 
@@ -787,7 +799,7 @@ Further Reading:
 - How are policies addressing environmental justice consistent or inconsistent with different definitions? 
 - How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
 
-### Tuesday: U.S. Movements and Policy
+### Thursday: U.S. Movements and Policy
 
 >  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
@@ -808,20 +820,6 @@ Further reading:
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
 - [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
-
-### Thursday: Global Justice
-
-::: {.callout-note}
-[Sept. 26 Climate Summit](https://www.miclimateaction.org/uofm_students_and_faculty)
-:::
-
-
-> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
-
->  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
-
-
-
 
 ## Week 7: Ecological Critique
 
