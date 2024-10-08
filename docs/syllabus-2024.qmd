@@ -285,6 +285,18 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
   - Civic engagement post (1%)
 - Week 14: Final due  + updated revision spreadsheet (10%)
 
+
+
+## Late Submissions
+
+Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
+
+- If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
+- Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
+
+Under extenuating circumstances, I will attempt to work out some alternative review cycle.
+
+
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
 - Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
@@ -311,6 +323,7 @@ Questions should represent two specific types according to the following classif
 - Applied/Extended (e.g., What light does X point shed upon current problem Y?) If you choose this - question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a - mindless invitation to extend an analysis across policy problems.
 :::
 
+### Make up policy 
 
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 
@@ -322,16 +335,6 @@ Beyond your two pass days, I allow you to make up two additional days:
 - If you unexpectedly miss class, post a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
-
-### Late Submissions
-
-Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
-
-- If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
-- Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
-
-Under extenuating circumstances, I will attempt to work out some alternative review cycle.
-
 # 📚  Materials
 
 Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
@@ -838,15 +841,17 @@ Further reading:
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
 
-### Thursday
-
-> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
-
 Further reading: 
 
 - [Rachel Carson’s Warning on D.D.T. Ignited an Environmental Movement](https://retroreport.org/video/rachel-carsons-warning-on-ddt-ignited-an-environmental-movement/)
 
 - *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
+
+### Thursday
+
+> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
+
+
 
 <!-- add degrowth critique here?  --> 
 

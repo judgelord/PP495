@@ -8,6 +8,15 @@ Many of these concepts are contested or take different meanings in different con
 
 **Anti-politics:** Ways of removing questions from political debate. An "argument stopper" (Purdy, p. 21) to "naturalize" one version of politics while excluding others from serious debate. Ways of evading politics, shutting down imagination and mobilization (e.g., by claiming that certain questions have been decided by nature) (Purdy, p. 31). 
 
+**Carbon Capture and Storage (CCS):**
+
+
+**Carbon Dioxide Removal:**
+
+- Direct Air Capture 
+- Biotechnology with Carbon Capture and Storage (BECCS)
+- Enhanced Weathering 
+
 
 **Democracy:** A form of politics that strives for equal *voice* in debates and decision-making processes, and where a *vote* of all citizens plays a decisive role in decisions about what to do (Purdy, p. 49-50). In addition to equality of votes and voice, Purdy also includes an exemplary/prophetic dimension of democracy related to the ability of citizens to live in different ways (including protections for diversity in speech and religion that are often called **liberal democracy**) and thus serve as a model for future policy and politics. 
 
@@ -28,9 +37,14 @@ Many of these concepts are contested or take different meanings in different con
 - Where supporting domestic production over imports or production in certain geographies)
 - How may include prioritizing manufacturing with union labor, [paying higher wages](https://www.americanprogress.org/article/how-bidens-american-style-industrial-policy-will-create-quality-jobs/), farming with conservation practices, producing hydrogen with clean energy, or [prohibiting government funds from being used for stock buybacks](https://lpeproject.org/blog/saving-industrial-policy-from-shareholder-primacy/)
 
-
+**Overshoot:**
 
 **Paradigm:** Similar to a worldview or ideology, but often focused less on explicit values and more on the questions and ways of generating knowledge that are seen as legitimate. The term emerged in the history of science as a way of describing the orientations of scientists to particular questions and methods. It has since become popular in places like business schools. 
 
 
 **Politics:** Ways of having and resolving debates over what to do together. 
+
+
+**Solar Geo-Engineering (SRM):**
+
+
