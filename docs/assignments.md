@@ -190,7 +190,7 @@ This means at least a page of written feedback (when reviewing multiple essays, 
 
 ### How to submit your review
 
-You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas.) 
+You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment **and** sent to your colleague. (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) Make sure to submit it in both places. The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
 
 Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
 
