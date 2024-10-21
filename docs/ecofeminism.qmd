@@ -1,0 +1,55 @@
+---
+title: "Ecofeminism"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "https://assets.teenvogue.com/photos/621e4836ab8b245c8ebf5a48/16:9/w_2560%2Cc_limit/GettyImages-1069810076.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   auto-slide: 15000
+   loop: true
+   incremental: true   
+   # background-opacity: 0.2
+   #background-image: "earthrise_vis_1092_lrg.png"
+   #background-opacity: "0.2"
+   #data-background-image: "earthrise_vis_1092_lrg.png"
+   data-background-size: contain
+   #data-background-opacity: "0.2"
+   background-image-size: "contain"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+## {background-image="https://jasminemattey.sites.umassd.edu/files/2023/01/this-one.png"}
+
+
+
+
+## {background-image="https://www.gendercampus.ch/public/_processed_/2/b/csm_blog_ecofeminism_pp_85e5ccc949.jpg"}
+
+## {background-image="https://s3.amazonaws.com/cdn.bunkhistory.org/derivatives/og/images/2019-09/$2y$10$Y4DDTh4KEvHx0Lv3h2lDJu3X3VcUz40OxtmZYkjyBNY0YEGBePbTK/Screenshot-2018-3-19_LOC_Wages_for_Housework_jpg_JPEG_Image_1.jpg"}
+
+## {background-image="https://i0.wp.com/www.rockandart.org/wp-content/uploads/2022/06/Ecofeminism-.jpeg?resize=900%2C500&ssl=1"}
+
+
+## {background-image="https://www.trumanlibraryinstitute.org/wp-content/uploads/2015/06/VictoryGardenPosters1.jpg"}
+
+## {background-image="https://www.nps.gov/common/uploads/nri/20230803/articles/62EA5711-9F4D-3EC3-C53AD771B0F64A7E/62EA5711-9F4D-3EC3-C53AD771B0F64A7E.jpg" background-size="contain"}
+
+
+
+## {background-image="https://awarewomenartists.com/wp-content/uploads/2023/05/patricia-piccinini-the-young-family-2003-aware-women-artists-artistes-femmes.jpg"}
+
+## {background-image="https://artishockrevista.com/wp-content/uploads/2020/07/Mary-Mattingly.jpg" background-size="contain"}
+
+
+## {background-image="https://images.slideplayer.com/37/10738498/slides/slide_4.jpg" background-size="contain"}
+
+
