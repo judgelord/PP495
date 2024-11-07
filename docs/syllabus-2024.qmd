@@ -1084,9 +1084,11 @@ Further Research:
 
 ### Tuesday: Governance
 
+<!--
 Collective action
 
 >  To Discuss: Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
+--> 
 
 Governing institutions
 
@@ -1109,7 +1111,11 @@ Further reading:
 
 > To Discuss: [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
 
-> Background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI) + To Discuss: Skim selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
+> Background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
+
+> To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
+
+> To Discuss: Skim selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
@@ -1126,6 +1132,8 @@ Further reading:
 - [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 - [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
+
+- [For a Preview of Project 2025, Look to Argentina](https://drilled.media/news/Project2025-Argentina)
 
 - [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
 

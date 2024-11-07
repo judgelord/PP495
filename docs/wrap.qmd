@@ -232,21 +232,7 @@ Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8
 
 # Where we might go next   {background-opacity="0.5" background-image="earthrise_vis_1092_lrg.png"}
 
-## 8: Indigenous Critique  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
 
-- What is the indigenous critique? 
-  - In the context of renewable energy siting? 
-  - In the context of adaptation?
-  - In the context of greenhouse gas emissions? 
-- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
-- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
-  - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
-  - Conversely, what are the implications of various climate policies for indigenous governance?
-
-
-[Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
-
-[Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
 
 
@@ -296,7 +282,21 @@ Neo-Malthusian environmentalism:
 
 
 
+## Week 10: Indigenous Critique  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
 
+- What is the indigenous critique? 
+  - In the context of renewable energy siting? 
+  - In the context of adaptation?
+  - In the context of greenhouse gas emissions? 
+- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
+  - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+  - Conversely, what are the implications of various climate policies for indigenous governance?
+
+
+[Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
+[Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
 
 ##  10: Institutions  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}
