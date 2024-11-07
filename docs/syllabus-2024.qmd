@@ -972,8 +972,19 @@ Further Reading:
  - What are the implications of expanding or shrinking Indigenous governance for addressing climate change? 
  - Conversely, what are the implications of various climate policies for indigenous governance?
 
+Background:
+
+- [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
+
+- ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
+
+
+### Tuesday
 
 > To Discuss: Research: [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
+
+### Thursday 
 
 > To Discuss: [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
@@ -982,11 +993,6 @@ Further Reading:
 > More TBD (including selections from *All We Can Save*)
 --> 
 
-Further reading:
-
-- [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
-
-- ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
 
 
 ## Week 11: Nationalist Critique
@@ -998,7 +1004,12 @@ Further reading:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-### Tuesday: Power and population
+### Tuesday: ELECTION DAY 
+
+
+### Thursday: 
+
+#### Power and population
 
 - Background on securitization: [All Hail The Planet: Military](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#military) (11:38)
 
@@ -1020,7 +1031,10 @@ Neo-Malthusian:
 
 > To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
 
-### Thursday: Immigration and ethno-nationalist critique
+
+#### Immigration and ethno-nationalist critique
+
+
 
 <!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
 
@@ -1090,7 +1104,8 @@ Collective action
 >  To Discuss: Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
 --> 
 
-Governing institutions
+
+Governing institutions:
 
 > To Discuss: *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)` 
 
@@ -1099,8 +1114,13 @@ Governing institutions
 - Why does Unger think that debates among critics and defenders of capitalism are incoherent? 
 -  What does Unger mean by the "plasticity" of institutions? 
 
+
 > To Discuss: Research: Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
 
+
+Polycentric governance and collective action: 
+
+>  To Discuss: Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
 
 Further reading: 
 
@@ -1109,13 +1129,19 @@ Further reading:
 
 ### Thursday: Regulation and Electoral Institutions
 
-> To Discuss: [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
+- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
-> Background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
+
+> To Discuss: [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
 
 > To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
 
 > To Discuss: Skim selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
+
+- Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
+
+
+> To Discuss: [How bad could Trump be for renewables? A previously unreported study predicts a massive decrease in solar, wind, and battery development if Trump adopts just one proposal in Project 2025.](https://open.substack.com/pub/heated/p/how-bad-could-trump-be-for-renewables?r=3m97t&utm_campaign=post&utm_medium=email)
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
@@ -1197,7 +1223,7 @@ Further reading:
 - 4. ESG [disclosure rules](https://www.sec.gov/files/33-11275-fact-sheet.pdf)? 
 - 5. Shareholder activism?
 
-> [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`-->
 
 
 <!--
