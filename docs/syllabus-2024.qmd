@@ -1101,7 +1101,7 @@ Further Research:
 <!--
 Collective action
 
->  To Discuss: Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
+>  To Discuss: 
 --> 
 
 
@@ -1154,6 +1154,8 @@ Electoral institutions:
 
 
 Further reading: 
+
+- Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
 
 - [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
