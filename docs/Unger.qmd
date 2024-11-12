@@ -1,0 +1,281 @@
+---
+title: "Politics: The Central Texts"
+author: "Roberto Mangabeira Unger"
+format:
+ revealjs:
+   incremental: true   
+   background-opacity: 0.2
+   #background-image: "earthrise_vis_1092_lrg.png"
+   #background-opacity: "0.2"
+   data-background-image: "earthrise_vis_1092_lrg.png"
+   data-background-size: cover
+   data-background-opacity: "0.2"
+   background-image-size: "cover"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+
+## Formative Context and False Necessity
+
+> Here we are---   
+Energy,   
+Mass,  
+Life,  
+Shaping life,  
+Mind,   
+Shaping Mind,  
+God,  
+Shaping God,   
+Consider---  
+We are born  
+Not with purpose,   
+But with potential.  
+- Octavia Butler, Parable of the Talents
+
+de Beauvoir posited that minds (and thus, to a large extent, bodies) are products of socially defined context. We shape and are shaped by our context. Perceptions and practices of subjectivity and agency are learned. As Unger would say, the content of gender is up for grabs. Unger extends this, arguing that all forms of stability in the social world are mere "frozen politics" (12), "complicated and precarious settlements" (135) that could break loose at any time.  Like Foucault, de Beauvoir, and others, Unger believes that we can study and theorize about the genealogy of institutions, social practices, and the objective nature of our subjectivity, situations, and potential alternatives. Apparent constants or similarities across institutions are usually the results of them being copied from elsewhere--reproduction and diffusion. There is no human nature (20). No proper order of emotions, virtues, or vices (25). "There are just too many ways to be human" (30). There are no necessary kinds of relations or forms of organization. No natural order or "natural law of human history" and no end (21). All social roles and forms of organization are up for grabs. The aim is to "free ourselves from a social script that both subordinates us unnecessarily to an over-powering scheme of class, communal, gender, and national divisions and denies us as individuals as groups, and as whole societies, a greater mastery over the institutional and imaginative contexts of our lives" (8).^["Those who have been converted to the idea of a transformative vocation cannot easily return to the notion of work as an honorable calling within a fixed scheme of social roles and hierarchies, nor can they remain content with a purely instrumental view of labor as a source of material benefits with which to support themselves and their families" (13). Very millennial.]
+
+Unger puts this in more direct conversation with Marx and Lukács, who also see the mind and society as an artifact. But, Unger argues, Marx, Lukács, and other deep-structure theorists fell into the trap of necessitarian thinking. By assuming (theorizing?) foundational superstructures and world-historical sequences, they failed to take the society-as-artifact insight all the way. "These theories repeatedly betrayed their understanding of society as an artifact by the fashion in which they turned this understanding into a concrete praxis of social explanation" (228). 
+
+- Does de Beauvoir succeed in avoiding this kind of error?  
+- How is this similar or different from Chakrabarty's critique of explanatory narratives? Does Unger succeed in avoiding reification?
+
+## Plasticity
+
+> All that you touch  
+You Change.  
+All that you Change  
+Changes you.  
+The only lasting truth  
+is Change.  
+<!--God  
+is Change.  -->
+- Octavia Butler, Parable of the Sower
+
+To the extent that formative context has a fundamental feature (we can debate whether it can), Unger would replace "mode of production" with "plasticity" / "negative capability"/ "disentrenchment"/ "denaturalization"/ "emancipation from false necessity"--i.e., openness to change. Two key features of an institutional context are (1) "the degree to which a formative context can be challenged in the midst of ordinary social life...[and (2)] the relative disengagement of our practical and passionated dealings from a preexisting structure of roles and hierarchies" (173). Some institutional structures contain and inhibit change (mainly by limiting the imagination of alternative arrangements). Others build in features that foster their own reimagination and transformation. The upshot of plasticity is that it closes the gap between human longings and circumstances (18). 
+
+## Questions
+
+- What is Unger's critique of deep structure theorists (e.g., Marx)? 
+- What is Unger's critique of modern social science? 
+- Why does Unger think that debates among critics and defenders of capitalism are incoherent? 
+-  What does Unger mean by the "plasticity" of institutions? 
+
+## Super Theory and Ultra Theory 
+
+Unger identifies three moves made by deep structure theorists, of whom Marx is the most prominent example.
+
+1. The conceptual difference between formative context and formed routine (see 73 for a good definition)
+
+2. A discrete list of possible structures (feudalism, capitalism, communism, etc.)
+
+3. Deterministic historical sequences from one deep structure/stage to another
+
+Positivist social scientists deny the first ("institutional fetishism") and implicitly assume versions of the latter two.
+
+Unger would have us keep the first and abandon the latter two. 
+
+Unger outlines two approaches to do so but only pursues one (86-89). He ironically calls these methods "super theory" and "ultra theory." Super theory aims to use social science insights to advance a non-positivist theory of society, society as an artifact but one that can be studied and understood in limited, historically contingent ways that nevertheless point towards interventions that could transform it. Ultra theory also takes society as an artifact but rejects the attempt to develop any theoretical system. Ultra theory sounds like Hokenmeir and Adorno: relentless critique to undermine all claims to systematic theory. 
+
+Unger sees ultra theory as a defensible approach but warns against falling into the same trap that positivists fall into in trying to find a firm ground for their critique. In my reading, Horkheimer and Adorno seem to avoid this trap. What do you think?  Unger's other concern about skeptical postmodern criticism is that it, like deep-structure theory, may deprive us of constructive insights.
+
+Super-theory, conversely, is at risk of falling into the deep-theorist trap of assuming necessary structures of sequences in their effort to explain and make sense of the world. "When we reach toward general explanation, we often lapse back into deep-structure moves" (55). If society is an artifact, if it is all politics, then no conceptual distinction can be foundational, no deep structure can be world-historical, and every configuration of institutions is distinct and contingent on a unique history of bargains. 
+
+# Totality and The Way Out
+
+By keeping the context-routine distinction and abandoning discrete structures or sequences, Unger splits the totality in two (maybe others have done this, but Unger eschews citations, so it is hard to tell when he is borrowing). We are in a totality in the sense that received presuppositions inevitably influence our thinking. But "capitalism" is not *a* totality. It is many.^[There seems to be both a parallel and contradiction with Kojève here. Like Kojève, a formative context is a large collection of different kinds of presuppositions. However, for Unger, these components hang together accidentally and can be rearranged (though some forms of property organization do seem to be more compatible than others in Unger's mind). The big difference is that Unger sees no end to history (21); there will always be struggles and changing practical and passionate relations (context revision). As a result, it seems that Unger is unconcerned with differentiation. Is this right?] 
+The way out is not through (or at least not through any particular stages); it is to tinker with institutions in presupposition-undermining ways.^[Unger would say "revolutionary reform," but tinkering is a pretty good word for imaginative and experimental action aimed at transforming institutions, no?] The way out is by "doing things that cannot be dreamt of in the established mental or social world rather than by creating the world that could realize all dreams" (19).
+
+> "The power to make society always goes beyond all the societies that exist or that have existed, just as the power to discover the truth about the world cannot keep within the forms of discourse that are its vehicles." (21) 
+
+Unger seems much more optimistic about our potential as "context-revising agents" (227 and elsewhere) than Horkheimer and Adorno. Both are interested in our imaginative potential to create something new, but Unger seems to see it happening in many more places than High Art. 
+
+> "Our beliefs about ideals and interests are shaped by the institutional and imaginative frameworks of social life. But they are not shaped completely...We regularly invest our recognized interests and ideals with ill-defined longings that we cannot satisfy within the limits imposed by our current institutional and imaginative assumptions." (7)
+
+The Subject's objective nature is far from fully determined and seems to be highly available to anyone. 
+
+
+> "All our major problems in understanding of society arise from...the difficulty of accounting for the actions of a being who, individually and collectively, in thought and relationship, might break through the contexts within which he ordinarily moves. The truth of human freedom, of our strange freedom from any given finite structure, must count, count affirmatively, for the way we understand ourselves and our history." (23-24)
+
+Unger seems aligned with Chakrabarty and others on the need for perspective (to "see the settled from the angle of the unsettled") but does not give subaltern culture a special role. Perhaps this is because, for Unger, there is no essential "capitalism" and "outside"---only different configurations of institutions.^[Am I right that anyone can do this imaginative work, or did I miss somewhere where Unger talks about how some social stations predispose one to see the difference between context and routine and imagine alternatives?]
+
+Like Chakrabarty and Adorno, different historical institutional configurations are pools of imaginative resources to be adapted and reconfigured---the raw material of society-making^["economic capital, state power, practical knowledge, and accepted moral and social ideals" (34)--but this can't be the full list, right?!?]---"the wealth of materials available for context-transforming use: the surviving residues of past institutional arrangements and imaginative worlds, the stubborn anomalies of a social order" (8).
+
+# Transformation without Revolution
+
+Unger emphasizes his commitment to the radical project and transformative change, but one of his argument's real practical implications is that incrementalism can be transformative; no revolution is required. He downplays the incrementalism, calling it "revolutionary reform," perhaps to avoid sounding like a reformist liberal tinkerer (which Unger is very sure he is not). Still, the potential for institutions to be changed is the linchpin of organizing strategy. In sharp contrast to Marxist claims about the necessity (strategically, theoretically, historically) of revolution, Unger argues that 
+
+> "The normal mode of transformative action is revolutionary *reform*, defined as the substitutions of any one of the loosely and unevenly connected arrangements and beliefs that go into the making of a formative context. A revolutionary reform changes the institutional and imaginative presuppositions taken for granted in the everyday struggles over the uses and mastery of the resources --- of capital, governmental power, technical expertise, or legal and moral justification ---that enable the occupants of some social status to set terms to what the occupants of other coastal stations do...Revolution becomes the limiting case of transformative action rather than the sole alternative to the statecraft of stability through tinkering." (84, see also Chapter 7 starting on 150)
+
+Conservative tinkering maintains institutions; imaginative tinkering sets things in motion. Unger often uses the example of changing the level of public control over the basic flows of investment decisions. 
+
+> "If industrial democracy is interpreted to mean a limited level of worker participation in business decisions, it may be accommodated without major disturbance to the established institutional and imaginative framework. Suppose, however, it is understood to require a shift in the basic form of capital allocation and control over investment decisions. It will then also shake up the imaginative vision that contrasts an area reserved for democratic principles with a realm governed by voluntary contract and technical hierarchy [in the current institutional context, not *necessarily*, of course]." (168)
+
+Another good example of formative context, concretely defined in a realistic reform, is the right of incorporation (94).
+
+Unger believes that the false idea that revolution is required for transformative change is causing the left to miss opportunities, as do the purity tests of orthodoxy. "Experiments in thought and action were stifled by the fear that they might be viewed as an apostasy...a willful closure to the surprises of politics" (43-44). Furthermore, The unwarranted skepticism of institutional reform also leads to pessimism and demobilizing disillusionment with the practicability and the benefits of alternative forms of organization" (128). "False consciousness" is less of a problem than the suppression of imagination about alternatives, "assumptions about the possible and the real" that result from conflict being successfully contained and the current order winning a perceived "second-order necessity" (129). Indeed, in Unger's telling, "false consciousness" rings false. There can be no "true" consciousness if consciousness is truly up for grabs. 
+
+Positivists' conflation of context and routine is even less imaginative and thus more dangerous---"their practice has a built-in propensity to take the existing framework of social life for granted and thereby to lend it a semblance of necessity and authority" (4).
+
+In both cases, "superstition then encourages surrender." (6) Belief in fate, lawlike forces, or an end of history hold back both the radical and liberal projects. 
+
+One example: why has universal suffrage not led to more redistribution of wealth, income, and power? Liberals think most people are happy enough with the current arrangement. Marxists think the proletariat has a false consciousness. Unger thinks that both are failing to imagine alternative social orders that could advance their programs; even when we have the power to redistribute wealth, we are taking inherited systems for granted, perceiving them as more natural/necessary than they are, and thus failing to believe in and thus failing to invent new forms of organization. (126-129)
+
+## What counts? 
+
+I am left wanting clarity on exactly the kinds of change count as transformative. Unger provides many examples and is, of course, constitutionally prohibited from offering a closed list, but if a general social theory is the aim, should we not have more general answers to this kind of question?
+
+> A critic may object that we have explained little until we have established the necessary and sufficient conditions for escalation. But a corollary of one major thesis of this book is that we cannot draw up such a list of necessary and sufficient conditions...Instead of necessary and sufficient conditions, the view presented here recognizes that some circumstances regularly encourage escalation while others discourage it."
+
+My questions/critiques here are less about nailing down the preconditions of change and more about the definition of transformation. Unger sees a dichotomy (of scale? of type? both?) demarcating preservation or change in formative context, even while formative context seems to be constantly changing.
+
+- What if a policy change leads to transformation in one area but surpasses conflict in another (as many policies do)?
+- What is the lower bound for "presuppositions taken for granted"? Is no change too small to be considered revolutionary if it undermines a presupposition? 
+
+# Potential lines of critique 
+
+## 1. Is Unger's Marxist a straw man? 
+
+Are modern Marxists more compatible with his project than he lets on? Unger frames his project as both a fundamental rethinking (13)---a "radical alternative to Marxism" (227)---and a friendly "effort to correct and unify the radical project" (14) that is easily compatible with Marxian thought. How big of a change is required? How important are discrete structures and deterministic stages to modern Marxism/Marxianism?^[Unger tries to preempt this critique on 57-60. Does he correctly characterize modern Marxian thought?] 
+
+**Why discrete structures and stages might be important**
+
+Most importantly for praxis (and perhaps theory), discrete stages imply a totality that must be totally remade. Unger's approach allows incrementalism and change from within, while the orthodoxy that Unger seems to correctly describe requires total revolution. 
+
+- "Stages" language permeates Marxist praxis. We are told we are in "late-stage" capitalism.^[Is Unger persuasive that "capitalism" is incoherent (46-53)? I found it a more persuasive critique of capitalism as a stage than as a formation. I also found myself thinking about Madison, where most people are not employed by for-profit organizations. Do we live in a capitalist society or not?] The solution is the "communist" stage.
+
+![Capitalism?](figs/employers.jpeg)
+
+**Why discrete structures and stages might not be so important**
+
+- The idea of Communism in one country, communist participation in party politics, and more seem to suggest that Marxists believe that incremental change is possible. Indeed, modern communists seem more Ungerian than accelerationists. As Unger says, "Hopefully, democrats everywhere follow closely any sign of a social experiment, any place on earth, hoping that it may reveal something about the unexplored opportunities for the advancement of the radical project." (57) Maybe radials are open to experiments and marginal gains after all?
+
+- Despite all of their bomb-throwing, Hokenmeir and Adorno hint that all is not hopeless; there are marginal ways that artists can still make something new. We are not totally trapped. And to the extent that we are not totally trapped, there seems to be room for Unger's transformative incrementalism. 
+
+How would Marx and Lukács respond to Unger?
+
+## 2. Is Unger's social democrat a straw man?
+
+Proponents of social democracy might argue that they have the same goals, and their program is no less aimed at plasticity. Unger accuses social democrats of abandoning framework-transforming commitments. The biggest problem seems to be progressives' comfort with the technical management of social problems. How big a problem is this? Unger asks, "Is social democracy the best that we can reasonably hope for?" (15) The social democrat might ask, "Is petty bourgeoise democracy the best we can hope for?" Would Unger or social democrats answer "yes" to either question? 
+
+
+## 3. Is Unger vulnerable to his own critiques? 
+
+Unger acknowledges that his project risks falling into the deep-structure theorists' trap of asserting general patterns. Unger frequently describes "the" features or differences in society in ways that seem to transcend the particular cases he is discussing--he is building theory after all. 
+
+Where is the line between inappropriately deep theory and appropriate modeling of observed social facts and relationships? In my mind, theory should generalize beyond the case. Unger's argument against closed lists is persuasive (every empirical coding scheme I have used includes an "other" category). The particular critique of deterministic stages is also persuasive, but patterns of cause and effect seem essential. At some point, we must say that x tends to lead to y, in theory, recognizing that our theory may be incomplete and our inferences contingent on external validity (the jump from what we observe to a broader claim). 
+
+More broadly, if everything is politics, this must include everything Unger says about theory. Super-theory and ultra-theory are not a closed list of possible ways out. Does Unger lack humility or imagination, or am I off base? 
+
+It was refreshingly congruent, if tedious at times, for Unger to narrate history as a contingent and unique "haphazard and hodgepodge process" (135), free from necessary forms and stages. However, every time he made any kind of general claim, I got suspicious. For example, "decentralization" and "the market form of economic order" (96 and elsewhere) and "industrial style" (103) seem to have some real substantive content for Unger. Does Unger fall into the deep-structure theorist's necessitarian thinking at times? Unger critiques Marxist reification of the market (111-113) and argues extensively that property and contract are always compromises^[Contract theory is irrelevant! Except that it occupies conceptual ground on which alternative market orders could be developed (120-121).], but I can't shake my suspicion that the abstract assumptions still lurk between the lines.^[Of course they do! "truth about the world cannot keep within the forms of discourse that are its vehicles."] Unger attempts to preempt this kind of anxiety:
+
+> "The answer, in a nutshell, has two parts: our concerns are not as unique as our situations, and our situations, in an age of partial emancipation from false necessity, enable us to treat anything proposed or tried out in one place as potentially applicable, with adjustments, everywhere else." (136)
+
+Is it satisfying?
+
+
+## 4. What is left for theory?  
+
+If Marxians are wrong to model deep structure ("macro foundations") discreetly, are game theorists similarly wrong to model "micro-foundations" discretely?^[Unger's critique of economists (63-71) implies that it must either abandon normative and descriptive debates and become pure analytic tool-making or pursue a theory like Unger's---public choice economics is incoherent statecraft.]
+
+Unger's "theory" --- his "style of generalizing explanation" (60) --- seems to be a little ad hoc. He frames it as a grand constructive project, but in practice, the result is a mix of explanations like "See! It could have gone either way," "What seems like an essential form is just diffusion," and "Here are some lessons from my re-telling of a particular historical episode." Maybe this is what a social theory move against general social laws must be.
+
+To use his own words, there is no "unrevisable and self-authenticating" truth; instead, we have understanding and insight. Science can only be a "process of self-correction...objectivity through maximum corrigibility" (27). Unger claims that this does not prejudice the possibility of cumulative insight but supplies us instead with a more modest and realistic version of objectivity---the assurance of not being definitively and completely imprisoned by whatever basic assumptions we happen to have inherited" (29); the objective nature of our subjectivity. 
+
+> "For Peirce, the scientific basis of objectivity in science became the gradual convergence of scientific opinion toward a final opinion...You can say the same, though with less assurance, of Hegel's idea of absolute insight. For, though we can interpret this idea as completed and unconditional knowledge, we can also read it as an ideal limit, never actually reached. It is the affirmative mirror image of the negative, cumulative practice of context smashing" (29)
+
+Difficult ground on which to construct social theory!
+
+# Is Unger a Bayesian Social Scientist? 
+
+In empirical models, we often say that $\beta$ represents the *average* effect of X on Y, *all else equal*, recognizing that we do not know what else exists. There is noise. There is error. There is happenstance. But probabilistic relationships, we say, can be uncovered. Is this the kind of theorizing Unger means? It seems on some level incompatible, but, and the same time, Unger consistently uses phrases like "tends to," "is closely connected with," and "is more likely to" throughout the book. 
+
+If Unger aims to draw non-positivist understandings from social science, he may have comrades in the Bayesians who see science as less about uncovering hidden truths and more about updating our understandings. Everything is contingent beliefs and uncertain probabilistic relationships. Bayesian statisticians believe that understanding is a combination of prior beliefs and observation. Do presuppositions present a problem for this kind of reasoning? Unger seems to want us to downweight our prior beliefs of what is possible. This is a good strategy for more clearly aligning prediction with observation, but it is not the best way to estimate the possible. Given the arbitrary nature of prior belief, is there room for faith (strong priors) in imagined forms of organization beyond what we see? Should we, in a sense, all else equal, dare to assume that desired worlds are possible when the world we observe tells us little? Is this a reasonable interpretation of what it means to substitute "beliefs that go into the making of a formative context"? Is imagination purely generative, or can we believe in things that we imagine?
+
+# Does Unger's Critique Apply to Positivist "Natural" Science?
+
+If society is just frozen politics, to what extent does natural science inappropriately freeze the natural world? To what extent can fields like ecology and climatology exist as positivist projects when their variables are increasingly the result of human behavior? 
+
+Is there anything "human" about Unger's theory? Can we truncate "There are just too many ways to be human" to "There are just too many ways to be" and thus sweep in any being (or at least any being with an imagination and a social context)?
+
+# Context-preserving Preserving Quarrels vs. Context-disturbing Struggles.
+
+Unger is clear that there is a categorical distinction between context-preserving and disturbing conflict (72-79). To be sure, it is a knife-edge distinction in practice. One can quickly turn into the other. However, he also uses the language of scale: "context-preserving quarrels so rarely *grow* into context-disturbing struggles" (129). Is there a difference in scale, or would Unger just as well have said "change" into context-disturbing struggles and saved me this confusion? On the one hand, we might say that context-transforming is big, necessarily bigger. On the other hand, the incremental steps to leading in a transformative direction depend not on the size of the step but on their cumulative direction. Indeed, "the positivist social scientist...cannot recognize the nature and extent of its transformative promise". 
+Yet, "The subjective sign of escalation is the growing intensity of the fighting" (169)---is this always the case for transformative change?
+
+Drawing a parallel to more empirical scholarship on policy change, Baumgartner and Jones offer a similar account to Unger, focusing more on the scale of change than the context-routine distinction.  Like Unger, they observe that policy changes in fits and starts with periods of stability.  They call this pattern Punctuated Equilibrium, arguing that societal interests strike bargains, forming a "policy monopoly" that suppresses conflict and leads to stability until some (usually external) perturbation forces new issue frames to the discourse and groups to strike new bargains. The new ideas and alignments cause new policies. 
+
+The punctuated equilibrium framework was critiqued and extended by [Cashore and Howlett](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00266.x), building on [Durant and Diehl](https://doi.org/10.1017/S0143814X00008114), who show that transformative policy change can occur in many deceptively small cumulative moves. Furthermore, what may often appear to be transformative change may be quickly reversed--they call this "faux paradigmatic" change. The latter may clearly result from reactionary moves or incorporationist dialectic. I am most interested in what Unger and we make of the former critique that small cumulative changes can be transformative. 
+
+
+![](cashore.png)
+
+We might also bring in other political concepts, including "policy drift" and "policy feedback" to Unger's discussion of "cumulative change" (77) and "policy diffusion" to institutional patterns that appear to be staged but turn out to be "a cut-and-paste job" (125) or "follow-the-leader sequence" (154).
+
+# The Program: Is Unger Simply Not a Communist?
+
+I know we try to avoid talking too much about programs, and I've probably been too practical already, but we might talk about the relationship between theory and program.
+
+How far does it get us to imagine a Marxian social science that lacks a commitment to communism? Is it this? Unger wants to free the definition of the radical project from its assumptions about the possible forms of organization (80). If you don't assume that the goal of praxis is Communism (or perhaps you do assume it is radical petty-bourgeoise democracy), is Unger basically where you land?^[Kojève, for example, also engaged in Marxian thought without a commitment to communism, but he was more invested in deep structure and less invested in social science.] Does his apparent attachment to petty-bourgeois formations color his analysis, or is it as derivative as he makes it out to be? I don't want to spend too long on the practical program, but it may be relevant to discuss how ideas about certain reforms affect theories that justify them. For example, if a group is committed to "a narrow conception of transformative possibilities" and thus "maintains the purity of its radical views at the cost of increasing difficulty in winning or maintaining electoral majorities," does Unger's critique still have value? How much of the practical value of this critique depends on being open to alternatives to communism?
+
+To back up a step, Unger appears to land on petty-bourgeois strategies for organizing production because of his desire to break down task-defining and task-executing roles. The breaking down of predefined roles is emancipation.^["The leading role of artisans, skilled workers, and small-scale producers and professionals and of the advocates of small-scale and cooperative enterprises in challenging the emergent dominant order of the modern West" (63). Also, see 110 & Chapter 12.] In addition to advancing freedom, liberation from presupposed roles and hierarchies can unleash productive potential.^[For example, see how the productive requirements of war destroy social roles. (184-204).] "Plasticity" is a "requirement" that must be "satisfied" (217-223). Decentralization, institutionalized political mobilization, self-organization of civil society, and other practical aims do seem to follow from Unger's commitment to plasticity as a means of emancipation, but he must admit at every turn that they are not the only way. We should be able to imagine others, right? Again, do we buy that the program falls out of the theory? 
+
+
+# Alternative Titles 
+
+If Unger wanted to be more provocative, what would be the best alternative title for *Politics*?
+
+- Against Revolution and Tinkering
+
+- Incremental Revolution (but I swear I am not a bloody tinkerer)
+
+- When Marxists and Liberals Agree, Both Are Wrong
+
+
+# Minor (?) Clarifications
+
+- When Unger says, "unless it does irremediable violence to some demand of personal or collective existence, there must be a remade social world in which it might figure," this is just a normative preference, not a theoretical or empirical claim that society cannot be remade in ways that do violence, correct?
+
+- Unger uses "backward country" (e.g., 138-139). I expected this to be ironic, but if it was, I did not get the joke. 
+
+<!-- 
+I will try to organize the many questions I gave you into three parts: 
+his theoretical move, 
+his epistemological move, 
+and his program. 
+I assume we will devote time to them in about order. 
+
+1. Theory first: 
+In short, what de Beauvoir shows to be true about gender -- it's all politics -- Unger tells us is true about everything -- "it's all up for grabs," as he often says. 
+
+The whole base-superstructure thing and stages of development need to go out the window. 
+
+I found that part of it totally convincing, so most of my questions boil down to who would disagree with this and on what grounds?
+
+I also wonder whether Unger de Beauvoir fully succeeded in avoiding necessitarian assumptions. It seems like a hard thing to do, and while I can't really put my finger on anything, I would not be surprised to see it. 
+
+2. His theory demands an anti-necessitarian, non-foundationalist, non-positivist epistemology. 
+
+What does it mean to understand things without big organizing frameworks or discoverable truths? 
+
+Are there others already doing something like that, or is this really new? 
+
+3. Finally, his program is interesting and counterintuitive for a radical used to thinking about the industrial working class
+
+Again, who would reject this program, and on what grounds? If we think people are more likely to agree with his critique of his program, where is the disconnect that would give rise to that? 
+- Do they disagree with his critique? 
+- Is it simply people have different commitments than Unger
+- Or can we imagine different paths to his end goals of emancipation from social scripts and more plastic institutions? I am particularly interested in the social democrats and the Subaltern. Is there any reason to believe that social democrats, feminists, abolitionists, and the like don't advance Unger's same goals without putting so much stock in petty-bourgeois radicalism? 
+To bring it back to the beginning, if Chakrabarty and de Beauvoir are not wrong, then perhaps organizing the oppressed is an equally good use of time that accomplishes all the same results as organizing professionals, artisans, and small business owners. If so, the program becomes a much less important part of this book. 
+
+But let's start with the critique, 
+are you convinced that we should replace "mode of production" with "openness to change" as the most essential feature of formative context? Or perhaps a formative context can't have essential elements at all? 
+
+-->
+
+
