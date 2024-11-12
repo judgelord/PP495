@@ -1118,9 +1118,6 @@ Governing institutions:
 > To Discuss: Research: Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
 
 
-Polycentric governance and collective action: 
-
->  To Discuss: Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
 
 Further reading: 
 
@@ -1136,12 +1133,12 @@ Further reading:
 
 > To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
 
-> To Discuss: Skim selections from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change `(Canvas)`
+> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP495/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas)`
 
 - Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
 
 
-> To Discuss: [How bad could Trump be for renewables? A previously unreported study predicts a massive decrease in solar, wind, and battery development if Trump adopts just one proposal in Project 2025.](https://open.substack.com/pub/heated/p/how-bad-could-trump-be-for-renewables?r=3m97t&utm_campaign=post&utm_medium=email)
+> To Discuss: [How bad could Trump be for renewables? A previously unreported study predicts a massive decrease in solar, wind, and battery development if Trump adopts just one proposal in Project 2025.](https://open.substack.com/pub/heated/p/how-bad-could-trump-be-for-renewables)
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
