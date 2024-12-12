@@ -42,8 +42,8 @@ I expect the annotated bibliographies to grow significantly as you respond to cr
 
 As above, include a word count between the title and the essay.
 
-- Three revised headlines and the first 400 words for each + annotated bibliographies
-- Two revised first 400 words + annotated bibliographies  
+- Three revised headlines and the first 400 words for each + annotated bibliographies + a link to a google sheet with one row for each bit of feedback you received and how you are addressing it
+- Two revised first 400 words + annotated bibliographies + the link to your revision tracking google sheet
 
 
 
@@ -55,9 +55,9 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
-- One 750-800 word op-ed + annotated bibliography
-- Revised op-ed  + annotated bibliography
-- Final op-ed + annotated bibliography
+- One 750-800 word op-ed + annotated bibliography + the link to your revision tracking google sheet
+- Revised op-ed  + annotated bibliography + the link to your revision tracking google sheet
+- Final op-ed + annotated bibliography + the link to your revision tracking google sheet
 
 # Assessment 
 

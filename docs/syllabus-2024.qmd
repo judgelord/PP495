@@ -294,7 +294,7 @@ Because nearly all assignments are either revised versions of previous submissio
 - If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
 - Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
 
-Under extenuating circumstances, I will attempt to work out some alternative review cycle.
+Under extenuating circumstances, I will attempt to work out some alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
 
 
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
@@ -317,10 +317,10 @@ Questions should represent two specific types according to the following classif
 
 - Clarification/Comprehension (e.g., What does X mean?)
 - Analytical/Interpretive (e.g., How does X evidence relate to Y point?)
-- Synthetic/Evaluative (e.g., Are you convinced by the author’s argument that X)
-- Connective/Comparative (e.g., How does X’s argument compare to Y’s we read last week?)
+- Synthetic/Evaluative (e.g., Are you convinced by the author’s argument that X? ) If you choose this question, be sure to say why the argument is provocative or has important implications. If you think a statement is obviously correct or trivial, then it is not worth discussing whether we agree with it.
+- Connective/Comparative (e.g., How does X’s argument compare to Y’s we read last week?) If you choose this question, point us in the direction of some key similarities or differences. 
 - Provocative/Argumentative (e.g., Doesn’t evidence X undermine author’s point Y?!)
-- Applied/Extended (e.g., What light does X point shed upon current problem Y?) If you choose this - question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a - mindless invitation to extend an analysis across policy problems.
+- Applied/Extended (e.g., Does X point help explain current problem Y?) If you choose this question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a mindless invitation to extend an analysis across policy problems.
 :::
 
 ### Make up policy 
@@ -467,6 +467,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 - How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
 - How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How do the Heritage Foundation's policy proposals implicitly respond to climate change and energy transition? 
 
 > To Discuss: [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
 
@@ -495,6 +496,8 @@ This week, we are hearing from fairly mainstream policy people who work in simil
 Background: 
 
 - [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
+
+> To Discuss: [](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
 
 
 
@@ -732,7 +735,7 @@ Aesthetics-->
 
 ## Week 5: Utilitarianism and Technology
 
-> "For the conservationists of the Progressive ers, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
+> "For the conservationists of the Progressive era, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
 
 - How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
 - What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
@@ -1004,16 +1007,11 @@ Background:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-### Tuesday: ELECTION DAY 
-
-
-### Thursday: 
-
-#### Power and population
+### Tuesday:  Power and population
 
 - Background on securitization: [All Hail The Planet: Military](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#military) (11:38)
 
-Great power competition: 
+Great power competition v. cooperation: 
 
 > To Discuss: Opinion: ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
 
@@ -1032,7 +1030,7 @@ Neo-Malthusian:
 > To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
 
 
-#### Immigration and ethno-nationalist critique
+#### Thursday: Immigration and ethno-nationalist critique
 
 
 
