@@ -4,6 +4,10 @@ Experts increasingly see the slow policy response to climate change as having le
 
 This is a small upper-level reading- and writing-intensive seminar that focuses on persuasive writing for a public audience and constructive criticism. The aim is to help you develop your own critique of various policy debates over what to do about our new relationship with our biosphere and communicate your ideas clearly.
 
-# - [Fall 2024 Syllabus](syllabus-2024.html) 
+# - [Fall 2025 Syllabus](syllabus.html) 
 
 # - [Assignment Guide](assignments.html)
+
+Previous versions
+
+- [Fall 2024 Syllabus](syllabus-2024.html) 
