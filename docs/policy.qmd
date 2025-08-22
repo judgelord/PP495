@@ -1,0 +1,224 @@
+---
+title: "Possible Changes to U.S.  Climate-Relevant Policy"
+subtitle: ""
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "https://www.whoi.edu/wp-content/uploads/2022/02/WHOI-Ward-Cover2.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   footer: "(more at [judgelord.github.io/PP495/policy](https://judgelord.github.io/PP495/policy#/title-slide) )"
+   incremental: false   
+   smaller: false
+   scrollable: true
+   theme: [michigan.scss, oil.scss]
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
+
+## TL;DR
+
+- Big governmental support for oil, gas, and mining, including:
+    - using the military to aid transport and refining
+    - price supports and subsidies, including for private pipelines
+    - taking private property (e.g., for pipelines)
+- Ban offshore wind and redefine wind & solar as not "energy"
+- End support for water, fuel, or energy efficiency
+- Expedite pollution permits and health/safety/cost review^[Directing legal compliance questions to courts (but also reducing judicial oversight?)]
+- Expand oil, gas, and mining on public lands
+- Rescind requirements to disclose climate risks
+- End international cooperation on climate change
+
+## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/) {background-opacity="0.3" background-image="https://www.gannett-cdn.com/-mm-/7943967a784f994f95931170ff2923f74c7e0899/c=0-139-2000-1269&r=x1683&c=3200x1680/local/-/media/2016/08/01/USATODAY/USATODAY/636056598017637651-AP-California-Wildfires.14.jpg"}
+
+To promote oil, gas, biofuels, nuclear, and mining,^[More specifically, “energy” is defined as "crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals"]
+government agencies should:
+
+Sec. 2. Consider using eminent domain & the Defense Production Act to commandeer private lands and companies^[The Brennan Center has a great summary of [Emergency Powers](https://www.brennancenter.org/our-work/research-reports/guide-emergency-powers-and-their-use). Interestingly, this Energy Emergency E.O. does not mention that a Governor of a State may petition the President to suspend any part of a Clean Air Act implementation plan or any requirement under Section 110(f) (42 U.S.C. § 7651j), which Carter granted to fossil fuel power plants during [regional energy emergencies in the 1970s](https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs).]
+
+Sec. 3-6. Exempt projects from normal health/safety/cost review
+
+- Emergency approvals of public lands leases, pollution permits <!--, production, transportation, refining--> 
+- Waive Clean Water Act protections for water quality, wetlands, & coastlines^[As I read it, the emergency powers of the CWA focus emergency *restrictions* to prevent contamination/poisoning, not to permit it.]
+- Emergency exemptions from Endangered Species Act restrictions on impacts that cause extinctions
+  
+Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil and gas transport and refining 
+
+**Updates:**
+
+- Army Corps claims "emergency" authority  to fast track CWA permits for Line 5 and  Blue Marlin, but the legal argument is still unclear -  [NYT Feb. 19, 2025](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
+
+**Is it following the Project 2025 playbook?** 
+
+> ✘ "**Stopping executive overreach.** Congress should set policy---not Presidents through pen-and-phone executive orders, and not agencies through regulations and guidance. National emergency declarations should expire absent express congressional authorization within 60 days after the date of the declaration." - Project 2025
+
+
+## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {background-opacity="0.3" background-image="https://heartlanddailynews.com/wp-content/uploads/2021/03/LNG-export-terminal.jpg"}
+
+To promote oil, gas, coal, hydro, biofuels, mining, and nuclear industries, government agencies should:
+
+Sec. 2. 
+
+- Direct more federal funds to 
+  - offshore oil and gas
+  - mining 
+- Use no federal funds for 
+  - energy efficiency 
+  - water efficiency
+  - fuel efficiency 
+  - electrification, especially not anything related to EVs^[By “electric vehicle (EV) mandate,” this E.O. means (1) the part of the Clean Air Act currently [before the Supreme Court](https://www.cbsnews.com/news/supreme-court-california-epa-waiver-vehicle-emissions-standards/) that allows California to set its own fuel economy standards for cars and trucks, and (2) IRA subsidies for EVs and other technologies that effectively make EVs cheaper and thus "other types of vehicles affordable." More from NPR [here](https://www.npr.org/2025/01/30/nx-s1-5272749/donald-trump-ev-electric-vehicles-subsidies-auto-industry)]
+- Not consider international effects in policymaking
+
+Sec. 3-4. Deregulate oil, gas, coal, hydro, biofuels, mining, and nuclear industries
+
+Sec. 5. Eliminate or expedite environmental review and permitting
+
+- Replace all binding rules implementing the National Environmental Policy Act with nonbinding guidance.^[Environmental Impact Statements will still be required by NEPA (a statute), but I don't see anything in the [NEPA text](https://www.energy.gov/sites/default/files/2023-08/NEPA%20reg%20amend%2006-2023.pdf) requiring any agency to write binding rules governing EIS.] (NEPA compliance will thus be more often decided by courts.) 
+- Reduce judicial review of legal compliance (e.g., NEPA)^[What courts can review is generally up to Congress and the courts (or so say the courts at least). I'm curious if there is a policy or legal argument here.]
+- Draft recommendations to Congress on pipeline permitting and construction
+
+
+Sec. 6. Change cost-benefit analysis 
+
+  - Exclude the [social costs of pollution](https://news.bloomberglaw.com/environment-and-energy/trump-aims-to-end-carbon-metric-that-puts-price-on-climate-harms)
+  - Exclude [co-benefits](https://www.sciencedirect.com/science/article/pii/S1462901115301064) of reducing pollution 
+  - Exclude [international effects](https://www.yalejreg.com/nc/internationalizing-regulatory-review-by-elena-chachko/)
+  - Use higher discount rates (further down-weighting costs and benefits for future generations)
+  
+Sec. 7. Pause the disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act.^[On Jan 21, OMB [clarified](https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/) that this only applies to funds supporting programs, projects, or activities that may be implicated by the policy established in Section 2"]
+
+- Especially no money for electric vehicle charging stations
+
+Sec. 8. Approve gas export projects
+
+- Skip NEPA review if possible
+
+Sec. 9. Help companies do more mining on public lands
+
+- More government funds to locate minerals for companies to mine
+- More government funds for mining projects
+- Increase National Defense Stockpile of minerals to increase demand and provide supply when there is scarcity in the market
+
+> "**Strategic National Stockpile.** The President should invoke the Defense Production Act, which is a form of temporary takeover of private enterprises, only in the gravest circumstances...The SNS should clarify its mission as supplier of last resort to the federal government, state governments, or first responders."  - Project 2025" 
+
+
+## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
+
+Government agencies should: 
+
+- Expedite permitting and leasing, especially for gas export and pipelines
+- Exempt gas export from regulations 
+- Open Arctic National Wildlife Refuge to oil and gas extraction
+- Replace many 2024 Environmental Impact Statements with 2020 versions
+- Remove protections for subsistence resources
+- Deny the request for an Indigenous sacred site in the Coastal Plain of the Arctic National Wildlife Refuge
+- Permit more hunting and fishing on federal lands
+- Support companies operating the failing Trans-Alaska Pipeline
+- Build more roads in National Forests 
+
+## [Wind Projects E.0.](https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/) {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+
+Government agencies should: 
+
+- Temporarily (?) ban new offshore wind ("until this Presidential Memorandum is revoked.")^[Biden similarly [succeeded](https://apnews.com/article/biden-louisiana-new-orleans-gulf-of-mexico-b209a922546aefb35595dfe920b63b60) in banning *new* offshore oil and gas] 
+  - prevents consideration of any wind energy lease renewal
+  - does not apply to oil, gas, minerals
+- Review existing permits/leases to identify legal bases for terminating existing wind energy leases
+- Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
+- Require developers to pay for the removal of old windmills
+
+## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) {background-opacity="0.2" background-image="https://www.connect4climate.org/sites/default/files/images/event/unfccc-bonn_0.jpg"}
+
+Instructs agency officials to: 
+
+- Withdraw the U.S. from the Paris Agreement 
+- End all funds and commitments to the United Nations Framework Convention on Climate Change
+- Freeze and end funds for U.S. International Climate Finance (i.e., loans)
+
+<!--
+## [People over Fish E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/)
+
+More completely stop water from the  Sacramento and San Joaquin rivers from flowing into the Ocean, directing more water to lawns and crop irrigation.
+
+--> 
+
+
+## [Rescissions of "Harmful E.O.s" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)  {background-opacity="0.2" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
+
+Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like re-opening schools and offices after the pandemic] 
+
+**Highlights:** Federal agencies should: 
+ 
+- Rescind restrictions on leasing for oil and gas offshore and on public land
+- Rescind requirements to disclose climate risks
+
+Climate-Related E.O.s rescinded: 
+
+- Executive Order 13990 of January 20, 2021 (Protecting Public Health and the Environment and Restoring Science To Tackle the Climate Crisis).
+- Executive Order 14007 of January 27, 2021 (President’s Council of Advisors on Science and Technology).
+- Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad).
+- Executive Order 14027 of May 7, 2021 (Establishment of the Climate Change Support Office).
+- Executive Order 14030 of May 20, 2021 (Climate-Related Financial Risk).
+- Executive Order 14057 of December 8, 2021 (Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability).
+- Executive Order 14082 of September 12, 2022 (Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022).
+- The Presidential Memorandum of March 13, 2023 (Withdrawal of Certain Areas off the United States Arctic Coast of the Outer Continental Shelf from Oil or Gas Leasing).
+- Executive Order 14094 of April 6, 2023 (Modernizing Regulatory Review).
+- Executive Order 14096 of April 21, 2023 (Revitalizing Our Nation’s Commitment to Environmental Justice for All).
+
+## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://i0.wp.com/www10.aeccafe.com/blogs/arch-showcase/files/2011/03/EPA-press-book_sm_Page_04.jpg"}
+
+Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-based) positions as "Exempt" --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time
+
+- federal employees involved in "policy-determining, policymaking, or policy-advocating"
+- anyone supervising such employees
+- any other employees an agency director wants included
+
+Directs the Office of Personnel Management to rescind its 2024 rule “Upholding Civil Service Protections and Merit System Principles” and (in clear contradiction of the Administrative Procedure Act) declares that rule "inoperative and without effect."
+
+# Other E.O.s
+
+
+## [Council to Assess the Federal Emergency Management Agency](https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/)	{background-opacity="0.2" background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/FEMA_-_34427_-_FEMA_community_relations_worker_helping_a_young_resident_in_New_Jersey.jpg"}
+
+Establishes a council to look for political bias in disaster responses chaired by [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) and [Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem)
+
+
+- On Jan. 24, Trump suggested [eliminating FEMA](https://www.nytimes.com/2025/01/24/briefing/trump-visits-disaster-areas-high-egg-prices.html)
+
+
+**Following the Project 2025 playbook?** 
+
+> ✔️ "[O]pportunities include privatizing TSA screening and the Federal Emergency Management Agency (FEMA) National Flood Insurance Program, reforming FEMA emergency spending to shift the majority of preparedness and response costs to states and localities instead of the federal government, eliminating most of DHS’s grant programs, and removing all unions in the department for national security purposes."  - Project 2025
+
+# Further Developments 
+
+## Spending freezes and clawbacks
+
+- [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
+
+## Deleting Cimate Data and Websites
+
+- [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
+
+## Attempt to end [congestion pricing in NYC](https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html)
+
+- [Update](https://www.nytimes.com/2025/02/19/us/politics/trump-king-image.html)
+
+
+# Outstanding questions 
+
+
+## Links for more context 
+
+<!--https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61X4RoMGBtL._SY522_.jpg&f=1&nofb=1&ipt=5bed1e068b0dd6e9098f84809cebeb5168d73c1016ecc1effe0130b9059871c4&ipo=images--> 
+
+[2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further.](https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
+
+
+
