@@ -171,7 +171,9 @@ See the end of the syllabus for information about our commitment to best practic
 
 ## 📵 Technology in Class
 
-No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues. Out of respect to the instructor and your fellow students, put your cell phone away for the duration of class. 
+No screens in class (except as an accommodation via the U.M. Services for Students with Disabilities office). Research shows that they inhibit learning and distract your colleagues. Out of respect to the instructor and your fellow students, put your phone away for the duration of class. 
+
+You will not receive participation points for classes where you are on a screen during class time without permission. 
 
 ## 🛠️ Tools That Generate Text
 
@@ -307,7 +309,7 @@ Because nearly all assignments are either revised versions of previous submissio
 Under extenuating circumstances, I will attempt to work out some alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
 
 
-## Participation 22% (24 classes X 1% per class - 2 pass days) 
+## Participation - 22% (24 classes X 1% per class - 2 pass days) 
 
 - Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas Mondays and Wednesdays</mark> weeks 2-14. Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss class. 
@@ -384,7 +386,6 @@ Other books you may find useful:
 - *Uncertain Futures: How to Unlock the Climate Impasse* by Alexander Gazmararian and Dustin Tingley. Cambridge University Press
 <!-- *Rules for Radicals* by Saul Alinsky-->
 - *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
-  - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
 
 ## Resources 
 
@@ -405,11 +406,11 @@ Climate Change 101
 - [Climate Change FAQ - the New York Times Climate Desk](https://www.nytimes.com/interactive/2023/climate/climate-change-faq.html?)
 - [2024 Brought the World to a Dangerous Warming Threshold. Now What?](https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
 
-Assessments of Climate Models: 
+Assessments of Climate Models
 
 - [Analysis: How well have climate models projected global warming?](https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming/)
 
-Sources of Greenhouse Gases:
+Sources of Greenhouse Gases
 
 - [Watch Carbon Dioxide Move Through Earth’s Atmosphere - NASA](https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/)
 - [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
@@ -420,7 +421,7 @@ Attribution Science
 - 
 --> 
 
-## Background on "Net-zero" Technology]()
+## Background on "Net-zero" Technology
 
 - [BBC series *Memories of the Future*](https://www.bbc.com/reel/playlist/2045-memories-of-the-future)
 
@@ -510,6 +511,8 @@ Background:
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
 
 > To Discuss: [What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
+
+> [2025 Climate-Related Executive Orders](https://judgelord.github.io/PP495/policy)
 
 >  To Discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
@@ -1217,7 +1220,7 @@ Further reading:
 
 ### Tuesday: Opportunity Structure and Mobilizing Structures 
 
-> To Discuss: Research:[McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
+> To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
 
 > To Discuss: [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
 
@@ -1271,6 +1274,7 @@ Further reading:
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different?  
 
 Further reading: 
+
 - [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 - [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
