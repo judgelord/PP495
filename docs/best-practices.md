@@ -1,7 +1,5 @@
 # Best Practices for Our Classroom Environment 
 
-PP495 - Fall 2024
-
 (adapted from an exercise developed by Shobita Parthasarathy and from [Safe Spaces to Brave Spaces by Brian Arao and Kristi Clemens](https://www.anselm.edu/sites/default/files/Documents/Center%20for%20Teaching%20Excellence/From%20Safe%20Spaces%20to%20Brave%20Spaces.pdf) )
 
 Navigating a discussion-based course about politics can be challenging. People have strong opinions about politics. Some may have expertise in particular areas; sometimes, even those same people can feel overwhelmed in other conversations. My goal in this course is to provide you with conceptual tools, critical thinking skills, and models to help you better understand and participate in politics and policymaking. This will be most effective if we can create a “brave space” that allows each of you to participate “fully and truthfully”, take risks, and listen to and be empathetic toward one another. 

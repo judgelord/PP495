@@ -1,50 +1,104 @@
 ---
 title: "Glossary"
-format: html
+subtitle: "PubPol 475 <br> Climate Change and Democracy"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "https://eoimages.gsfc.nasa.gov/images/imagerecords/82000/82693/earthrise_vis_1092.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+# format:
+#  revealjs:
+#    incremental: true
+#    smaller: true
+#    scrollable: true
+#    theme: [michigan.scss, earthrise.scss]
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
 ---
 
 Many of these concepts are contested or take different meanings in different contexts. These are working definitions rooted in the readings as a starting point. I will add to this list as needed throughout the semester. 
 
+# Week 2
 
-**Anti-politics:** Ways of removing questions from political debate. An "argument stopper" (Purdy, p. 21) to "naturalize" one version of politics while excluding others from serious debate. Ways of evading politics, shutting down imagination and mobilization (e.g., by claiming that certain questions have been decided by nature) (Purdy, p. 31). 
+## **Industrial policy:** A broad genre of [policy tools](https://www.oecd.org/en/topics/policy-issues/industrial-policy.html) that involve the government guiding what goods or services are produced, where they will be produced, or how they will be produced.
 
-**Carbon Capture and Storage (CCS):**
+- What is produced may include incentives to produce specific technologies like microchips, solar panels, or hydrogen 
+- Where supporting domestic production over imports or production in certain geographies)
+- How may include prioritizing manufacturing with union labor, [paying higher wages](https://www.americanprogress.org/article/how-bidens-american-style-industrial-policy-will-create-quality-jobs/), farming with conservation practices, producing hydrogen with clean energy, or [prohibiting government funds from being used for stock buybacks](https://lpeproject.org/blog/saving-industrial-policy-from-shareholder-primacy/)
+- It often includes the support for industrial infrastructure (highways, ports, sewers) and skilled workforce needed to support those priorities. 
+
+This stands in contrast to *"laissez-faire"* and "supply-side" economic policy that aims to leave most such decisions up to businesses (with supply-side economics seeing a larger role for government in increasing investment).  
+
+- In a capitalist system, both industrial policy and *laissez-faire* policy aim to create and sustain markets as policy tools for economic growth. 
+- However, industrial policy uses price signals (e.g., subsidies or taxes) to guide economic activity toward a vision of the public interest (e.g., [mitigating climate change](https://rooseveltinstitute.org/publications/industrial-policy-synergies-industrial-policy-climate-policy/) or [strategic positioning in international trade](https://hbr.org/1982/01/why-the-us-needs-an-industrial-policy). In contrast, *Laissez-faire* market tools aim to empower businesses to decide what is produced, where, and how by minimizing subsidies and taxes. 
+- Some advocates of a more *laissez-faire* approach admit that government should use price signals like taxes on pollution to mitigate specific problems (dumping pollution for free) but argue that they should be as agnostic as possible as to where, how, and through what means businesses address the problem. Such problems are called "market failures" because the markets the government currently supports are seen as failing to mitigate (and perhaps exacerbate) the perceived problem.
 
 
-**Carbon Dioxide Removal:**
+
+
+
+# Week 3
+
+## **Politics:** Ways of having and resolving debates over what to do together. 
+
+
+## **Anti-politics:** Ways of removing questions from political debate. 
+
+An "argument stopper" (Purdy, p. 21) to "naturalize" one version of politics while excluding others from serious debate. Ways of evading politics, shutting down imagination and mobilization (e.g., by claiming that certain questions have been decided by nature) (Purdy, p. 31). 
+
+
+
+## **Democracy:** A form of politics that strives for equal *voice* in debates and decision-making processes, and where a *vote* of all citizens plays a decisive role in decisions about what to do (Purdy, p. 49-50). 
+
+In addition to equality of votes and voice, Purdy also includes an exemplary/prophetic dimension of democracy related to the ability of citizens to live in different ways (including protections for diversity in speech and religion that are often called **liberal democracy**) and thus serve as a model for future policy and politics. 
+
+## **Carbon Capture and Storage (CCS):**
+
+
+## **Carbon Dioxide Removal:**
 
 - Direct Air Capture 
 - Biotechnology with Carbon Capture and Storage (BECCS)
 - Enhanced Weathering 
 
 
-**Democracy:** A form of politics that strives for equal *voice* in debates and decision-making processes, and where a *vote* of all citizens plays a decisive role in decisions about what to do (Purdy, p. 49-50). In addition to equality of votes and voice, Purdy also includes an exemplary/prophetic dimension of democracy related to the ability of citizens to live in different ways (including protections for diversity in speech and religion that are often called **liberal democracy**) and thus serve as a model for future policy and politics. 
+# And Beyond 
+
+## **Epistemic:**  Relating to knowledge. 
+
+Epistemic authority (Purdy p. 172): claims about authority based on knowledge. Epistemic beliefs: beliefs about the source(s) and methods of generating knowledge. Epistemic community: a group of people with shared epistemic beliefs. 
 
 
-**Epistemic:**  Relating to knowledge. Epistemic authority (Purdy p. 172): claims about authority based on knowledge. Epistemic beliefs: beliefs about the source(s) and methods of generating knowledge. Epistemic community: a group of people with shared epistemic beliefs. 
+## **Fascism** (Jason Stanley's definition): A method of politics, rhetoric, and technique to gain and retain power by identifying enemies, appealing to the in-group, and replacing truth with power. 
 
-
-**Fascism** (Jason Stanley's definition): A method of politics, rhetoric, and technique to gain and retain power by identifying enemies, appealing to the in-group, and replacing truth with power. Fascism focuses on tradition and hierarchy: 
+Fascism focuses on tradition and hierarchy: 
 
 > "If you think about fascism as a sliding scale, ordinary conservative politics is going to find itself somewhere on that scale --- which is not to say that it’s fascist at all, any more than ordinary Democratic politics is communist. But just as extreme versions of communism suppress liberty on behalf of radical equality, so too do extreme versions of right-wing politics, namely fascism, suppress liberty in favor of tradition and dominance and power." - Jason Stanley 
 
 
-**Ideology:** (also called worldviews, ways of seeing, styles of environmental imagination): Sets of assumptions and values that structure decisions. We may be more aware of some of these assumptions and values than others, i.e., some may be explicit, and some may be implicit. 
+## **Ideology:** (also called worldviews, ways of seeing, styles of environmental imagination): Sets of assumptions and values that structure decisions. 
 
-**Industrial policy:** A broad genre of [policy tools](https://www.oecd.org/en/topics/policy-issues/industrial-policy.html) that involve the government guiding what goods or services are produced, where they will be produced, or how they will be produced, including the support for industrial infrastructure (highways, ports, sewers) and skilled workforce needed to support those priorities. This stands in contrast to *"laissez-faire"* and "supply-side" economic policy that aims to leave most such decisions up to businesses (with supply-side economics seeing a larger role for government in increasing investment).  In a capitalist system, both industrial policy and *laissez-faire* policy aim to create and sustain markets as policy tools for economic growth. However, industrial policy uses price signals (e.g., subsidies or taxes) to guide economic activity toward a vision of the public interest (e.g., [mitigating climate change](https://rooseveltinstitute.org/publications/industrial-policy-synergies-industrial-policy-climate-policy/) or [strategic positioning in international trade](https://hbr.org/1982/01/why-the-us-needs-an-industrial-policy). In contrast, *Laissez-faire* market tools aim to empower businesses to decide what is produced, where, and how by minimizing subsidies and taxes. Some advocates of a more *laissez-faire* approach admit that government should use price signals like taxes on pollution to mitigate specific problems (dumping pollution for free) but argue that they should be as agnostic as possible as to where, how, and through what means businesses address the problem. Such problems are called "market failures" because the markets the government currently supports are seen as failing to mitigate (and perhaps exacerbate) the perceived problem. 
+We may be more aware of some of these assumptions and values than others, i.e., some may be explicit, and some may be implicit. 
+ 
 
-- What is produced may include incentives to produce specific technologies like microchips, solar panels, or hydrogen 
-- Where supporting domestic production over imports or production in certain geographies)
-- How may include prioritizing manufacturing with union labor, [paying higher wages](https://www.americanprogress.org/article/how-bidens-american-style-industrial-policy-will-create-quality-jobs/), farming with conservation practices, producing hydrogen with clean energy, or [prohibiting government funds from being used for stock buybacks](https://lpeproject.org/blog/saving-industrial-policy-from-shareholder-primacy/)
+
+## **Paradigm:** Similar to a worldview or ideology, but often focused less on explicit values and more on the questions and ways of generating knowledge that are seen as legitimate. 
+
+The term emerged in the history of science as a way of describing the orientations of scientists to particular questions and methods. It has since become popular in places like business schools. 
+
+
+
+# Terms To add
+
+**Solar Geo-Engineering (SRM):**
 
 **Overshoot:**
 
-**Paradigm:** Similar to a worldview or ideology, but often focused less on explicit values and more on the questions and ways of generating knowledge that are seen as legitimate. The term emerged in the history of science as a way of describing the orientations of scientists to particular questions and methods. It has since become popular in places like business schools. 
+**Degrowth:**
 
-
-**Politics:** Ways of having and resolving debates over what to do together. 
-
-
-**Solar Geo-Engineering (SRM):**
+**CBAM:**
 
 

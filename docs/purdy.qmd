@@ -26,7 +26,7 @@ execute:
 ---
 
 
-## Week 4: God and Nature 
+## Week 4: God and Nature {background-opacity="0.4" background-image="https://cdn.britannica.com/05/101105-050-AC5CA24E/American-Progress-painting-title-1872.jpg"}
 
 The religious, colonial, and mystic foundations of Western environmental law and politics: 
 
@@ -42,7 +42,7 @@ The religious, colonial, and mystic foundations of Western environmental law and
 - Divinely-ordered nature (Plato, Cicero, the just rule of kings) is threatened by brute nature (unholy, atheist, anarchist, equality, democracy)
 
 
-## Democracy in the Providential view of nature
+## Democracy in the Providential view of nature  {background-opacity="0.4" background-image="https://www.nebraskastudies.org/assets/images/0605_0201grange_b.original.2e16d0ba.fill-260x200-c100.jpg"}
 
 > "North America became, in the public language of its most powerful country, the emblem of a Creation made to be Developed and settled. The blooming landscape of freedom and prosperity was the reward of a democratic people unafraid to swing an ax and steer a plow. The political culture that celebrated settlement supported, too, a new ideal of personal dignity, free labor, in which work changed from a mark of low status to a democratic emblem of personal worth." 
 
@@ -57,7 +57,7 @@ The religious, colonial, and mystic foundations of Western environmental law and
 
 > "Gradations of inequality buckeled and broke becaue open land was available beyond the pale of the hierarchical sttlements." 
 
-## Anti-politics in the Providential view of nature
+## Anti-politics in the Providential view of nature  {background-opacity="0.2" background-image="https://cdn.britannica.com/05/101105-050-AC5CA24E/American-Progress-painting-title-1872.jpg"}
 
 - "Nature and nature's God took the side of the masters in the Massachusetts Bay Colony" (54)
 - God has given the natural world to man and demands cultivation. This is not up for political debate; it is the natural (Divine) order of the world

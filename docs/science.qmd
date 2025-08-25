@@ -1,0 +1,6 @@
+---
+title: "Science"
+format: revealjs
+---
+
+https://yaleclimateconnections.org/2023/02/myth-why-two-degrees-of-global-warming-is-worse-than-it-sounds/

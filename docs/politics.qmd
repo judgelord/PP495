@@ -1,0 +1,38 @@
+---
+title: "Climate Politics"
+subtitle: ""
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: true   
+   background-opacity: 0.2
+   #background-image: "earthrise_vis_1092_lrg.png"
+   #background-opacity: "0.2"
+   data-background-image: "earthrise_vis_1092_lrg.png"
+   data-background-size: cover
+   data-background-opacity: "0.2"
+   background-image-size: "cover"
+   smaller: true
+   scrollable: true
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+
+# Day 1 E.O.s
+
+"Energy emergency" - Unclear, but aims to exempt fossil fuels from normal health/saftey/cost review 
+
+Wind - Ban on new offshore wind + review of existing permits/leases
+
+
+
+
