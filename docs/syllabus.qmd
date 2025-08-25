@@ -386,9 +386,9 @@ Other books you may find useful:
 <!-- *Rules for Radicals* by Saul Alinsky-->
 - *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
 
-## Resources 
+# ℹ Resources 
 
-### American Government Module
+## American Government Module
 
 If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
 
