@@ -83,16 +83,15 @@ In the past century---the blink of an eye in ecological time---a small portion o
 
 This class aims to help you develop your own critique of various policy fights over what to do about our new relationship with our biosphere. 
 
-Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. -->
+Experts increasingly see the slow policy response to climate science as having less to do with climate science and technology and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. -->
 
 The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focus on policy debates in the United States, the underlying political struggles can be seen everywhere. 
 
 The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
-Critiquing those with whom we severely disagree is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
+Critiquing those with whom we severely disagree is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work or volunteer. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
-
-As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 10% of your grade.
+As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and of your grade.
 
 ## Course Philosophy 
 
@@ -104,7 +103,7 @@ In designing this course, I proceed from several premises:
 
 1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should be reshaped and how we should balance competing values. Then, let that inform your analysis of the rhetoric.
 
-1. **Humans are having a significant impact on the biosphere**. I don’t have much about climate change [denialism](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html) on the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that policies they dislike will work, slow policymaking behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of [anti-politics](#purdy.html#anti-politics). The [merchants of doubt](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/) have shifted [from attacking science to attacking policies](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353) as too uncertain, too expensive, and unnecessary. 
+1. **Humans are having a significant impact on the biosphere**. I don’t have much about climate change [denialism](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html) on the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that policies they dislike will work, slow policymaking behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of [anti-politics](#purdy.html#anti-politics). The [merchants of doubt](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/) have [shifted from attacking science to attacking policies](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353) as too uncertain, too expensive, and unnecessary. 
 
 1. Individual action is good but insufficient; **collective action (and thus politics) is required**. This class is in the public policy school, and I am a political scientist. We are here to learn about the many different kinds of policy and politics proposed to address climate change, not argue about whether policy and politics, in general, are useful for solving problems. 
 
@@ -179,16 +178,16 @@ You will not receive participation points for classes where you are on a screen 
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/). I expect the same. 
 
-Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason. 
+Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are [excellent at helping us conform to grammar conventions^[I recommend <https://app.grammarly.com/>] but incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason. Language is always in flux, but I see "reasoning" and "intelligence" are misnomers when applied to LLMs. 
 
-I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
+Beyond grammar conventions, I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich white men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
 
-Good policy and political strategy rest on good evidence. Many LLMs fabricate evidence. Even when the sources are real, unless it is an exact quote, LLMs cannot guarantee a reasonable link between a claim an a source (LLMs don't reason), only a statistical correlation the words and word order. Exuded text is often sensible, but there is no guarantee. Be careful. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.-->  
+Good policy and political strategy rest on good evidence. LLMs can fabricate evidence. Even when the sources are real, unless it is an exact quote, LLMs cannot guarantee a reasonable link between a claim and a source (LLMs don't reason), only a statistically probable word order. Extruded text is often sensible, but there is no guarantee. Be careful. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.-->  
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will check to make sure sources of evidence are used appropriately. 
 
 If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
 
-I reserve the right to discuss your papers in length with you if I have concerns.
+I reserve the right to discuss your papers in length with you if I have concerns that technological crutches are hindering your learning.
 
 # 🪶 Assignments 
 
@@ -197,9 +196,9 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 Most weeks, the assignments are incremental steps to your final op-ed. 
 
-On week 6, you will write a reflection on how you have experienced climate politics. This should mirror Mary Annaïse Heglar's essay, Home is Always Worth It, but can be significantly shorter (200-800 words).
+In week 6, you will write a reflection on how you have experienced climate politics. This should mirror Mary Annaïse Heglar's essay, Home is Always Worth It, but can be significantly shorter (200-800 words).
 
-On week 12, you will write a reflection on how you carry with you different world views/ways of seeing nature/forms of environmental imagination/paradigms and how they shape your thinking. This should mirror Purdy's self-reflection in the introduction of *After Nature* by including the four world views we read about, but it may also include others (including, perhaps, some of the new emerging visions discussed in Chapter 7) (200-800 words).
+In week 12, you will write a reflection on how you carry with you different world views/ways of seeing nature/forms of environmental imagination/paradigms and how they shape your thinking. This should mirror Purdy's self-reflection in the introduction of *After Nature* by including the four world views we read about, but it may also include others (including, perhaps, some of the new emerging visions discussed in Chapter 7) (200-800 words).
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
@@ -295,18 +294,18 @@ Through further rounds of revision, you will hone your critique, improving your 
 - Week 15: Final op-ed  + updated revision spreadsheet (20%)
 
 ::: {.callout-note}
-I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+I am mostly grading on how you respond to feedback.
 :::
 
 
 ## Late Submissions
 
-Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
+Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
 
-- If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
+- If you do not submit a revised version of your op-ed(s) on time, I will resubmit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
 - Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
 
-Under extenuating circumstances, I will attempt to work out some alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
+Under extenuating circumstances, I will attempt to work out an alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
 
 
 ## Participation - 22% (24 classes X 1% per class - 2 pass days) 
@@ -335,7 +334,7 @@ Questions should represent two specific types according to the following classif
 - Applied/Extended (e.g., Does X point help explain current problem Y?) If you choose this question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a mindless invitation to extend an analysis across policy problems.
 :::
 
-### Make up policy 
+### Make-up policy 
 
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 
@@ -1277,7 +1276,7 @@ Further reading:
 > To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
 --> 
 
-> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP495/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas->Perusall)`
+> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP495/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas->Perusall)`
 
 - Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
 
