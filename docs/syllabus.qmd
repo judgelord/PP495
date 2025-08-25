@@ -206,8 +206,8 @@ On week 12, you will write a reflection on how you carry with you different worl
 ## How to write an op-ed 
 
 - [NYT: What Makes a Guest Essay Great?](https://help.nytimes.com/hc/en-us/articles/115014809107-New-York-Times-Opinion-Guest-Essays)
-- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped) `(Canvas)`
-- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped) `(Canvas)`
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped) `(Canvas->Perusall)`
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped) `(Canvas->Perusall)`
 
 ## Example Op-eds
 
@@ -468,7 +468,7 @@ Come to class ready to answer these questions.
 
 If you hit a paywall on a link from the syllabus:
 
-1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
+1. Look to see if it says `(Canvas->Perusall)` next to it. These readings should be on Perusall <!-- in the "files/readings" folder on Canvas.--> If they are not, please let me know ASAP.  
 2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
 3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not pay for any of the online content for this course. 
 There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
@@ -484,16 +484,20 @@ There are many "further" readings, and some required readings (especially the lo
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
 
-- What has your personal experience with climate change discourse and policy? What motivates you to do something? What makes you not want to get involved? 
-
->  To Discuss: [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
-
->  To Discuss: [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
-
->  To Discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
 
 
 ### Tuesday: in-class [best-practices exercise](best-practices.html)
+
+- What has your personal experience with climate change discourse and policy? What motivates you to do something? What makes you not want to get involved? 
+
+> To Discuss: [> 4.6 Billion Years On, the Sun Is Having a Moment - Bill McKibben, The New Yorker](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment) `(Canvas->Perusall)`
+
+>  To Discuss: [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas->Perusall)`
+
+>  To Discuss: [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas->Perusall)`
+
+>  To Discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/) `(Canvas->Perusall)`
+
 
 
 ## Week 2: Policy 
@@ -508,14 +512,15 @@ Background:
 
 - [2024 Year in Review on Environmental Economics, with Karen Palmer, Kevin Rennert, and Margaret Walls (Resources Radio, 2023)](https://www.resources.org/resources-radio/2024-year-in-review-on-environmental-economics-with-karen-palmer-kevin-rennert-and-margaret-walls/) (35 min) 🎧 
 
-> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
+> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas->Perusall)` (8 pages)
 
 > To Discuss: [What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
 
 > [2025 Climate-Related Executive Orders](https://judgelord.github.io/PP495/policy)
 
+<!--
 >  To Discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
-
+--> 
 >  To Discuss: [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
 
 >  To Discuss: [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
@@ -529,6 +534,7 @@ Background:
 
 >  To Discuss: [The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024) (4 pages)
 
+<!--
 >  To Discuss: Skim: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
 
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
@@ -570,7 +576,7 @@ Further reading on state-level policy:
 
 - [Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details) 🎧 
 
-- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
+- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas->Perusall)`
 
 - [David Hsu on the grassroots policy that lets communities control their own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
 
@@ -635,7 +641,43 @@ Further reading on net zero:
 
 - [All Hail The Planet: Carbon Offsets](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#carbon)
 
-## Week 4 Politics 
+
+
+## Week 4: Movements 
+
+- To what extent have climate movements been effective, and why?
+- To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
+
+### Tuesday: Opportunity Structure and Mobilizing Structures 
+
+> To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
+
+> To Discuss: [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
+
+> To Discuss: News: [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
+
+### Thursday: Issue framing
+
+<!--
+> To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)
+--> 
+
+> To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas->Perusall)`
+
+Further reading: 
+
+- [Impolitic Podcast: Pollution & Politics: Dr. Patrick Hunnicutt and Dr. Geoffrey Henderson discuss their research that air pollution reduces the level of political participation in the United States.](https://podcasts.apple.com/us/podcast/pollution-politics/id1611681699?i=1000653339624) (65 min) 🎧  discussing Research: ["Air pollution is associated with lower levels of social movement participation, especially among well-resourced communities."](https://osf.io/dtkjm/)
+
+- [Henderson, Geoffrey, Alexander Hertel-Fernandez, Matto Mildenberger, and Leah C. Stokes. 2021. "Conducting the Heavenly Chorus: Constituent Contact and Provoked Petitioning in Congress." Perspectives on Politics: 1-18.](doi.org/10.1017/S1537592721000980)
+
+- [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
+
+- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
+
+- [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
+
+
+## Week 5: Politics 
 
 ### Tuesday:  Visions for the Future
 
@@ -647,7 +689,7 @@ Further reading on net zero:
 
 >  To Discuss: [Candidate Climate Plan Summaries - *Data for Progress* ](https://www.dataforprogress.org/gnd-candidates)
 
-> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
+> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas->Perusall)` (8 pages)
 
 
 Background: 
@@ -696,7 +738,7 @@ for climate politics. British Journal of Political Science 49(4), 1279–1307.
 - ["Valuing the Future: Changing Time Horizons and Policy Preferences" by Alexander F. Gazmararian](https://alexgaz.scholar.princeton.edu/sites/g/files/toruqf4651/files/documents/Future.pdf)
 
 
-<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
+<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas->Perusall)`
 
 Jasny, L., J. Waggle, and D. R. Fisher (2015). An empirical examination of echo chambers in us climate policy networks. Nature Climate Change 5(8), 782–786.
 
@@ -771,7 +813,7 @@ Aesthetics-->
 
 
 
-## Week 5: Utilitarianism and Technology
+## Week 6: Utilitarianism and Technology
 
 > "For the conservationists of the Progressive era, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
 
@@ -803,7 +845,7 @@ Carbon removal:
 
 Further Reading: 
 
-- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (pages 1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (pages 1-35) `(Canvas->Perusall)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧
 
 - [Decarbonizing U.S. transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
 
@@ -815,7 +857,7 @@ Further Reading:
 
 - Michael B. Gerrard, Introduction and Overview, in Climate Engineering and the Law: Regulation and Liability for Solar Radiation Management and Carbon Dioxide Removal (Gerrard & Hester, eds. 2019)
 
-- Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
+- Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas->Perusall)`
 
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
 
@@ -826,46 +868,6 @@ Further Reading:
 - [Why we shouldn’t shut nuclear power plants --- starts at minute 35](https://kpfa.org/player/?audio=377066) 🎧 
 
 
-## Week 6: Justice 
-
-
-### Tuesday: Global Justice
-
-
-> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
-
->  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
-
-
-
-> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
-
-- What are some of the different ways environmental justice is defined? 
-- Where did these ideas come from? 
-- How are policies addressing environmental justice consistent or inconsistent with different definitions? 
-- How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
-
-### Thursday: U.S. Movements and Policy
-
->  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
-
-
-> To Discuss: [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.federalregister.gov/documents/2023/04/26/2023-08955/revitalizing-our-nations-commitment-to-environmental-justice-for-all)
-
-Further reading: 
-
-- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
-
-
-- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
-
-
-- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
-
-
-- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
-
-- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
 
 ## Week 7: Ecological Critique
 
@@ -888,7 +890,9 @@ Further reading:
 
 - [Rachel Carson’s Warning on D.D.T. Ignited an Environmental Movement](https://retroreport.org/video/rachel-carsons-warning-on-ddt-ignited-an-environmental-movement/)
 
-- *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
+<!--
+- *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas->Perusall)`
+--> 
 
 ### Thursday
 
@@ -899,9 +903,11 @@ Further reading:
 <!-- add degrowth critique here?  --> 
 
 
-## Week 8: Ecofeminist Critique and Labor
+## Week 8: Ecofeminist Critique
 
-### Tuesday: Ecofeminist Critique
+### Tuesday: Fall Break
+
+### Thursday: Ecofeminist Critique
 
 Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of care work. Her argument has many clear policy implications. 
 
@@ -942,24 +948,24 @@ Recent policy efforts:
 
 - [Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
 
-
+<!--
 ### Thursday: Labor and Climate
 
 
 
-> To Discuss: Research: [Building a Bigger Team: Explaining Organized Labor's Advocacy for Climate Policy in Washington State." by Geoffrey Henderson]() `(Canvas)`
+> To Discuss: Research: [Building a Bigger Team: Explaining Organized Labor's Advocacy for Climate Policy in Washington State." by Geoffrey Henderson]() `(Canvas->Perusall)`
 
 - How do incentives to form coalitions and compromise change?
-- What does Henderson find regading the importance of mitigating uncertainty? 
+- What does Henderson find regarding the importance of mitigating uncertainty? 
 
 >  To Discuss: Research: [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
 - What is double-representation? 
 
 
-## Week 9: Winter Break
+--> 
 
-## Week 10: Political Economy
+## Week 9: Political Economy
 
 ...as a force explaining action and inaction. 
 
@@ -970,7 +976,7 @@ Recent policy efforts:
 
 ### Tuesday: The global political economy of climate policy:
 
-> To Discuss: Opinion: [Why vilify the oil and gas industry? - Emily Atkin (5 pages)](https://heated.world/p/why-vilify-the-oil-and-gas-industry?utm_source=substack&publication_id=2473&post_id=147753396&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=3m97t&triedRedirect=true) `(Canvas)`
+> To Discuss: Opinion: [Why vilify the oil and gas industry? - Emily Atkin (5 pages)](https://heated.world/p/why-vilify-the-oil-and-gas-industry?utm_source=substack&publication_id=2473&post_id=147753396&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=3m97t&triedRedirect=true) `(Canvas->Perusall)`
 
 > To Discuss: Research: Skim [Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*](https://doi.org/10.1017/S0020818320000296)
 
@@ -1010,6 +1016,47 @@ Further Reading:
 
 
 - Tom Athanasiou on what the U.S. return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
+
+## Week 10: Justice 
+
+
+### Tuesday: Global Justice
+
+
+> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
+
+>  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+
+
+
+> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
+
+- What are some of the different ways environmental justice is defined? 
+- Where did these ideas come from? 
+- How are policies addressing environmental justice consistent or inconsistent with different definitions? 
+- How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
+
+### Thursday: U.S. Movements and Policy
+
+>  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
+
+
+> To Discuss: [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.federalregister.gov/documents/2023/04/26/2023-08955/revitalizing-our-nations-commitment-to-environmental-justice-for-all)
+
+Further reading: 
+
+- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
+
+
+- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
+
+
+- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
+
+
+- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
+
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
 
 
 ## Week 11:  Indigenous Critique
@@ -1084,7 +1131,7 @@ Neo-Malthusian:
 
 > To Discuss: Opinion: ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
 
-> To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
+> To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas->Perusall)`
 
 
 ### Thursday: Immigration and ethno-nationalist critique
@@ -1167,7 +1214,7 @@ Collective action
 
 Governing institutions:
 
-> To Discuss: *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)` 
+> To Discuss: *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas->Perusall)` 
 
 - What is Unger's critique of deep structure theorists (e.g., Marx)? 
 - What is Unger's critique of modern social science? 
@@ -1212,47 +1259,14 @@ Further reading:
 --> 
 
 
+##  Week 13: Efficiency 
 
-## Week 13: Movements 
-
-- To what extent have climate movements been effective, and why?
-- To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
-
-### Tuesday: Opportunity Structure and Mobilizing Structures 
-
-> To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
-
-> To Discuss: [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
-
-> To Discuss: News: [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
-
-Thursday: Issue framing
-
-<!--
-> To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)
---> 
-
-> To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
-
-Further reading: 
-
-- [Impolitic Podcast: Pollution & Politics: Dr. Patrick Hunnicutt and Dr. Geoffrey Henderson discuss their research that air pollution reduces the level of political participation in the United States.](https://podcasts.apple.com/us/podcast/pollution-politics/id1611681699?i=1000653339624) (65 min) 🎧  discussing Research: ["Air pollution is associated with lower levels of social movement participation, especially among well-resourced communities."](https://osf.io/dtkjm/)
-
-- [Henderson, Geoffrey, Alexander Hertel-Fernandez, Matto Mildenberger, and Leah C. Stokes. 2021. "Conducting the Heavenly Chorus: Constituent Contact and Provoked Petitioning in Congress." Perspectives on Politics: 1-18.](doi.org/10.1017/S1537592721000980)
-
-- [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
-
-- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
-
-- [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
-
-##  Week 14: Efficiency & Markets
 
 <!--TBD QUESTIONS--> 
 
 ### Tuesday: Efficiency & Regulation
 
-> [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`-->
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas->Perusall)`-->
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
@@ -1263,7 +1277,7 @@ Further reading:
 > To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
 --> 
 
-> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP495/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas)`
+> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP495/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas->Perusall)`
 
 - Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
 
@@ -1292,7 +1306,11 @@ Further reading:
 ### Tuesday: Climate denial? Litigation as policy strategy? International policy processes? 
 -->
 
-### Thursday: New Keynesian, neoliberal, and libertarian economics:
+
+##  Week 14: Markets
+
+
+### Tuesday: New Keynesian, neoliberal, and libertarian economics:
 
 - What would Hayek say about
   1. A central plan for apartment building heating?
@@ -1351,6 +1369,8 @@ Criticism of the critics:
 
 - [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
 
+### Thursday: Thanksgiving Break
+
 
 
 ## Week 15: Planning for Change
@@ -1362,7 +1382,7 @@ Criticism of the critics:
 >  To Discuss: [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
 
 
->  To Discuss: [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
+>  To Discuss: [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas->Perusall)`
 
 Further reading:
 
