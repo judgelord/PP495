@@ -14,6 +14,23 @@ These assignments are motivated by the observation that politics is fundamentall
 
 Critiquing those we severely disagree with is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
+The most difficult part of this assignment is finding your own authoritative voice. Op-eds are often written by people with special experience or credentials to speak on a topic. 
+What experience do you have as a college student that allows you to speak authentically and authoritatively. 
+This can be challenging.
+In the past, students in this class have found their voice as: 
+
+- a member of a group (e.g., a religion, an activist organization, a sports fan), 
+- a person with dreams (e.g., aspiring to a career in law, consulting, finance, politics)
+- a person with particular relationships (e.g., to a place affected by a recent flood or fire or with a family member in an affected profession)
+
+This is far from a complete list. 
+
+Because finding firm ground from which to speak authoritatively is a challenge, for every 100 words of writing, you should include one **original evidence** that adds credibility to your claims. 
+These must take the form of a image or video (<1 minute). 
+Some ideas: 
+
+- A documentary-style clip from an interview you conducted with an expert or other members of your group/family/profession/community
+- An infographic-style chart or graph with original analysis of data
 
 ### Find your voice
 
@@ -23,7 +40,7 @@ Include a word count between the title and the essay. Getting in under the word 
 
 - A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Ten op-ed-style headlines
-- Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
+- Five revised headlines and the first 200 words for each (+ two bits of original visual evidence for each + annotated bibliographies, which do not count toward the word limit) 
 
 An annotated bibliography means two things: 
 
@@ -42,8 +59,8 @@ I expect the annotated bibliographies to grow significantly as you respond to cr
 
 As above, include a word count between the title and the essay.
 
-- Three revised headlines and the first 400 words for each + annotated bibliographies + a link to a google sheet with one row for each bit of feedback you received and how you are addressing it
-- Two revised first 400 words + annotated bibliographies + the link to your revision tracking google sheet
+- Three revised headlines and the first 400 words for each + four bits of original visual evidence for each + annotated bibliographies + a link to a Google sheet with one row for each bit of feedback you received and how you are addressing it
+- Two revised first 400 words + annotated bibliographies + the link to your revision tracking Google sheet
 
 
 
@@ -55,13 +72,14 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
-- One 750-800 word op-ed + annotated bibliography + the link to your revision tracking google sheet
-- Revised op-ed  + annotated bibliography + the link to your revision tracking google sheet
-- Final op-ed + annotated bibliography + the link to your revision tracking google sheet
+- One 750-800 word op-ed + eight bits of original visual evidence + annotated bibliography + the link to your revision tracking Google sheet
+- Final op-ed + annotated bibliography + the link to your revision tracking Google sheet
 
 # Assessment 
 
-Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. 
+Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. 
+Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 
 
 # Resouces 
