@@ -500,10 +500,10 @@ There are many "further" readings, and some required readings (especially the lo
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
 
-
-
 ### Tuesday: in-class [best-practices exercise](best-practices.html)
 
+- What are you hoping to get out of this semester?
+- What aspects of the discussion environment will help achieve these goals? 
 - What has your personal experience with climate change discourse and policy? What motivates you to do something? What makes you not want to get involved? 
 
 > To Discuss: [> 4.6 Billion Years On, the Sun Is Having a Moment - Bill McKibben, The New Yorker](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment) `(Canvas->Perusall)`
