@@ -18,7 +18,7 @@ execute:
   engine: knitr
 ---
 
-## PubPol 495: Climate Change and Democracy {background-image="figs/feedback.png" background-size="contain" background-opacity=".5"}
+## Climate Change and Democracy {background-image="figs/feedback.png" background-size="contain" background-opacity=".5"}
 
 Today
 
@@ -27,11 +27,13 @@ Today
 - Bad news, good news
 - [Syllabus](syllabus)
 - [Assignment guide](assignments)
+   
 
 Thursday
 
 - Groundrules
 - Week 1 readings (on Perusall)
+- Due: 20 organizations (<100 employees) for whom you'd like to work or volunteer and what they do or don't do about climate change
 
 ## ? {background-image="figs/outside.png" background-size="contain"}
 
