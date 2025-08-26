@@ -25,8 +25,8 @@ Today
 - Introductions
 - What to do about this room
 - Bad news, good news
-- [Syllabus](syllabus)
-- [Assignment guide](assignments)
+- [Syllabus](https://judgelord.github.io/PP495/syllabus)
+- [Assignment guide](https://judgelord.github.io/PP495/assignments)
    
 
 Thursday
