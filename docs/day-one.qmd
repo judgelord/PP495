@@ -25,8 +25,8 @@ Today
 - Introductions
 - What to do about this room
 - Bad news, good news
-- [Syllabus](https://judgelord.github.io/PP495/syllabus)
-- [Assignment guide](https://judgelord.github.io/PP495/assignments)
+- [Syllabus](syllabus)
+- [Assignment guide](assignments)
    
 
 Thursday
@@ -61,7 +61,7 @@ Thursday
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="770px" height="500px"></iframe>
 
-- 98-99%% coral death
+- 98-99% coral death
 - 37% of people endure extreme heat waves every 5 years 
 - Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
 
