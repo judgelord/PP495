@@ -212,6 +212,10 @@ In week 12, you will write a reflection on how you carry with you different worl
 
 > [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by the NYT Editorial Board via [proquest](https://www.proquest.com/news/docview/2788890406/96ABFB8014664952PQ)
 
+> [In Compromise, the Climate Left May Be Vindicated](https://www.nytimes.com/2022/07/29/opinion/environment/joe-manchin-climate-inflation-bill.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> [Every Dollar Spent on This Climate Technology Is a Waste](https://www.nytimes.com/2022/08/16/opinion/climate-inflation-reduction-act.html?smid=nytcore-ios-share&referringSource=articleShare)
+
 > [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)  by Jeff Colgan via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
 
 > [Is Ecofeminism the Answer to the Climate Crisis?](https://www.bentley.edu/news/ecofeminism-answer-climate-crisis) 
@@ -420,11 +424,20 @@ Attribution Science
 - 
 --> 
 
+## Climate Risk
+
+- [Every Country Has Its Own Climate Risks. What’s Yours?](https://www.nytimes.com/interactive/2021/01/28/opinion/climate-change-risks-by-country.html?smid=nytcore-ios-share&referringSource=articleShare)
+
 
 ## Energy and Emissions Forcasts 
 
 - [Rhodium Group](https://rhg.com/research/trump-2-0-whats-in-store-for-us-energy-and-climate/)
 - [RMI](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
+- [China races to build world’s largest solar farm to meet emissions targets](https://apnews.com/article/china-climate-solar-wind-carbon-emissions-ab119c39f226cfbeb2f5c1449747cae9)
+
+## Investment and Industrial Policy
+
+- [The U.S. Clean Energy Boom](https://www.nytimes.com/2024/05/23/climate/the-biden-clean-energy-boom.html)
 
 ## Background on "Net-zero" Technology
 
@@ -570,7 +583,9 @@ Further reading on state-level policy:
 
 - [The Battle Over Clean Energy with Leah C. Stokes (SSN 2019)](https://scholars.org/podcast/battle-over-clean-energy) (25 min)
 
+<!--
 - [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira) 🎧 
+--> 
 
 - [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details) 🎧 
 

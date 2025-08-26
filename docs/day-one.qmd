@@ -33,8 +33,7 @@ Thursday
 - Groundrules
 - Week 1 readings (on Perusall)
 
-## {background-image="figs/outside.png" background-size="contain"}
-
+## ? {background-image="figs/outside.png" background-size="contain"}
 
 
 # Bad news
@@ -67,7 +66,7 @@ Thursday
 
 ## {background-image="figs/rhodium-2023.png" background-size="contain"}
 
-
+# 📍 +1.6°C (+2.7°F)
 
 # Good News
 

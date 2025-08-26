@@ -1,5 +1,5 @@
 ---
-title: "Possible Changes to U.S.  Climate-Relevant Policy"
+title: "2025 Changes to U.S.  Climate-Relevant Policy"
 subtitle: ""
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
@@ -37,8 +37,7 @@ execute:
 
 ## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/) {background-opacity="0.3" background-image="https://www.gannett-cdn.com/-mm-/7943967a784f994f95931170ff2923f74c7e0899/c=0-139-2000-1269&r=x1683&c=3200x1680/local/-/media/2016/08/01/USATODAY/USATODAY/636056598017637651-AP-California-Wildfires.14.jpg"}
 
-To promote oil, gas, biofuels, nuclear, and mining,^[More specifically, “energy” is defined as "crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals"]
-government agencies should:
+To promote oil, gas, biofuels, nuclear, and mining,^[More specifically, “energy” is defined as "crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals"] government agencies should:
 
 Sec. 2. Consider using eminent domain & the Defense Production Act to commandeer private lands and companies^[The Brennan Center has a great summary of [Emergency Powers](https://www.brennancenter.org/our-work/research-reports/guide-emergency-powers-and-their-use). Interestingly, this Energy Emergency E.O. does not mention that a Governor of a State may petition the President to suspend any part of a Clean Air Act implementation plan or any requirement under Section 110(f) (42 U.S.C. § 7651j), which Carter granted to fossil fuel power plants during [regional energy emergencies in the 1970s](https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs).]
 
@@ -50,13 +49,15 @@ Sec. 3-6. Exempt projects from normal health/safety/cost review
   
 Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil and gas transport and refining 
 
-**Updates:**
-
-- Army Corps claims "emergency" authority  to fast track CWA permits for Line 5 and  Blue Marlin, but the legal argument is still unclear -  [NYT Feb. 19, 2025](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
 
 **Is it following the Project 2025 playbook?** 
 
 > ✘ "**Stopping executive overreach.** Congress should set policy---not Presidents through pen-and-phone executive orders, and not agencies through regulations and guidance. National emergency declarations should expire absent express congressional authorization within 60 days after the date of the declaration." - Project 2025
+
+## Further Energy Emergency Policy
+
+- Army Corps claims "emergency" authority  to fast-track CWA permits for Line 5 and  Blue Marlin, but the legal argument is still unclear -  [NYT Feb. 19, 2025](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
+
 
 
 ## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {background-opacity="0.3" background-image="https://heartlanddailynews.com/wp-content/uploads/2021/03/LNG-export-terminal.jpg"}
@@ -99,13 +100,31 @@ Sec. 8. Approve gas export projects
 
 - Skip NEPA review if possible
 
-Sec. 9. Help companies do more mining on public lands
+Sec. 9. Help companies do more mining on public lands.
 
 - More government funds to locate minerals for companies to mine
 - More government funds for mining projects
 - Increase National Defense Stockpile of minerals to increase demand and provide supply when there is scarcity in the market
 
 > "**Strategic National Stockpile.** The President should invoke the Defense Production Act, which is a form of temporary takeover of private enterprises, only in the gravest circumstances...The SNS should clarify its mission as supplier of last resort to the federal government, state governments, or first responders."  - Project 2025" 
+
+
+## Big Beautiful Bill repeals most of the IRA 
+
+- [Rescinds $60 million in unspent funds at NOAA for atmospheric, climate, and weather research](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+- Republicans Senators successfully pushed for a slightly slower phaseout of the credits in order to limit the disruption to industry.
+-  But [E.O.](https://www.nytimes.com/2025/07/10/climate/trump-renewable-energy-solar.html) instructed the Treasury Department to limit the ability of wind and solar projects to qualify for the fast-disappearing tax credits (legality unclear)
+- Also, the law limits tax credits for projects that source materials or rely on investments from certian countries.
+-  repeals the Greenhouse Gas Reduction Fund and rescinds all "unobligated" funds.
+   - EPA claimed new authority to claw back billions of dollars in funding contracted for renewable energy and efficiency projects, arguing it de-obligated $17 billion in grant funds when it issued termination letters canceling the contracts.
+- The Interior Department approved the expansion of a coal mine in Montana
+- Fast-track review of a federal coal lease in Utah
+
+
+## Further Energy Policy 
+
+- In [defiance of court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act have been frozen since February 2025
+- [Approval of CA vehicle emissions rules "recended" with no plan to follow the CA exemption portion of the Clean Air Act](https://www.kqed.org/science/1997300/trump-blocks-californias-ev-rules-state-sues-in-response). The Senate Parliamentarian and the Government Accountability Office say this is not legal.
 
 
 ## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
@@ -132,6 +151,27 @@ Government agencies should:
 - Review existing permits/leases to identify legal bases for terminating existing wind energy leases
 - Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
 - Require developers to pay for the removal of old windmills
+
+## Further Wind Policy Developments {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+
+
+- Bureau of Ocean Energy Management [orders developers to halt work on an 80%-finished wind farm](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy), costing shareholders $2.4 billion
+- Another company ordered to halt construction estimates regulatory delay costs at $1 billion (its lease was signed in 2017, with the first Trump administration). [1,500 jobs were threatened.](https://www.equinor.com/news/20250417-suspends-offshore-construction-activities-empire-wind)
+-  Internal Revenue Service guidance [bars companies building wind and solar projects from federal tax incentives](https://www.nytimes.com/2025/08/15/climate/irs-wind-solar-tax-credits.html)
+-  Commerce Department considering [banning imports of wind turbines](https://public-inspection.federalregister.gov/2025-16191.pdf?utm_campaign=pi+subscription+mailing+list&utm_medium=email&utm_source=federalregister.gov)
+- Department of the Interior to put [all wind and solar projects through “elevated review”](https://grist.org/energy/trumps-interior-department-is-turning-environmentalists-legal-playbook-against-them/) from the Secretary's office
+- Bureau of Ocean Energy Management [rescinded all designated Wind Energy Areas along the continental shelf](https://www.boem.gov/newsroom/notes-stakeholders/boem-rescinds-designated-wind-energy-areas-outer-continental-shelf)
+- DOI [ordered the cancellation of the signed lease for Lava Ridge Wind Project signed with BLM in 2024](https://www.doi.gov/pressreleases/interior-department-moves-cancel-reckless-biden-era-approval-lava-ridge-wind-project)
+- The Transportation Department is recommending [1.2-mile minimum setback requirements for wind farms near federal highways and railroads](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare) 
+-  Federal Aviation Administration to re-evaluate whether wind farms pose a danger to aviation. Such a declaration would allow a full-scale ban of modern wind power on private land. (95% is on private land.)
+
+## Similar policies targeting solar 
+
+- Solar facilities on private land are being delayed because federal agencies have halted water permits
+- Where Interior permits are required, solar projects on private land go through political review by the Secretary, [costing companies tens of millions of dollars](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> “not only stopped solar development on federal lands in Nevada, but also on private land where federal approvals such as transmission line rights of way are required.” - Joe Lombardo, Governor of Nevada
+
 
 ## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) {background-opacity="0.2" background-image="https://www.connect4climate.org/sites/default/files/images/event/unfccc-bonn_0.jpg"}
 
@@ -173,7 +213,7 @@ Climate-Related E.O.s rescinded:
 
 ## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://i0.wp.com/www10.aeccafe.com/blogs/arch-showcase/files/2011/03/EPA-press-book_sm_Page_04.jpg"}
 
-Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-based) positions as "Exempt" --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time
+Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-based) positions as "Exempt" --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time.
 
 - federal employees involved in "policy-determining, policymaking, or policy-advocating"
 - anyone supervising such employees
@@ -181,15 +221,25 @@ Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-bas
 
 Directs the Office of Personnel Management to rescind its 2024 rule “Upholding Civil Service Protections and Merit System Principles” and (in clear contradiction of the Administrative Procedure Act) declares that rule "inoperative and without effect."
 
+## Further developments 
+
+- [In April, the Trump administration dismissed hundreds of scientists and experts](https://www.nytimes.com/2025/04/28/climate/national-climate-assessment-authors-dismissed.html)
+
 # Other E.O.s
 
 
 ## [Council to Assess the Federal Emergency Management Agency](https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/)	{background-opacity="0.2" background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/FEMA_-_34427_-_FEMA_community_relations_worker_helping_a_young_resident_in_New_Jersey.jpg"}
 
-Establishes a council to look for political bias in disaster responses chaired by [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) and [Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem)
+Establishes a council to look for political bias in disaster responses, chaired by [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) and [Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem)
 
 
 - On Jan. 24, Trump suggested [eliminating FEMA](https://www.nytimes.com/2025/01/24/briefing/trump-visits-disaster-areas-high-egg-prices.html)
+- Kristi Noem in March: “We are going to eliminate FEMA.”
+- After flooding in Texas and [FEMA also failed to answer nearly two-thirds of calls to its disaster assistance line](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html) in July, officials began talking about [fixing FEMA](https://www.nytimes.com/2025/07/11/us/politics/trump-fema-texas-flood.html).
+- 20 percent of the coordinating officers who manage responses to major disasters have been terminated
+- In violation of post-Katrina laws, [key positions at FEMA are staffed with people with no disaster response experience](https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html?smid=nytcore-ios-share&referringSource=articleShare)
+- [Revoked $3.6 billion in grants from FEMA to hundreds of communities around the country, which were to be used to help these areas protect against hurricanes, wildfires, and other catastrophes](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+- Employees say FEMA has [eliminated all gains in Hurricane response since Katrina](https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 
 **Following the Project 2025 playbook?** 
@@ -198,17 +248,34 @@ Establishes a council to look for political bias in disaster responses chaired b
 
 # Further Developments 
 
+
+## [Endangerment finding](https://www.epa.gov/sites/default/files/2016-08/documents/endangerment_tsd.pdf)
+
+- By declaring that [greenhouse gases pose no threat to public health](https://www.nytimes.com/2025/07/29/climate/epa-endangerment-finding-repeal-proposal.html), the EPA asserts there is no scientific (and thus, legal) basis for all existing policies regulating greenhouse gases](https://www.nytimes.com/2025/08/03/climate/trump-epa-endangerment-finding-climate-change.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> "the largest deregulatory action in the history of the United States,” - Lee Zeldin
+
 ## Spending freezes and clawbacks
 
 - [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
 
-## Deleting Cimate Data and Websites
+## Deleting Climate and Weather Data and Websites
 
+- Some National Weather Service forecast offices are no longer staffed overnight, and others have been launching fewer weather balloons, which send data to feed forecasts. It is preparing for [“degraded operations.”](https://www.nytimes.com/2025/04/16/climate/national-weather-service-forecast-doge-trump.html)
+- National Weather Service  issued the appropriate warnings for the region that was inundated by the Guadalupe River on July 4 [the person in charge of communicating with local emergency managers was let go and not replaced](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 - [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
+- [Proposed budget ends collection of greenhouse gas data after 7 decades](https://www.nytimes.com/2025/07/17/climate/budget-cuts-climate-observatories.html)
+- Proposed budget to close 10 laboratories run by the National Oceanic and Atmospheric Administration that research the ways a warming planet is changing weather, including [firing Miami teams of “hurricane hunters”](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+- The proposed budget would also [end funding for river gauges and cancel the leases for 25 of the roughly 100 water science research facilities that predict floods.](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 
 ## Attempt to end [congestion pricing in NYC](https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html)
 
 - [Update](https://www.nytimes.com/2025/02/19/us/politics/trump-king-image.html)
+
+## The 2026 Proposed Budget 
+
+- eliminates about $882 million in the Building Resilient Infrastructure and Communities grant program, which helped support resources like flood control systems, wildfire prevention, and storm water management upgrades
+- 
 
 
 # Outstanding questions 
