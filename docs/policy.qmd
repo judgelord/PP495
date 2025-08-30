@@ -1,15 +1,9 @@
 ---
-title: "2025 Changes to U.S.  Climate-Relevant Policy"
+title: "2025 Changes to U.S. Climate-Relevant Policy"
 subtitle: ""
-title-block-banner: "#001B35" # banner.png
-title-block-banner-color: body-bg
-title-slide-attributes:
-    data-background-image: "https://www.whoi.edu/wp-content/uploads/2022/02/WHOI-Ward-Cover2.jpg"
-    data-background-size: cover
-    data-background-opacity: "0.5"
 format:
  revealjs:
-   footer: "(more at [judgelord.github.io/PP495/policy](https://judgelord.github.io/PP495/policy#/title-slide) )"
+#   footer: "(more at [judgelord.github.io/PP495/policy](https://judgelord.github.io/PP495/policy#/title-slide) )"
    incremental: false   
    smaller: false
    scrollable: true
@@ -54,7 +48,9 @@ Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil an
 
 > ✘ "**Stopping executive overreach.** Congress should set policy---not Presidents through pen-and-phone executive orders, and not agencies through regulations and guidance. National emergency declarations should expire absent express congressional authorization within 60 days after the date of the declaration." - Project 2025
 
-## Further Energy Emergency Policy
+## Further Energy Emergency Policy {background-opacity="0.3" background-image="https://www.api5cttube.com/wp-content/uploads/2023/12/97661e5722387c2f366faf39830b6adf.png"}
+
+
 
 - Army Corps claims "emergency" authority  to fast-track CWA permits for Line 5 and  Blue Marlin, but the legal argument is still unclear -  [NYT Feb. 19, 2025](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
 
@@ -123,7 +119,7 @@ Sec. 9. Help companies do more mining on public lands.
 
 ## Further Energy Policy 
 
-- In [defiance of court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act has been frozen since February 2025
+- [Despite court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act has been frozen since February 2025. For example, the Office of Energy Efficiency and Renewable Energy has posted almost [no new]( https://www.energy.gov/eere/funding/eere-funding-opportunities)
 - [Approval of CA vehicle emissions rules "recended" with no plan to follow the CA exemption portion of the Clean Air Act](https://www.kqed.org/science/1997300/trump-blocks-californias-ev-rules-state-sues-in-response). The Senate Parliamentarian and the Government Accountability Office say this is not legal.
 
 
@@ -165,7 +161,8 @@ Government agencies should:
 - The Transportation Department is recommending [1.2-mile minimum setback requirements for wind farms near federal highways and railroads](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare) 
 -  Federal Aviation Administration to re-evaluate whether wind farms pose a danger to aviation. Such a declaration would allow a full-scale ban of modern wind power on private land. (95% is on private land.)
 
-## Similar policies targeting solar 
+## Similar policies targeting solar {background-opacity="0.2" background-image="https://i2-prod.liverpoolecho.co.uk/incoming/article31278176.ece/ALTERNATES/s615/0_Solarpanels.jpg"}
+
 
 - Solar facilities on private land are being delayed because federal agencies have halted water permits
 - Where Interior permits are required, solar projects on private land go through political review by the Secretary, [costing companies tens of millions of dollars](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -211,7 +208,8 @@ Climate-Related E.O.s rescinded:
 - Executive Order 14094 of April 6, 2023 (Modernizing Regulatory Review).
 - Executive Order 14096 of April 21, 2023 (Revitalizing Our Nation’s Commitment to Environmental Justice for All).
 
-## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://i0.wp.com/www10.aeccafe.com/blogs/arch-showcase/files/2011/03/EPA-press-book_sm_Page_04.jpg"}
+## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://www.shatteringtheceiling.com/wp-content/uploads/2016/10/federal_employees.jpg"} 
+<!--https://www.shatteringtheceiling.com/wp-content/uploads/2016/10/federal_employees.jpg--> 
 
 Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-based) positions as "Exempt" --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time.
 
@@ -249,37 +247,50 @@ Establishes a council to look for political bias in disaster responses, chaired 
 # Further Developments 
 
 
-## [Endangerment finding](https://www.epa.gov/sites/default/files/2016-08/documents/endangerment_tsd.pdf)
+## [Endangerment finding](https://www.epa.gov/sites/default/files/2016-08/documents/endangerment_tsd.pdf) {background-opacity="0.2" background-image="https://ichef.bbci.co.uk/news/1536/cpsprodpb/EE21/production/_116516906_temp_rises_since_1850_gra640-nc.png"}
+
 
 - By declaring that [greenhouse gases pose no threat to public health](https://www.nytimes.com/2025/07/29/climate/epa-endangerment-finding-repeal-proposal.html), the EPA asserts there is [no scientific (and thus, legal) basis for all existing policies regulating greenhouse gases](https://www.nytimes.com/2025/08/03/climate/trump-epa-endangerment-finding-climate-change.html)
 
 > "the largest deregulatory action in the history of the United States,” - Lee Zeldin
 
+
+## Deleting Climate and Weather Data  {background-opacity="0.3" background-image="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/02/USAT/82779913007-ernesto.jpg"}
+
+
+- Some National Weather Service forecast offices are no longer staffed overnight, and others have been launching fewer weather balloons, which send data to feed forecasts. It is preparing for [“degraded operations.”](https://www.nytimes.com/2025/04/16/climate/national-weather-service-forecast-doge-trump.html)
+- National Weather Service issued warnings for flooding in Texas on July 4 [the person in charge of communicating with local emergency managers was let go and not replaced](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+- [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
+
+
 ## Spending freezes and clawbacks
 
 - [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
+-  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
 
-## Deleting Climate and Weather Data and Websites
-
-- Some National Weather Service forecast offices are no longer staffed overnight, and others have been launching fewer weather balloons, which send data to feed forecasts. It is preparing for [“degraded operations.”](https://www.nytimes.com/2025/04/16/climate/national-weather-service-forecast-doge-trump.html)
-- National Weather Service  issued the appropriate warnings for the region that was inundated by the Guadalupe River on July 4 [the person in charge of communicating with local emergency managers was let go and not replaced](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
-- [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
-- [Proposed budget ends collection of greenhouse gas data after 7 decades](https://www.nytimes.com/2025/07/17/climate/budget-cuts-climate-observatories.html)
-- Proposed budget to close 10 laboratories run by the National Oceanic and Atmospheric Administration that research the ways a warming planet is changing weather, including [firing Miami teams of “hurricane hunters”](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
-- The proposed budget would also [end funding for river gauges and cancel the leases for 25 of the roughly 100 water science research facilities that predict floods.](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
-
-## Attempt to end [congestion pricing in NYC](https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html)
-
-- [Update](https://www.nytimes.com/2025/02/19/us/politics/trump-king-image.html)
 
 ## The 2026 Proposed Budget 
 
 - eliminates about $882 million in the Building Resilient Infrastructure and Communities grant program, which helped support resources like flood control systems, wildfire prevention, and storm water management upgrades
-- 
+- [ends collection of greenhouse gas data after 70 years](https://www.nytimes.com/2025/07/17/climate/budget-cuts-climate-observatories.html)
+- Proposed budget to close 10 laboratories run by the National Oceanic and Atmospheric Administration that research the ways a warming planet is changing weather, including [firing Miami teams of “hurricane hunters”](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+- The proposed budget would also [end funding for river gauges and cancel the leases for 25 of the roughly 100 water science research facilities that predict floods.](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 
 
-# Outstanding questions 
 
+## [H.R. 3898 - the PERMIT act](https://www.congress.gov/bill/119th-congress/house-bill/3898) {background-opacity="0.2" background-image="https://fox11online.com/resources/media2/16x9/1920/986/center/90/d95c56b1-d7fa-4a0d-b191-f404ab72736a-MILWAUKEEFLOODINGVO.transfer_frame_533.jpeg"}
+
+Allows building on most wetlands without a permit by limiting Clean Water Act protections, judicial review of permits, and state and local governments' ability to protect wetlands. <!--by redefining navigable waters to exclude (1) waste treatment systems, (2) ephemeral features that flow only in direct response to precipitation, (3) prior converted cropland, (4) groundwater, or (5) any other features determined to be excluded by the U.S. Army Corps of Engineers.--> 
+
+- **removes all protections** for groundwater, streams, and wetlands that dry out between rain events, streams and wetlands near farmland, and **any other waters or wetlands determined to be excluded** by the Army Corps
+- prohibits states from considering factors other than local water quality (e.g., climate change) in 401 permitting
+- shifts EPA's role from public health to minimizing costs to industry 
+- limits public comment on and challenges to permits 
+- shield polluters from liability 
+- removes restrictions on pesticides
+- reduces judicial review of permitting by vastly shortening the statute of limitations, limiting standing to file suit, and limiting the 
+Court's options for recourse.
+Increases procedural barriers to establishing water quality criteria and increases opportunities for litigation.
 
 ## Links for more context 
 
@@ -287,5 +298,16 @@ Establishes a council to look for political bias in disaster responses, chaired 
 
 [2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further. (https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
 
+
+<!--
+
+
+# Outstanding questions 
+
+
+## Attempt to end [congestion pricing in NYC](https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html)
+
+- [Update](https://www.nytimes.com/2025/02/19/us/politics/trump-king-image.html)
+--> 
 
 
