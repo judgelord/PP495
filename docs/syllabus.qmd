@@ -538,14 +538,14 @@ Background:
 
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas->Perusall)` (8 pages)
 
-> To Discuss: [What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
+> To Discuss: [What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)  `(Canvas->Perusall)` 
 
 > [2025 Climate-Related Executive Orders](https://judgelord.github.io/PP495/policy)
 
 <!--
 >  To Discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 --> 
->  To Discuss: [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
+>  To Discuss: [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)  `(Canvas->Perusall)`  (5 pages)
 
 >  To Discuss: [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
 
@@ -556,7 +556,7 @@ Background:
 
 >  To Discuss: [The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) (59 min) 🎧
 
->  To Discuss: [The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024) (4 pages)
+>  To Discuss: [The Case for a Green New Deal for Public Housing, Executive Summary by  Kira McDonald, Daniel Aldana Cohen, and Ruthy Gourevitch](https://www.climateandcommunity.org/gnd-for-public-housing-2024)  `(Canvas->Perusall)`  (4 pages)
 
 <!--
 >  To Discuss: Skim: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
@@ -575,15 +575,15 @@ Background:
 <!--GUEST SPEAKER --> 
 
 
-> Background: [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
+> Background: [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)  `(Canvas->Perusall)` 
 
-> Background:  [Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
+> Background:  [Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)  `(Canvas->Perusall)` 
 
 > Skim: [Roadmap to Clean & Equitable Power in Michigan by the University of Michigan Law School’s Problem Solving Initiative (PSI)](https://www.miclimateaction.org/establish_michigan_as_a_climate_leader)
 
 The State of Ann Arbor Climate Policy:
 
-> Background: Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) (at least read the landing page for the report)
+> Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) (at least read the landing page for the report)
 
 
 Further reading on state-level policy:
