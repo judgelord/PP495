@@ -606,19 +606,15 @@ Further reading on state-level policy:
 
 - [David Hsu on the grassroots policy that lets communities control their own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
 
-
-
 Further reading on federal policy: 
 
 - [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details) 🎧
-
 
 Further resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
 
 - [Naming the Problem: What It Will Take to Counter Extremism and Engage Americans in the Fight against Global Warming by Theda Skocpol](https://grist.org/wp-content/uploads/2013/03/skocpol-captrade-report-january-2013y.pdf)
 
 - [What Theda Skocpol gets right about the cap-and-trade fight by David Roberts](https://grist.org/climate-energy/what-theda-skocpol-gets-right-about-the-cap-and-trade-fight/)
-
 
 Further resources for understanding the Inflation Reduction Act: 
 
@@ -637,9 +633,6 @@ Further resources for understanding the Inflation Reduction Act:
 - [Charged: E.V. Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
 - [Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
-
-
-
 
 
 

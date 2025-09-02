@@ -16,7 +16,7 @@ execute:
 
 # Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
 
-## TL;DR
+## TL;DR 2025 E.O.s
 
 - Big governmental support for oil, gas, and mining, including:
     - using the military to aid transport and refining
@@ -48,12 +48,17 @@ Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil an
 
 > ✘ "**Stopping executive overreach.** Congress should set policy---not Presidents through pen-and-phone executive orders, and not agencies through regulations and guidance. National emergency declarations should expire absent express congressional authorization within 60 days after the date of the declaration." - Project 2025
 
-## Further Energy Emergency Policy {background-opacity="0.3" background-image="https://www.api5cttube.com/wp-content/uploads/2023/12/97661e5722387c2f366faf39830b6adf.png"}
+## Further Energy Emergency Policy {background-opacity="0.3" background-image="https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/69/c69d4e56-33ee-470f-bde6-c235daa20b1e/68acbec11dfd0.image.jpg?resize=990%2C743"}
 
 
 
-- Army Corps claims "emergency" authority  to fast-track CWA permits for Line 5 and  Blue Marlin, but the legal argument is still unclear -  [NYT Feb. 19, 2025](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
+- Army Corps fast-tracks CWA permits for Line 5 and  Blue Marlin pipelines, [legal argument unclear](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
+- [DOI approves uranium mine](https://perkinscoie.com/insights/update/doi-exercises-authority-under-novel-emergency-authorities-approve-uranium-mine) in [11 days](https://www.blm.gov/press-release/interior-expedites-permitting-critical-energy-project-address-national-energy)
+- [Black Butte Coal Mine Expansion](https://www.doi.gov/pressreleases/trump-administration-accelerates-review-black-butte-mine-expansion-bold-step-energy) approved in [28 days](https://www.wyomingnews.com/laramieboomerang/news/feds-reactivate-440-million-ton-coal-lease-application-in-powder-river-basin/article_224ab7ae-8f02-4bbb-85d4-513893d15c94.html)
+- West Antelope II & III coal emergency leases
+- DOE emergency orders [keep the J.H. Campbell coal power plant open in Michigan](https://www.detroitnews.com/story/news/local/michigan/2025/08/21/trump-administration-extends-order-keeping-michigan-coal-plant-open/85748180007/). FERC approves Consumers Energy's request to allocate costs to electricity bills across the Midwest.
 
+> DOE Press Secretary: President Donald Trump and Secretary Wright "are ensuring Americans have access to all forms of reliable energy, including coal"
 
 
 ## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {background-opacity="0.3" background-image="https://heartlanddailynews.com/wp-content/uploads/2021/03/LNG-export-terminal.jpg"}
@@ -69,7 +74,7 @@ Sec. 2.
   - energy efficiency 
   - water efficiency
   - fuel efficiency 
-  - electrification, especially not anything related to EVs^[By “electric vehicle (EV) mandate,” this E.O. means (1) the part of the Clean Air Act currently [before the Supreme Court](https://www.cbsnews.com/news/supreme-court-california-epa-waiver-vehicle-emissions-standards/) that allows California to set its own fuel economy standards for cars and trucks, and (2) IRA subsidies for EVs and other technologies that effectively make EVs cheaper and thus "other types of vehicles affordable." More from NPR [here](https://www.npr.org/2025/01/30/nx-s1-5272749/donald-trump-ev-electric-vehicles-subsidies-auto-industry)]
+  - electrification, especially not anything related to EVs^[By “electric vehicle (EV) mandate,” this E.O. means (1) the part of the Clean Air Act that [allows](https://www.law.cornell.edu/uscode/text/42/7543) California to set its own fuel economy standards for cars and trucks (also being attacked in the [courts](https://www.cbsnews.com/news/supreme-court-california-epa-waiver-vehicle-emissions-standards/) ), and (2) IRA subsidies for EVs and other technologies that effectively make EVs cheaper and thus "other types of vehicles affordable." More from NPR [here](https://www.npr.org/2025/01/30/nx-s1-5272749/donald-trump-ev-electric-vehicles-subsidies-auto-industry)]
 - Not consider international effects in policymaking
 
 Sec. 3-4. Deregulate oil, gas, coal, hydro, biofuels, mining, and nuclear industries
@@ -105,23 +110,30 @@ Sec. 9. Help companies do more mining on public lands.
 > "**Strategic National Stockpile.** The President should invoke the Defense Production Act, which is a form of temporary takeover of private enterprises, only in the gravest circumstances...The SNS should clarify its mission as supplier of last resort to the federal government, state governments, or first responders."  - Project 2025" 
 
 
-## Big Beautiful Bill repeals most of the IRA 
+## Big Beautiful Bill repeals much of the IRA 
 
 - [Rescinds $60 million in unspent funds at NOAA for atmospheric, climate, and weather research](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
-- Republicans Senators successfully pushed for a slightly slower phaseout of the credits in order to limit the disruption to industry.
--  But [E.O.](https://www.nytimes.com/2025/07/10/climate/trump-renewable-energy-solar.html) instructed the Treasury Department to limit the ability of wind and solar projects to qualify for the fast-disappearing tax credits (legality unclear)
-- Also, the law limits tax credits for projects that source materials or rely on investments from certain countries.
+- Republicans Senators successfully pushed for slightly slower tax credit phaseouts to limit the disruption to industry
+    -  But an [E.O.](https://www.nytimes.com/2025/07/10/climate/trump-renewable-energy-solar.html) instructed the Treasury Department to limit the ability of wind and solar projects to qualify for the fast-disappearing tax credits (legality debated)
+- Limits tax credits for projects that source materials or rely on investments from certain countries
 -  repeals the Greenhouse Gas Reduction Fund and rescinds all "unobligated" funds.
    - EPA claimed new authority to claw back billions of dollars in funding contracted for renewable energy and efficiency projects, arguing it de-obligated $17 billion in grant funds when it issued termination letters canceling the contracts.
-- The Interior Department approved the expansion of a coal mine in Montana
-- Fast-track review of a federal coal lease in Utah
+- Pay to play - NEPA review in 180 days
 
+
+
+
+## Rules implementing Energy E.O.
+
+- "Removal of National Environmental Policy Act Implementing Regulations" removes  Trump 1.0-era CEQ rules. 
+- Some agencies made new rules (including DOI, DOT, DOE, USDA, FERC). Others switched to "operating procedures" (guidance). 
+- All cut public participation and consideration of climate, equity, and cumulative impacts. 
+- New categorical exclusions (e.g., based on project cost).
 
 ## Further Energy Policy 
 
-- [Despite court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act has been frozen since February 2025. For example, the Office of Energy Efficiency and Renewable Energy has posted almost [no new]( https://www.energy.gov/eere/funding/eere-funding-opportunities)
+- [Despite court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act has been frozen since Feb. 2025. <!--For example, the Office of Energy Efficiency and Renewable Energy has posted almost [no new ]( https://www.energy.gov/eere/funding/eere-funding-opportunities)--> 
 - [Approval of CA vehicle emissions rules "recended" with no plan to follow the CA exemption portion of the Clean Air Act](https://www.kqed.org/science/1997300/trump-blocks-californias-ev-rules-state-sues-in-response). The Senate Parliamentarian and the Government Accountability Office say this is not legal.
-
 
 ## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
 
@@ -148,7 +160,13 @@ Government agencies should:
 - Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
 - Require developers to pay for the removal of old windmills
 
+## {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+
+> "We're not allowing any windmills to go up. We don't allow windmills, and we don't want the solar panels...we are just not going to allow them...I hope they get back to fossil fuels" - President Trump, [Aug. 25 2025](https://www.youtube.com/watch?v=sp97kSwaBfQ) 
+
+
 ## Further Wind Policy Developments {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+
 
 - Department of the Interior to put [all wind and solar projects through “elevated review”](https://grist.org/energy/trumps-interior-department-is-turning-environmentalists-legal-playbook-against-them/) from the Secretary's office, and may assert that the purpose of windmills is to [kill protected birds](https://heatmap.news/plus/the-fight/spotlight/migratory-bird-act-trump?utm_source=substack&utm_medium=email#), making them illegal
 - DOI [cancels the lease for Lava Ridge Wind Project signed with BLM in 2024](https://www.doi.gov/pressreleases/interior-department-moves-cancel-reckless-biden-era-approval-lava-ridge-wind-project)
@@ -157,8 +175,9 @@ Government agencies should:
 -  Internal Revenue Service guidance [bars companies building wind and solar projects from federal tax incentives](https://www.nytimes.com/2025/08/15/climate/irs-wind-solar-tax-credits.html)
 -  Commerce Department considering [banning imports of wind turbines](https://public-inspection.federalregister.gov/2025-16191.pdf?utm_campaign=pi+subscription+mailing+list&utm_medium=email&utm_source=federalregister.gov)
 - Bureau of Ocean Energy Management [rescinded all designated Wind Energy Areas along the continental shelf](https://www.boem.gov/newsroom/notes-stakeholders/boem-rescinds-designated-wind-energy-areas-outer-continental-shelf)
-- The Transportation Department is recommending [1.2-mile minimum setback requirements for wind farms near federal highways and railroads](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare) 
--  Federal Aviation Administration is re-evaluating whether wind farms pose a danger to aviation. Such a declaration would allow a full-scale ban of modern windmills (95% on private land)
+- The Department of Transportation Department [terminated upgrades to ports required for offshore wind development](https://www.npr.org/2025/08/31/nx-s1-5522943/trump-offshore-wind-energy-ports) funded by the Bipartisan Infrastructure Law's Nationally Significant Freight and Highway Projects (INFRA) and Port Infrastructure Development Program (PIDP) grant programs 
+- DOT is also recommending [1.2-mile minimum setback requirements for wind farms near federal highways and railroads](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare) 
+- The Federal Aviation Administration is re-evaluating whether wind farms pose a danger to aviation. Such a declaration would allow a full-scale ban of modern windmills (95% on private land)
 
 ## Similar policies targeting solar {background-opacity="0.2" background-image="https://i2-prod.liverpoolecho.co.uk/incoming/article31278176.ece/ALTERNATES/s615/0_Solarpanels.jpg"}
 
@@ -268,6 +287,21 @@ Establishes a council to look for political bias in disaster responses, chaired 
 -  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
 
 
+## New Policy from the Supreme Court  
+
+- *Seven County Infrastructure Coalition v. Eagle County* - (1) more deference in NEPA + (2) NEPA review need not (can't?) consider upstream or downstream effects (e.g., climate change and environmental justice)
+
+> "An EIS is relevant only to the question of
+whether an agency’s final decision (here, to approve the
+railroad) was reasonably explained." 
+
+> "[Indirect effects] may be factually
+foreseeable, but that does not mean that those effects are
+relevant to the agency’s decisionmaking process"
+
+# Policies Under Consideration 
+
+
 ## The 2026 Proposed Budget 
 
 - eliminates about $882 million in the Building Resilient Infrastructure and Communities grant program, which helped support resources like flood control systems, wildfire prevention, and storm water management upgrades
@@ -291,11 +325,19 @@ Allows building on most wetlands without a permit by limiting Clean Water Act pr
 Court's options for recourse.
 Increases procedural barriers to establishing water quality criteria and increases opportunities for litigation.
 
+## National Defense Authorization Act for 2026.
+
+- "Climate resilient" changed to "resilient"
+- Little indication that DOD is backing away from transition to electric vehicles and climate adaptation plans
+- 2025 Authorization Bill bans DOD from requiring contractors to disclose GHG emissions
+
+
 ## Links for more context 
 
 <!--https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61X4RoMGBtL._SY522_.jpg&f=1&nofb=1&ipt=5bed1e068b0dd6e9098f84809cebeb5168d73c1016ecc1effe0130b9059871c4&ipo=images--> 
 
-[2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further. (https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
+- "2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further." [NYT](https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
+- https://eelp.law.harvard.edu/tracker-type/regulatory-tracker/
 
 
 <!--
