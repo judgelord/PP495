@@ -110,7 +110,7 @@ Sec. 9. Help companies do more mining on public lands.
 > "**Strategic National Stockpile.** The President should invoke the Defense Production Act, which is a form of temporary takeover of private enterprises, only in the gravest circumstances...The SNS should clarify its mission as supplier of last resort to the federal government, state governments, or first responders."  - Project 2025" 
 
 
-## Big Beautiful Bill repeals much of the IRA 
+## Big Beautiful Bill repeals much of IRA 
 
 - [Rescinds $60 million in unspent funds at NOAA for atmospheric, climate, and weather research](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 - Republicans Senators successfully pushed for slightly slower tax credit phaseouts to limit the disruption to industry
@@ -121,6 +121,26 @@ Sec. 9. Help companies do more mining on public lands.
 - Pay to play - NEPA review in 180 days
 
 
+## Big Beautiful Bill upends Farm Bill
+
+Historically, 5-year farm bills are bipartisan legislation with ag and other subsidies for producers in rural areas + SNAP benefits that benefit producers and consumers in rural and urban communities. 
+
+- Cuts $186 billion cut to food assistance (SNAP) from 22.3 million families - [2.4 million families projected to loose food assistance entirely](https://www.cnbc.com/2025/09/01/snap-benefit-cuts-americans-food-grocery-shopping.html)
+   - added work requirements for individuals ages 55 through 64, parents children ages 14 and up and veterans.
+- +$65 billion in ag subsidies (mostly crop insurance)
+- expanded eligibility to include more kinds of and larger corporations, likely acceleration farmland consolidation (fewer family farms)
+- did not cut most conservation programs, rescinds unobligated forestry and conservation funds from the IRA for grants to non-federal forest landowners and $101 million from Urban and Community Forestry Assistance grants. 
+
+Other traditional parts of the Farm Bills were left out. Without further legislation, there will be large cuts to
+
+- National Institute of Food and Agriculture
+- Agricultural Research Service
+- Animal and Plant Health Inspection Service
+- Agricultural Marketing Service
+- Risk Management Agency
+- Farm Service Agency
+- Natural Resources Conservation Service
+- Food and Nutrition Service
 
 
 ## Rules implementing Energy E.O.

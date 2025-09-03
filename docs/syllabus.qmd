@@ -314,7 +314,7 @@ Under extenuating circumstances, I will attempt to work out an alternative revie
 
 ## Participation - 22% (24 classes X 1% per class - 2 pass days) 
 
-- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas Mondays and Wednesdays</mark> weeks 2-14. Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
+- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas Mondays and Wednesdays</mark> weeks 2-14. Late posts are not counted. Posts should be 100-150 words and include a **one-sentence** summary of <mark> (1) Your understanding of each author's main argument (or the argument relevant to your question), (2) What you think about that argument, AND (3) Question(s) *about the reading(s)* that merit further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> When there are multiple readings, you need not ask a question about every reading. Quotes and citations don't count toward the word limit.
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss class. 
 - Summarize the discussion questions posed on Canvas for one class (2-3 minutes OR summarize what we have learned and how we have refined the points of debate at the end of one class (2-3 minutes)
 
@@ -326,17 +326,33 @@ Under extenuating circumstances, I will attempt to work out an alternative revie
 
 Advice on writing good questions from Professor Rohde: 
 
-Questions should model good intellectual practice; that is, not just a one-sentence question, but a few sentences providing some important framing or context. This could include, for example, an explanation of why the question is important (the stakes), an elaboration on the nuances of the question, etc. Reference to specific language in the text(s) is encouraged, and quotes are welcome. For material on the syllabus, simply cite the author and page; for materials beyond the syllabus, please include a full reference. Be sure to reflect on the bulk of the readings for the day; i.e., demonstrate that you’ve read all of the assigned material.
+Questions should model good intellectual practice; that is, not just a one-sentence question, but a few sentences providing some important framing or context. This could include, for example, an explanation of why the question is important (the stakes), an elaboration on the nuances of the question, etc. Reference to specific language in the text(s) is encouraged, and quotes are welcome. For material on the syllabus, simply cite the author and page; for materials beyond the syllabus, please include a full reference. 
 
-Questions should represent two specific types according to the following classification (identify the types in your post):
+Types of questions: 
 
-- Clarification/Comprehension (e.g., What does X mean?)
+- Clarification/Comprehension (e.g., What does X mean? --- This should not be answered with a quick internet search --- an internet search yielding contradictory plausible answers is evidence that it is a good question)
 - Analytical/Interpretive (e.g., How does X evidence relate to Y point?)
 - Synthetic/Evaluative (e.g., Are you convinced by the author’s argument that X? ) If you choose this question, be sure to say why the argument is provocative or has important implications. If you think a statement is obviously correct or trivial, then it is not worth discussing whether we agree with it.
 - Connective/Comparative (e.g., How does X’s argument compare to Y’s we read last week?) If you choose this question, point us in the direction of some key similarities or differences. 
 - Provocative/Argumentative (e.g., Doesn’t evidence X undermine author’s point Y?!)
 - Applied/Extended (e.g., Does X point help explain current problem Y?) If you choose this question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a mindless invitation to extend an analysis across policy problems.
 :::
+
+Here are some example discussion questions based on the readings from Week 2: 
+
+> [Clarification] Battistoni and Mann argue that the Biden Administration's linking of concerns about climate and the rising power of China led to "the legitimation of a mode of state capitalism that would have been unthinkable in the inner circles of American policymaking a few years ago." I am a bit confused by the jargon here. My understanding is that this is what they mean by "Bidenomics," but they also talk about "Bidenomics" as "industrial policy" when talking about the IRA. Do "state capitalism" and "industrial policy" mean the same thing here? Or can you have one without the other? Finally, how does this relate to the concept of "political capitalism" discussed at the beginning of the article?
+
+> [Analytical] Contrasting investments in green infrastructure with proposed policies targeting child care that were cut from the IRA, Battistoni and Mann ask, "Why did [green infrastructure investments] squeak through, while proposed investments in 'care infrastructure' and other social welfare programs were abandoned?" I am not sure which of the answers they offer is the better explanation. They seem to offer two answers: (1) that Biden was pursuing "a classic strategy of (re)industrialization" and (2) that Senator Manchin's "decisive role in the IRA's passage means that it relies almost entirely on incentives for investments in green tech." Which is more to blame? Biden's priorities or Manchin's? What evidence do we have either way?
+
+>? [Evaluative] Battistoni and Mann provocatively argue that "there is little to distinguish the IRA's 'carrots-only' strategy from Obama's notorious 'all of the above' energy policy." I think I see what they are saying, but I don't think it is accurate. I also think it contradicts their main argument about how we have entered a new era of climate politics. Are you persuaded that Obama and Biden's climate policy strategies are more similar than they are different? [For context, recall that the two most prominent features of Obama's climate policy were the Clean Power Plan regulations on power plants and the Waxman-Markey cap and trade bill.] In what sense is this statement persuasive? In what sense is it not? More generally, much has been made (including in this article) about the new era of industrial policy. In what sense is it new? In what sense is it more of the same?
+
+> [Connective] In the Voltz podcast about the Farm Bill, we learned that U.S. ag policy resembles the "industrial policy" that the other readings used to describe the energy policy of both the Biden and Trump administrations. This made me curious about the connections between these two kinds of policy. Are there insights from how ag policy has developed and how political coalitions have formed that suggest what we can expect to see in energy policy, where fuel sources are increasingly shaped by the state, similar to how our food sources have been for decades? Are there fundamental differences in ag and energy policy, politics, or industry that make them difficult to compare? Or is there a version of the Farm bill that could emerge for Energy? Can we imagine what a regular bipartisan 5-year Energy Bill would look like? What are the political coalitions for this?
+
+> [Provocative] Several of this week's readings talked about the political theory of why various IRA policies should create durable political collections (e.g., Battistoni and Mann and the interview with Sonia Aggarwal). Yet, Harris did not campaign much on climate, Trump was elected on platform that included repealing the IRA, and (despite most of the money going to their districts) nearly every Republican member of Congress voted to scrap most IRA provisions. Is the lesson that the political strategy of the IRA to build a durable coalition and "lock-in" policy is a failure? To what extent should we conclude that the underlying theory of what makes a policy durable is wrong? To take a step back, what exactly was the theory of why IRA provisions would not be repealed? Why did so many people think this? Does the evidence we have from the debates over its repeal undermine the theory?
+
+
+
+
 
 ### Make-up policy 
 
