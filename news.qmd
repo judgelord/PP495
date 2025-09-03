@@ -1,0 +1,72 @@
+---
+title: "Climate Change"
+subtitle: "Where are we?"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "https://eoimages.gsfc.nasa.gov/images/imagerecords/82000/82693/earthrise_vis_1092.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: false
+   smaller: true
+   scrollable: true
+   #theme: [michigan.scss, earthrise.scss]
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# Bad news
+
+
+## {background-image="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/F04E/production/_133281516_era_5_global_sea_temp_lines2024-05-05-nc.png" background-size="contain"}
+
+<!--https://climate.copernicus.eu/surface-air-temperature-july-2025 --> 
+
+## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain"}
+
+
+## 
+
+<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_15c.html" width="770px" height="500px"></iframe>
+
+- 90% coral death
+- 14% of people endure extreme heat waves every 5 years 
+- Some ice in Arctic most years, 21-37% permafrost lost  <!--; sea level rise ~1m (3 feet)--> 
+
+
+##
+
+<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="770px" height="500px"></iframe>
+
+- 98-99% coral death
+- 37% of people endure extreme heat waves every 5 years 
+- Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
+
+
+## {background-image="figs/rhodium-2023.png" background-size="contain"}
+
+# 📍 +1.6°C (+2.7°F)
+
+# Good News
+
+<!--
+## {background-image="https://elements.visualcapitalist.com/wp-content/uploads/2021/06/solar-energy-costs-wrights-law.png" background-size="contain"}
+-->
+
+## {background-image="https://cleantechnica.com/wp-content/uploads/2023/09/RMI-LCOE-chart-800x445.jpg" background-size="contain"}
+
+## {background-image="https://climatesolutions-careers.org/wp-content/uploads/2024/03/3declines-1536x749.png" background-size="contain"}
+
+
+
+
+## {background-image="https://i.redd.it/fnexljzv83bd1.jpeg" background-size="contain"}
+
+## {background-image="https://i.redd.it/hw34ws6iu91e1.jpeg" background-size="contain"}
+
+
+## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}
