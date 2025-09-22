@@ -45,6 +45,11 @@ $base_font_size: 35px !default;
 }
 
 
+.transparent {
+   Opacity:0;
+   font-size: 0.01em;
+}
+
 .subtitleqwerty {
   color: $body-color;
   font-size: $h2-font-size;

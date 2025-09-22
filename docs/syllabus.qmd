@@ -438,11 +438,10 @@ Sources of Greenhouse Gases
 - [Watch Carbon Dioxide Move Through Earth’s Atmosphere - NASA](https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/)
 - [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
 
-<!--
+
 Attribution Science
 
-- 
---> 
+- [Health losses attributed to anthropogenic climate change - Nature Climate Change](https://www.nature.com/articles/s41558-025-02399-7)
 
 ## Climate Risk
 
@@ -548,9 +547,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
 
-Background: 
-
-- [2024 Year in Review on Environmental Economics, with Karen Palmer, Kevin Rennert, and Margaret Walls (Resources Radio, 2023)](https://www.resources.org/resources-radio/2024-year-in-review-on-environmental-economics-with-karen-palmer-kevin-rennert-and-margaret-walls/) (35 min) 🎧 
+Optional Background:  [2024 Year in Review on Environmental Economics, with Karen Palmer, Kevin Rennert, and Margaret Walls (Resources Radio, 2024)](https://www.resources.org/resources-radio/2024-year-in-review-on-environmental-economics-with-karen-palmer-kevin-rennert-and-margaret-walls/) (35 min) 🎧 
 
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas->Perusall)` (8 pages)
 
@@ -601,8 +598,9 @@ The State of Ann Arbor Climate Policy:
 
 > Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) (at least read the landing page for the report)
 
+::: {.callout-note collapse="true" title="Further reading"}
 
-Further reading on state-level policy:
+Further reading on state-level policy
 
 - [The Battle Over Clean Energy with Leah C. Stokes (SSN 2019)](https://scholars.org/podcast/battle-over-clean-energy) (25 min)
 
@@ -649,7 +647,7 @@ Further resources for understanding the Inflation Reduction Act:
 - [Charged: E.V. Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
 - [Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
-
+:::
 
 
 ## Week 3: The Anthropocene Challenge
@@ -659,6 +657,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 ### Tuesday: In-class peer workshop of draft op-ed headlines for Week 3 assignment.
 
+No reading or discussion posts due. 
 
 ### Thursday: World Views:
 
@@ -672,10 +671,11 @@ Further resources for understanding the Inflation Reduction Act:
 
 > To Discuss: [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
 
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading on net zero: 
 
 - [All Hail The Planet: Carbon Offsets](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#carbon)
-
+:::
 
 
 ## Week 4: Movements 
@@ -699,6 +699,7 @@ Further reading on net zero:
 
 > To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas->Perusall)`
 
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
 
 - [Impolitic Podcast: Pollution & Politics: Dr. Patrick Hunnicutt and Dr. Geoffrey Henderson discuss their research that air pollution reduces the level of political participation in the United States.](https://podcasts.apple.com/us/podcast/pollution-politics/id1611681699?i=1000653339624) (65 min) 🎧  discussing Research: ["Air pollution is associated with lower levels of social movement participation, especially among well-resourced communities."](https://osf.io/dtkjm/)
@@ -710,7 +711,7 @@ Further reading:
 - [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
 
 - [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
-
+:::
 
 ## Week 5: Politics 
 
@@ -726,16 +727,7 @@ Further reading:
 
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas->Perusall)` (8 pages)
 
-
-Background: 
-
-- [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
-<!--
-Further reading: 
-
-- [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
---> 
-
+- Optional Background:  [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
 
 ### Thursday: Public Opinion:
 
@@ -754,14 +746,14 @@ Further reading:
 
 > To Discuss: Skim: [Climate change belief systems across political groups in the United States by Sanguk Lee, Matthew H. Goldberg, Seth A. Rosenthal, Edward W. Maibach, John E. Kotcher, and Anthony Leiserowitz. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0300048)
 
+::: {.callout-note collapse="true" title="Further reading"}
 In the news:
 
 - [Climate hasn't been core to the GOP. These conservatives are trying to change that](https://www.npr.org/2024/07/19/nx-s1-5041975/young-republicans-advocate-climate-action) (also see the [American Conservation Coalition's website](https://acc.eco/our-platform/)---is there a UMich chapter?) 
 - [Climate change made it in the GOP debate. Some young Republicans say that's a win](https://www.npr.org/2023/08/25/1195566969/climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win) 
 - [Josh Shapiro offers Harris a path through fracking minefield - Energy Wire - E&E News](https://www.eenews.net/articles/josh-shapiro-offers-harris-a-path-through-fracking-minefield/)
 
-
-Further Reading: 
+Research: 
 
 - Mildenberger, M. and D. Tingley (2019). Beliefs about climate beliefs: The importance of second-order opinions
 for climate politics. British Journal of Political Science 49(4), 1279–1307.
@@ -809,6 +801,7 @@ https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d
 - [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
 
 - [Garside, Susanna & Haoyu Zhai. 2022. If not now, when? Climate disaster and the Green vote following the 2021 Germany Floods, Research & Politics, 9(4).](https://journals.sagepub.com/doi/10.1177/20531680221141523)
+:::
 
 <!--
 
@@ -833,6 +826,7 @@ The black church as a site of modern climate advocacy:
 
 > All We Can Save: Greens Are Just as Good as Kale by Heather McTeer Toney
 
+::: {.callout-note collapse="true" title="Further reading"}
 
 Further reading: 
 
@@ -841,6 +835,7 @@ Further reading:
 - ["The Faith Factor in Climate Change: How Religion Impacts American Attitudes on Climate and Environmental Policy" - Public Religion Research Institute](https://www.prri.org/research/the-faith-factor-in-climate-change-how-religion-impacts-american-attitudes-on-climate-and-environmental-policy/#:~:text=White%20evangelical%20Protestants%20(49%25),of%20color%2C%2028%25%20of%20Jewish)
 
 - [pReligiosity and climate change policies, Energy Economics, 2021](https://doi.org/10.1016/j.eneco.2021.105414)
+:::
 
 <!--## Nature as Teacher
 
@@ -874,9 +869,12 @@ By Holly Jean Buck](https://books.google.com/books?id=0TOGDwAAQBAJ&printsec=fron
 
 > To Discuss: *All We Can Save: A Handful of Dust* by Kate Marvel 
 
-Carbon removal: 
+> to Discuss: [A Responsible Way to Cool the Planet - NYT Opinion - by Zeke Hausfather and David Keith](https://www.nytimes.com/2025/09/21/opinion/geoengineering-planet-cooling-sulfur.html)
 
 > [Communicating carbon removal- Rob Bellamy and Kaitlin T. Raimi](https://doi.org/10.3389/fclim.2023.1205388) (Pages 1-4)
+
+
+::: {.callout-note collapse="true" title="Further reading"}
 
 Further Reading: 
 
@@ -902,7 +900,7 @@ Further Reading:
 
 - [Why we shouldn’t shut nuclear power plants --- starts at minute 35](https://kpfa.org/player/?audio=377066) 🎧 
 
-
+:::
 
 ## Week 7: Ecological Critique
 
@@ -921,6 +919,7 @@ Further Reading:
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
 
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
 
 - [Rachel Carson’s Warning on D.D.T. Ignited an Environmental Movement](https://retroreport.org/video/rachel-carsons-warning-on-ddt-ignited-an-environmental-movement/)
@@ -928,6 +927,7 @@ Further reading:
 <!--
 - *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas->Perusall)`
 --> 
+:::
 
 ### Thursday
 
@@ -944,6 +944,9 @@ Further reading:
 
 ### Thursday: Ecofeminist Critique
 
+- Optional Background on ecofeminism: ["Ecofeminism explains how patriarchy has contributed to the climate crisis" by Leah Thomas](https://www.teenvogue.com/story/intersectional-environmentalist-ecofeminism)
+
+
 Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of care work. Her argument has many clear policy implications. 
 
 > "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
@@ -952,9 +955,6 @@ Battistoni asks if it is possible to increase people's quality of life while dec
 - In "A Green New Deal for Care," what does Battistoni mean when she says that "pink-collar jobs are green jobs?" 
 - In "Alive in the Sunshine," Battistoni presents two ways of seeing the movement for Payment for Ecosystem Services. What are their ideological roots? What are the implications of each for climate policy? 
 
-Background on ecofeminism:
-
-- ["Ecofeminism explains how patriarchy has contributed to the climate crisis" by Leah Thomas](https://www.teenvogue.com/story/intersectional-environmentalist-ecofeminism)
 
 Policy implications of valuing care work:
 
@@ -966,6 +966,8 @@ https://docs.google.com/document/d/1aUXsJ1MrF2M67Lew-HP-UJHG1e1D6WlrjpdKCLBVz6s/
 
 > More TBD (including selections from *All We Can Save*)
 --> 
+
+::: {.callout-note collapse="true" title="Further reading"}
 
 Further reading:
 
@@ -982,6 +984,7 @@ Ecofeminism as a critique of scientific rationality:
 Recent policy efforts: 
 
 - [Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
+:::
 
 <!--
 ### Thursday: Labor and Climate
@@ -1017,10 +1020,10 @@ Recent policy efforts:
 
 > To Discuss: Research: Skim [Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
 
-Further reading: 
+::: {.callout-note collapse="true" title="Further reading"}
 
 - [*The Enemy of My Enemy: When Firms Support Climate Change Regulation* (2020) by Amanda Kennard](https://doi.org/10.1017/S0020818320000107)
-
+:::
 
 ### Thursday: U.S. political economy of climate policy: 
 
@@ -1043,6 +1046,8 @@ Further reading:
 > Catie's article on utility lobbying? 
 --> 
 
+::: {.callout-note collapse="true" title="Further reading"}
+
 Further Reading: 
 
 - [Op-Ed: Yes, ExxonMobil misled the public by NAOMI ORESKES AND GEOFFREY SUPRAN](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html)
@@ -1051,6 +1056,7 @@ Further Reading:
 
 
 - Tom Athanasiou on what the U.S. return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
+:::
 
 ## Week 10: Justice 
 
@@ -1078,6 +1084,7 @@ Further Reading:
 
 > To Discuss: [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.federalregister.gov/documents/2023/04/26/2023-08955/revitalizing-our-nations-commitment-to-environmental-justice-for-all)
 
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
 
 - [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
@@ -1092,7 +1099,7 @@ Further reading:
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
 - [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
-
+:::
 
 ## Week 11:  Indigenous Critique
 
@@ -1113,7 +1120,7 @@ Further reading:
  - What are the implications of expanding or shrinking Indigenous governance for addressing climate change? 
  - Conversely, what are the implications of various climate policies for indigenous governance?
 
-Background:
+Optional Background:
 
 - [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
 
@@ -1159,7 +1166,7 @@ Great power competition v. cooperation:
 
 Neo-Malthusian: 
 
-- Background on population and the climate: [The population question - NYT Climate Forward](https://www.nytimes.com/2022/11/18/climate/the-population-question.html)
+- Optional Background on population and the climate: [The population question - NYT Climate Forward](https://www.nytimes.com/2022/11/18/climate/the-population-question.html)
 
 
 > To Discuss: ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
@@ -1171,7 +1178,7 @@ Neo-Malthusian:
 
 ### Thursday: Immigration and ethno-nationalist critique
 
-- Background on climate migration: [Connecting the dots between climate, migration, and the far-right - NPR Special Series on Climate, migration, and the far right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)
+- Optional Background on climate migration: [Connecting the dots between climate, migration, and the far-right - NPR Special Series on Climate, migration, and the far right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)
 
 
 
@@ -1205,6 +1212,7 @@ Critique of the nationalist critique:
 
 - Background: Human rights perspective: --> 
 
+::: {.callout-note collapse="true" title="Further reading"}
 
 Further reading on climate migration: 
 
@@ -1229,7 +1237,7 @@ Further Research:
 
 - [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](https://link.springer.com/article/10.1007/s10584-021-03133-w)
 
-
+:::
 
 
 
@@ -1322,15 +1330,15 @@ Further reading:
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different?  
 
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
-
-- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 - [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
 
 - [For a Preview of Project 2025, Look to Argentina](https://drilled.media/news/Project2025-Argentina)
 
 - [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
+:::
 
 
 <!--
@@ -1371,6 +1379,8 @@ Further reading:
 
 The backlash against ESG is continuing, with a string of lawsuits aimed at shutting down shareholder activism. We don't often talk about shareholder activism in the vein of protecting protest, but it's absolutely part of the story. Andrew Behar, CEO of shareholder advocacy group As You Sow, joins Damages to explain what's going on.
 
+
+::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
 
 <!--### Thursday: Carbon markets and pricing--> 
@@ -1403,6 +1413,7 @@ Market critics:
 Criticism of the critics: 
 
 - [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
+:::
 
 ### Thursday: Thanksgiving Break
 
@@ -1419,7 +1430,7 @@ Criticism of the critics:
 
 >  To Discuss: [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas->Perusall)`
 
-Further reading:
+::: {.callout-note collapse="true" title="Further reading"}
 
 - [House of Cards: Florida and Property Insurance in the Age of Climate Change - America Adapts the Climate Change Podcast]( https://podcasts.apple.com/us/podcast/america-adapts-the-climate-change-podcast/id1133023095?i=1000663737970) 🎧
 
@@ -1440,6 +1451,7 @@ Further reading:
 - [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)  🎧 
 
 - [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)  🎧 
+:::
 
 <!--Learning Objectives
 -Understand the basic role of local governments in planning and development. 
