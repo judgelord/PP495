@@ -34,7 +34,7 @@ In the past, students in this class have found their voice as:
 This is far from a complete list. 
 
 Because finding firm ground from which to speak authoritatively is a challenge, for every 100 words of writing, you should include one **original evidence** that adds credibility to your claims. 
-These must take the form of a image or video (<1 minute). 
+These must take the form of an image or video (<1 minute). 
 Some ideas: 
 
 - A documentary-style clip from an interview you conducted with an expert or other members of your group/family/profession/community
@@ -46,7 +46,7 @@ Some ideas:
 
 In the first third of the class, you develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
 
-Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
+Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly the word limit (perhaps a few words shorter).
 
 - A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Ten op-ed-style headlines
@@ -62,7 +62,7 @@ An "annotated bibliography" in footnotes means two things:
 
 2. Annotated means that it **may** include any additional context to help your reader understand why this source is important or why it supports the claim. If these are obvious, there is no need to annotate. Annotation is optional. It allows you to elaborate in ways you cannot in the tight word limit of the main essay. 
 
-Use footnotes for annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications. 
+Use footnotes for annotated bibliographies to make it easier for your peer reviewers, me, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with endnotes or margin notes for some online publications. 
 
 
 ### Craft your critique 
@@ -83,12 +83,12 @@ To be clear, you do not need to include all of my exact comments in the spreadsh
 
 For example: 
 
-- if I had a bunch of spelling and grammar notes; you don't need a line for each one. Just saying "Grammar" | "All fixed" on one line is fine.  
-- if I told you that something was factually incorrect, you don't need to include my exact words, just something like "Revise description of X" is fine.
+- if I had a bunch of spelling and grammar notes, you don't need a line for each one. Just saying "Grammar" | "All fixed" on one line is fine. (But please use a grammar checker.)
+- if I told you that something was factually incorrect, you don't need to include my exact words; just something like "Revise description of X" is fine.
 
 This spreadsheet will grow longer as you receive more suggestions from myself and your peers. 
 
-You must share this spreadsheet with me each time your resubmit your revised essay(s). <mark>Put a link to your google sheet at the top of your essay.</mark> I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like rubric to assess your thoughtful engagment with my feedback and your peer reviews.
+You must share this spreadsheet with me each time you resubmit your revised essay(s). <mark>Put a link to your google sheet at the top of your essay.</mark> I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like a rubric to assess your thoughtful engagement with my feedback and your peer reviews.
 
 It is up to you whether you want to share this spreadsheet with your peer reviewers. 
 
@@ -98,7 +98,7 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
-- One 750-800 word op-ed + eight bits of original visual evidence + annotated bibliography + the link to your revision tracking Google sheet
+- One 750-800-word op-ed + eight bits of original visual evidence + annotated bibliography + the link to your revision tracking Google sheet
 - Final op-ed + annotated bibliography + the link to your revision tracking Google sheet
 
 # Assessment 
@@ -107,7 +107,7 @@ Assessment is based on your <mark> thoughtful engagement with the ideas</mark>  
 
 Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. 
 
-Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. <mark> I am mostly grading on how you respond to feedback.</mark>  This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. <mark> I am mostly grading on how you respond to feedback.</mark>  This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. <!--If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.--> 
 
 
 
