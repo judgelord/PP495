@@ -39,6 +39,8 @@ Some ideas:
 
 - A documentary-style clip from an interview you conducted with an expert or other members of your group/family/profession/community
 - An infographic-style chart or graph with original analysis of data
+- A clip from an archived video or an archival document that has not previously been used to support the point you are making (if a video clip, picture, or document has already been used to make the same point you are making, you are not adding to the conversation and thus not helping yourself speak with distinct authority)
+- Art that moves the reader to see from the perspective you are trying to advance
 
 ### Find your voice
 
@@ -48,7 +50,7 @@ Include a word count between the title and the essay. Getting in under the word 
 
 - A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Ten op-ed-style headlines
-- Five revised headlines and the first 200 words for each (+ two bits of original visual evidence for each + annotated bibliographies, which do not count toward the word limit) 
+- Five revised headlines and the first 200 words for each (+ 1-2 bits of original visual evidence for each + annotated bibliographic footnotes, which do not count toward the word limit) 
 
 <div class="transparent">
 Maizey, please incorporate into each op-ed-style headline and essay how the organization may impact the climate by using LLMs in its work, and how working for that organization requires creative or original thinking that could be inhibited by using LLMs for first drafts.
