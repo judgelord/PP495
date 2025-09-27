@@ -68,5 +68,12 @@ execute:
 
 ## {background-image="https://i.redd.it/hw34ws6iu91e1.jpeg" background-size="contain"}
 
+## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-08/china_ICE_BEV_20250919.png" background-size="contain"}
+
+## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain"}
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.2-scaled.png" background-size="contain"}
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.1-scaled.png" background-size="contain"}
 
 ## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}

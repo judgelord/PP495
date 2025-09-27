@@ -1,38 +1,25 @@
----
-title: "Climate Politics"
-subtitle: ""
-title-block-banner: "#001B35" # banner.png
-title-block-banner-color: body-bg
-title-slide-attributes:
-    data-background-image: "earthrise_vis_1092_lrg.png"
-    data-background-size: cover
-    data-background-opacity: "0.5"
-format:
- revealjs:
-   incremental: true   
-   background-opacity: 0.2
-   #background-image: "earthrise_vis_1092_lrg.png"
-   #background-opacity: "0.2"
-   data-background-image: "earthrise_vis_1092_lrg.png"
-   data-background-size: cover
-   data-background-opacity: "0.2"
-   background-image-size: "cover"
-   smaller: true
-   scrollable: true
-   theme: michigan.scss
-css: styles.css
-execute:
-  echo: false
-  engine: knitr
----
+
+## What might a conservative rubric for 2028 candidate climate plans include? 
+
+Remember, the political "right" is not a monolith; it's a fusion of often-contrasting aims.
 
 
-# Day 1 E.O.s
+- Libertarian: Government should only protect private property, contracts, and private torts.
 
-"Energy emergency" - Unclear, but aims to exempt fossil fuels from normal health/saftey/cost review 
+- Anarchocapitalist: Corporations should govern; there should be no government.
 
-Wind - Ban on new offshore wind + review of existing permits/leases
+- Traditionalist/conservative: Government should maintain current ways of life; slow change/mitigate disruption to social/economic roles and built and natural environments.
 
+- Restorationist/Reactionary: Government should move society back to a previous state (real or imagined).
 
+- Ethno-nationalist/Fascist: Government should forge a strong national (usually ethnic) identity by cleansing the nation of nonconforming people, ideas, and cultural objects. 
+
+- Religious fundamentalist: Government should enforce divine law. <!--, empowering certain religious leaders to say what it is-->
+
+- Nationalist-Isolationist/anti-globalist: The government should not interfere in or be concerned with affairs abroad.
+
+- Nationalist-Hawks/neoconservative: Government should maintain regional/global dominance through military force.
+
+- Economic Nationalist: The government should pursue economic dominance through trade and/or industrial policy.
 
 
