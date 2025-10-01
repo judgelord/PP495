@@ -70,9 +70,9 @@ execute:
 
 ## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain"}
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain"}
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain"}
+
 
 <!--
 
@@ -81,11 +81,17 @@ execute:
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.1-scaled.png" background-size="contain"}
 --> 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain"}
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain"}
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain"}
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain"}
+
+
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain"}
+
 
 
 ## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}
