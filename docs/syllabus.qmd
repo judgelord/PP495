@@ -92,7 +92,7 @@ Critiquing those with whom we severely disagree is easy, but they are also the l
 
 As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and of your grade.
 
-## Course Philosophy 
+## ∴ Course Philosophy 
 
 In designing this course, I proceed from several premises: 
 
@@ -864,6 +864,8 @@ Learning curves:
 
 
 >  [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 (min 18-1:03) or [Empirically grounded technology forecasts and the energy transition" by Rupert Way, Matthew C. Ives, Penny Mealy, J. Doyne Farmer. 2022 ](https://doi.org/10.1016/j.joule.2022.08.009) (pages 1-24)
+
+Way, Ives, Mealy, and Farmer find that renewable energy costs are falling so fast that a fast transition scenario saves $12 trillion in energy costs relative to the status quo. In the podcast, Farmer says "There are no impediments to rolling out the hardware and building what we need to build. The impediments are political. We do have a powerful industry that is trying to keep it from happening because it threatens their existence." 
 
 Climate engineering: 
 

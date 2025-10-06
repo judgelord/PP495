@@ -53,6 +53,8 @@ execute:
 
 # Good News
 
+# Good News  <br> (1) Technology change
+
 <!--
 ## {background-image="https://elements.visualcapitalist.com/wp-content/uploads/2021/06/solar-energy-costs-wrights-law.png" background-size="contain"}
 -->
@@ -70,9 +72,15 @@ execute:
 
 ## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain"}
 
+
+
+
+# Good News  <br> (2) Political change
+
+
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain"}
 
-
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain"}
 
 <!--
 
@@ -92,6 +100,41 @@ execute:
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain"}
 
+## In sum
 
+::: {.column width="50%"}
+
+
+Most Republicans [support](): 
+
+- schools teaching about global warming
+- US participation in Paris Agreement
+- Funding research for wind and solar
+- Regulating CO2
+- Tax credits for electrification 
+- Using more renewables, less fossil fuels
+- Solar and wind on public lands
+
+Most Republicans [oppose](): 
+
+- Blocking offshore wind farms
+- Ordering agencies to stop researching global warming 
+- Ordering agencies to stop providing info on global warming to the public 
+- Eliminating FEMA
+:::
+
+::: {.column width="50%"}
+
+Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, South Carolina, Georgia (and most other states) believe that climate change is **already causing**
+
+- Extreme heat
+- Wildfires
+- Flooding
+- Hurricanes 
+- Drought AND 
+- Rising sea levels
+
+(only in WV and ND do majorities **not** think climate change is already having an impact)
+:::
 
 ## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}

@@ -14,7 +14,7 @@ execute:
   engine: knitr
 ---
 
-# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
+# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.15" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
 
 ## TL;DR 2025 E.O.s
 
@@ -155,7 +155,7 @@ Other traditional parts of the Farm Bills were left out. Without further legisla
 - [Despite court orders](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) and [more court orders](https://thehill.com/homenews/administration/5216594-appeals-court-keeps-block-on-trumps-sweeping-funding-freeze/), disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act has been frozen since Feb. 2025. <!--For example, the Office of Energy Efficiency and Renewable Energy has posted almost [no new ]( https://www.energy.gov/eere/funding/eere-funding-opportunities)--> 
 - [Approval of CA vehicle emissions rules "recended" with no plan to follow the CA exemption portion of the Clean Air Act](https://www.kqed.org/science/1997300/trump-blocks-californias-ev-rules-state-sues-in-response). The Senate Parliamentarian and the Government Accountability Office say this is not legal.
 
-## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
+## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.15" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
 
 Government agencies should: 
 
@@ -169,7 +169,7 @@ Government agencies should:
 - Support companies operating the failing Trans-Alaska Pipeline
 - Build more roads in National Forests 
 
-## [Wind Projects E.0.](https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/) {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+## [Wind Projects E.0.](https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/) {background-opacity="0.15" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
 
 Government agencies should: 
 
@@ -180,12 +180,12 @@ Government agencies should:
 - Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
 - Require developers to pay for the removal of old windmills
 
-## {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+## {background-opacity="0.15" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
 
 > "We're not allowing any windmills to go up. We don't allow windmills, and we don't want the solar panels...we are just not going to allow them...I hope they get back to fossil fuels" - President Trump, [Aug. 25 2025](https://www.youtube.com/watch?v=sp97kSwaBfQ) 
 
 
-## Further Wind Policy Developments {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+## Further Wind Policy Developments {background-opacity="0.15" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
 
 
 - Department of the Interior to put [all wind and solar projects through “elevated review”](https://grist.org/energy/trumps-interior-department-is-turning-environmentalists-legal-playbook-against-them/) from the Secretary's office, and may assert that the purpose of windmills is to [kill protected birds](https://heatmap.news/plus/the-fight/spotlight/migratory-bird-act-trump?utm_source=substack&utm_medium=email#), making them illegal
@@ -199,7 +199,7 @@ Government agencies should:
 - DOT is also recommending [1.2-mile minimum setback requirements for wind farms near federal highways and railroads](https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html?smid=nytcore-ios-share&referringSource=articleShare) 
 - The Federal Aviation Administration is re-evaluating whether wind farms pose a danger to aviation. Such a declaration would allow a full-scale ban of modern windmills (95% on private land)
 
-## Similar policies targeting solar {background-opacity="0.2" background-image="https://i2-prod.liverpoolecho.co.uk/incoming/article31278176.ece/ALTERNATES/s615/0_Solarpanels.jpg"}
+## Similar policies targeting solar {background-opacity="0.15" background-image="https://i2-prod.liverpoolecho.co.uk/incoming/article31278176.ece/ALTERNATES/s615/0_Solarpanels.jpg"}
 
 
 - Solar facilities on private land are being delayed because federal agencies have halted water permits
@@ -208,7 +208,7 @@ Government agencies should:
 > “not only stopped solar development on federal lands in Nevada, but also on private land where federal approvals such as transmission line rights of way are required.” - Joe Lombardo, Governor of Nevada
 
 
-## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) {background-opacity="0.2" background-image="https://www.connect4climate.org/sites/default/files/images/event/unfccc-bonn_0.jpg"}
+## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) {background-opacity="0.15" background-image="https://www.connect4climate.org/sites/default/files/images/event/unfccc-bonn_0.jpg"}
 
 Instructs agency officials to: 
 
@@ -224,7 +224,7 @@ More completely stop water from the  Sacramento and San Joaquin rivers from flow
 --> 
 
 
-## [Rescissions of "Harmful E.O.s" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)  {background-opacity="0.2" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
+## [Rescissions of "Harmful E.O.s" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)  {background-opacity="0.15" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
 
 Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like re-opening schools and offices after the pandemic] 
 
@@ -246,7 +246,7 @@ Climate-Related E.O.s rescinded:
 - Executive Order 14094 of April 6, 2023 (Modernizing Regulatory Review).
 - Executive Order 14096 of April 21, 2023 (Revitalizing Our Nation’s Commitment to Environmental Justice for All).
 
-## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://www.shatteringtheceiling.com/wp-content/uploads/2016/10/federal_employees.jpg"} 
+## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.15" background-image="https://www.shatteringtheceiling.com/wp-content/uploads/2016/10/federal_employees.jpg"} 
 <!--https://www.shatteringtheceiling.com/wp-content/uploads/2016/10/federal_employees.jpg--> 
 
 Reclassifies thousands (~50,000? 100,000?) competitive civil servants (merit-based) positions as "Exempt" --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time.
@@ -264,7 +264,7 @@ Directs the Office of Personnel Management to rescind its 2024 rule “Upholding
 # Other E.O.s
 
 
-## [Council to Assess the Federal Emergency Management Agency](https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/)	{background-opacity="0.2" background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/FEMA_-_34427_-_FEMA_community_relations_worker_helping_a_young_resident_in_New_Jersey.jpg"}
+## [Council to Assess the Federal Emergency Management Agency](https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/)	{background-opacity="0.15" background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/FEMA_-_34427_-_FEMA_community_relations_worker_helping_a_young_resident_in_New_Jersey.jpg"}
 
 Establishes a council to look for political bias in disaster responses, chaired by [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) and [Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem)
 
@@ -285,7 +285,7 @@ Establishes a council to look for political bias in disaster responses, chaired 
 # Further Developments 
 
 
-## [Endangerment finding](https://www.epa.gov/sites/default/files/2016-08/documents/endangerment_tsd.pdf) {background-opacity="0.2" background-image="https://ichef.bbci.co.uk/news/1536/cpsprodpb/EE21/production/_116516906_temp_rises_since_1850_gra640-nc.png"}
+## [Endangerment finding](https://www.epa.gov/sites/default/files/2016-08/documents/endangerment_tsd.pdf) {background-opacity="0.15" background-image="https://ichef.bbci.co.uk/news/1536/cpsprodpb/EE21/production/_116516906_temp_rises_since_1850_gra640-nc.png"}
 
 
 - By declaring that [greenhouse gases pose no threat to public health](https://www.nytimes.com/2025/07/29/climate/epa-endangerment-finding-repeal-proposal.html), the EPA asserts there is [no scientific (and thus, legal) basis for all existing policies regulating greenhouse gases](https://www.nytimes.com/2025/08/03/climate/trump-epa-endangerment-finding-climate-change.html)
@@ -305,6 +305,7 @@ Establishes a council to look for political bias in disaster responses, chaired 
 
 - [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
 -  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
+-  Oct 2025, President said if Democrats did not vote for his funding bill, he would “do things that are irreversible, that are bad for them.” The DOE then claimed to [cancel contracts for Hydrogen hubs, grid upgrades, and research in Democrat-led states](https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html) (legal argument unclear)
 
 
 ## New Policy from the Supreme Court  
@@ -331,7 +332,7 @@ relevant to the agency’s decisionmaking process"
 
 
 
-## [H.R. 3898 - the PERMIT act](https://www.congress.gov/bill/119th-congress/house-bill/3898) {background-opacity="0.2" background-image="https://fox11online.com/resources/media2/16x9/1920/986/center/90/d95c56b1-d7fa-4a0d-b191-f404ab72736a-MILWAUKEEFLOODINGVO.transfer_frame_533.jpeg"}
+## [H.R. 3898 - the PERMIT act](https://www.congress.gov/bill/119th-congress/house-bill/3898) {background-opacity="0.15" background-image="https://fox11online.com/resources/media2/16x9/1920/986/center/90/d95c56b1-d7fa-4a0d-b191-f404ab72736a-MILWAUKEEFLOODINGVO.transfer_frame_533.jpeg"}
 
 Allows building on most wetlands without a permit by limiting Clean Water Act protections, judicial review of permits, and state and local governments' ability to protect wetlands. <!--by redefining navigable waters to exclude (1) waste treatment systems, (2) ephemeral features that flow only in direct response to precipitation, (3) prior converted cropland, (4) groundwater, or (5) any other features determined to be excluded by the U.S. Army Corps of Engineers.--> 
 
