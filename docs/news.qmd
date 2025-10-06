@@ -63,10 +63,20 @@ execute:
 
 ## {background-image="https://climatesolutions-careers.org/wp-content/uploads/2024/03/3declines-1536x749.png" background-size="contain"}
 
+::: footer
+[ℹ️](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
+:::
+
+
 
 ## {background-image="https://i.redd.it/fnexljzv83bd1.jpeg" background-size="contain"}
 
 ## {background-image="https://i.redd.it/hw34ws6iu91e1.jpeg" background-size="contain"}
+
+::: footer
+[ℹ️](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
+:::
+
 
 ## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-08/china_ICE_BEV_20250919.png" background-size="contain"}
 
@@ -86,6 +96,10 @@ execute:
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain"}
 
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
 <!--
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.2-scaled.png" background-size="contain"}
@@ -96,13 +110,27 @@ execute:
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain"}
 
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain"}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain"}
 
-
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
 
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain"}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/attribution-across-america/)
+:::
 
 ## In sum
 
@@ -141,5 +169,6 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 
 ## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}
 
-
-
+::: footer
+[ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu)
+:::
