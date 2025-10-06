@@ -72,6 +72,10 @@ execute:
 
 ## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain"}
 
+## In sum, renewable energy costs are falling so fast that a [fast transition](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) scenario [saves $12 trillion](https://doi.org/10.1016/j.joule.2022.08.009) in energy costs alone relative to the status quo.
+
+> "There are no impediments to rolling out the hardware and building what we need to build. The impediments are political. We do have a powerful industry that is trying to keep it from happening because it threatens their existence." - [Doyne Farmer](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 
+
 
 
 
@@ -103,11 +107,9 @@ execute:
 ## In sum
 
 ::: {.column width="50%"}
+Most Republicans [support](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/): 
 
-
-Most Republicans [support](): 
-
-- schools teaching about global warming
+- Schools teaching about global warming
 - US participation in Paris Agreement
 - Funding research for wind and solar
 - Regulating CO2
@@ -115,7 +117,7 @@ Most Republicans [support]():
 - Using more renewables, less fossil fuels
 - Solar and wind on public lands
 
-Most Republicans [oppose](): 
+Most Republicans [oppose](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/): 
 
 - Blocking offshore wind farms
 - Ordering agencies to stop researching global warming 
@@ -125,7 +127,7 @@ Most Republicans [oppose]():
 
 ::: {.column width="50%"}
 
-Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, South Carolina, Georgia (and most other states) believe that climate change is **already causing**
+Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, South Carolina, Georgia (and most other states) believe that climate change is [already causing](https://climatecommunication.yale.edu/publications/attribution-across-america/)
 
 - Extreme heat
 - Wildfires
@@ -138,3 +140,6 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 :::
 
 ## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}
+
+
+
