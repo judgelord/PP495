@@ -22,14 +22,14 @@ execute:
 # Bad news
 
 
-## {background-image="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/F04E/production/_133281516_era_5_global_sea_temp_lines2024-05-05-nc.png" background-size="contain"}
+## {background-image="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/F04E/production/_133281516_era_5_global_sea_temp_lines2024-05-05-nc.png" background-size="contain" data-menu-title="Record-breaking temperatures"}
 
 <!--https://climate.copernicus.eu/surface-air-temperature-july-2025 --> 
 
-## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain"}
+## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain" data-menu-title="Mitigation curves"}
 
 
-## 
+##   {data-menu-title="1.5 Degrees"}
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_15c.html" width="770px" height="500px"></iframe>
 
@@ -38,7 +38,7 @@ execute:
 - Some ice in Arctic most years, 21-37% permafrost lost  <!--; sea level rise ~1m (3 feet)--> 
 
 
-##
+##  {data-menu-title="2 Degrees"}
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="770px" height="500px"></iframe>
 
@@ -47,11 +47,11 @@ execute:
 - Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
 
 
-## {background-image="figs/rhodium-2023.png" background-size="contain"}
+## {background-image="figs/rhodium-2023.png" background-size="contain" data-menu-title="Rhodium group projections"}
 
 # 📍 [+1.6°C (+2.7°F)](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)
 
-# Good News
+# Good News 
 
 # Good News  <br> (1) Technology change
 
@@ -59,30 +59,30 @@ execute:
 ## {background-image="https://elements.visualcapitalist.com/wp-content/uploads/2021/06/solar-energy-costs-wrights-law.png" background-size="contain"}
 -->
 
-## {background-image="https://cleantechnica.com/wp-content/uploads/2023/09/RMI-LCOE-chart-800x445.jpg" background-size="contain"}
+## {background-image="https://cleantechnica.com/wp-content/uploads/2023/09/RMI-LCOE-chart-800x445.jpg" background-size="contain" data-menu-title="Renewables are now cheaper"}
 
-## {background-image="https://climatesolutions-careers.org/wp-content/uploads/2024/03/3declines-1536x749.png" background-size="contain"}
-
-::: footer
-[ℹ️](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
-:::
-
-
-
-## {background-image="https://i.redd.it/fnexljzv83bd1.jpeg" background-size="contain"}
-
-## {background-image="https://i.redd.it/hw34ws6iu91e1.jpeg" background-size="contain"}
+## {background-image="https://climatesolutions-careers.org/wp-content/uploads/2024/03/3declines-1536x749.png" background-size="contain"  data-menu-title="RMI-cost decline"}
 
 ::: footer
 [ℹ️](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
 :::
 
 
-## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-08/china_ICE_BEV_20250919.png" background-size="contain"}
 
-## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain"}
+## {background-image="https://i.redd.it/fnexljzv83bd1.jpeg" background-size="contain" data-menu-title="Storage growth"}
 
-## In sum, renewable energy costs are falling so fast that a [fast transition](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) scenario [saves $12 trillion](https://doi.org/10.1016/j.joule.2022.08.009) in energy costs alone relative to the status quo.
+## {background-image="https://i.redd.it/hw34ws6iu91e1.jpeg" background-size="contain" data-menu-title="RMI-exp growth"}
+
+::: footer
+[ℹ️](https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/rmi_renewable_revolution.pdf)
+:::
+
+
+## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-08/china_ICE_BEV_20250919.png" background-size="contain" data-menu-title="EVs in China"}
+
+## {background-image="https://leraffl.github.io/LeRaffl-Gallery/images/2025-05/singapore_ICE_BEV_20250601.png" background-size="contain" data-menu-title="EVs in Singapore"}
+
+## In sum, renewable energy costs are falling so fast that a [fast transition](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) scenario [saves $12 trillion](https://doi.org/10.1016/j.joule.2022.08.009) in energy costs alone relative to the status quo. {data-menu-title="In sum, renewable energy saves $12 trillion"}
 
 > "There are no impediments to rolling out the hardware and building what we need to build. The impediments are political. We do have a powerful industry that is trying to keep it from happening because it threatens their existence." - [Doyne Farmer](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 
 
@@ -92,9 +92,9 @@ execute:
 # Good News  <br> (2) Political change
 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain" data-menu-title="YPCCC: Voters want more on climate"}
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="in schools"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
@@ -108,31 +108,31 @@ execute:
 --> 
 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain" data-menu-title="more enforcement"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="more policy"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain" data-menu-title="YPCCC: Most think global warming is affecting..."}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/attribution-across-america/)
 :::
 
-## In sum
+## In sum {data-menu-title="In sum, most Republicans..."}
 
 ::: {.column width="50%"}
 Most Republicans [support](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/): 
@@ -167,7 +167,7 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 (only in WV and ND do majorities **not** think climate change is already having an impact)
 :::
 
-## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain"}
+## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain" data-menu-title="Economist: Here comes the sun"}
 
 ::: footer
 [ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu)
