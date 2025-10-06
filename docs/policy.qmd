@@ -301,14 +301,14 @@ Establishes a council to look for political bias in disaster responses, chaired 
 - [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
 
 
-## Spending freezes and clawbacks
+## Spending freezes and clawbacks {background-opacity="0.2" background-image="https://static.vecteezy.com/system/resources/thumbnails/040/707/108/small_2x/ai-generated-abstract-ice-background-blue-background-with-cracks-on-the-ice-surface-idea-generative-ai-photo.jpg"}
 
 - [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
 -  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
 -  Oct 2025, President said if Democrats did not vote for his funding bill, he would “do things that are irreversible, that are bad for them.” The DOE then claimed to [cancel contracts for Hydrogen hubs, grid upgrades, and research in Democrat-led states](https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html) (legal argument unclear)
 
 
-## New Policy from the Supreme Court  
+## New Policy from the Supreme Court  {background-opacity="0.2" background-image="https://www.motherjones.com/wp-content/uploads/2025/10/20251003_scotus-dual-state_2000b.jpg"}
 
 - *Seven County Infrastructure Coalition v. Eagle County* - (1) more deference in NEPA + (2) NEPA review need not (can't?) consider upstream or downstream effects (e.g., climate change and environmental justice)
 
