@@ -14,9 +14,7 @@ execute:
   engine: knitr
 ---
 
-# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.15" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
-
-## TL;DR 2025 E.O.s
+## TL;DR 
 
 - Big governmental support for oil, gas, and mining, including:
     - using the military to aid transport and refining
@@ -28,6 +26,10 @@ execute:
 - Expand oil, gas, and mining on public lands
 - Rescind requirements to disclose climate risks
 - End international cooperation on climate change
+
+# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.15" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
+
+
 
 ## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/) {background-opacity="0.3" background-image="https://www.gannett-cdn.com/-mm-/7943967a784f994f95931170ff2923f74c7e0899/c=0-139-2000-1269&r=x1683&c=3200x1680/local/-/media/2016/08/01/USATODAY/USATODAY/636056598017637651-AP-California-Wildfires.14.jpg"}
 
@@ -113,7 +115,7 @@ Sec. 9. Help companies do more mining on public lands.
 ## Big Beautiful Bill repeals much of IRA 
 
 - [Rescinds $60 million in unspent funds at NOAA for atmospheric, climate, and weather research](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
-- Republicans Senators successfully pushed for slightly slower tax credit phaseouts to limit the disruption to industry
+- Republican Senators successfully pushed for slightly slower tax credit phase-outs to limit the disruption to industry
     -  But an [E.O.](https://www.nytimes.com/2025/07/10/climate/trump-renewable-energy-solar.html) instructed the Treasury Department to limit the ability of wind and solar projects to qualify for the fast-disappearing tax credits (legality debated)
 - Limits tax credits for projects that source materials or rely on investments from certain countries
 -  repeals the Greenhouse Gas Reduction Fund and rescinds all "unobligated" funds.
@@ -123,12 +125,12 @@ Sec. 9. Help companies do more mining on public lands.
 
 ## Big Beautiful Bill upends Farm Bill
 
-Historically, 5-year farm bills are bipartisan legislation with ag and other subsidies for producers in rural areas + SNAP benefits that benefit producers and consumers in rural and urban communities. 
+Historically, 5-year farm bills are bipartisan legislation with subsidies for farmers (rural) + food assistance programs that boost demand and reduce malnutrition (rural + urban) 
 
-- Cuts $186 billion cut to food assistance (SNAP) from 22.3 million families - [2.4 million families projected to loose food assistance entirely](https://www.cnbc.com/2025/09/01/snap-benefit-cuts-americans-food-grocery-shopping.html)
-   - added work requirements for individuals ages 55 through 64, parents children ages 14 and up and veterans.
-- +$65 billion in ag subsidies (mostly crop insurance)
-- expanded eligibility to include more kinds of and larger corporations, likely acceleration farmland consolidation (fewer family farms)
+- Cuts $186 billion in food assistance (SNAP) from 22.3 million families - [2.4 million families projected to lose food assistance entirely](https://www.cnbc.com/2025/09/01/snap-benefit-cuts-americans-food-grocery-shopping.html)
+   - added work requirements for individuals ages 55 through 64, parents of children ages 14 and up, and veterans.
+- +$65 billion in subsidies (mostly crop insurance)
+- expanded eligibility to include larger non-farm corporations, likely accelerating farmland consolidation (fewer family farms)
 - did not cut most conservation programs, rescinds unobligated forestry and conservation funds from the IRA for grants to non-federal forest landowners and $101 million from Urban and Community Forestry Assistance grants. 
 
 Other traditional parts of the Farm Bills were left out. Without further legislation, there will be large cuts to
@@ -191,7 +193,7 @@ Government agencies should:
 - Department of the Interior to put [all wind and solar projects through “elevated review”](https://grist.org/energy/trumps-interior-department-is-turning-environmentalists-legal-playbook-against-them/) from the Secretary's office, and may assert that the purpose of windmills is to [kill protected birds](https://heatmap.news/plus/the-fight/spotlight/migratory-bird-act-trump?utm_source=substack&utm_medium=email#), making them illegal
 - DOI [cancels the lease for Lava Ridge Wind Project signed with BLM in 2024](https://www.doi.gov/pressreleases/interior-department-moves-cancel-reckless-biden-era-approval-lava-ridge-wind-project)
 - Bureau of Ocean Energy Management [orders developers to halt work on an 80%-finished wind farm](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy), costing shareholders $2.4 billion
-- Another company ordered to halt construction estimates regulatory delay costs at $1 billion (its lease was signed in 2017, with the first Trump administration). [1,500 jobs were threatened.](https://www.equinor.com/news/20250417-suspends-offshore-construction-activities-empire-wind)
+- Another company ordered to halt construction estimated regulatory delays cost $1 billion (its lease was signed in 2017, with the first Trump administration). [1,500 jobs were threatened.](https://www.equinor.com/news/20250417-suspends-offshore-construction-activities-empire-wind)
 -  Internal Revenue Service guidance [bars companies building wind and solar projects from federal tax incentives](https://www.nytimes.com/2025/08/15/climate/irs-wind-solar-tax-credits.html)
 -  Commerce Department considering [banning imports of wind turbines](https://public-inspection.federalregister.gov/2025-16191.pdf?utm_campaign=pi+subscription+mailing+list&utm_medium=email&utm_source=federalregister.gov)
 - Bureau of Ocean Energy Management [rescinded all designated Wind Energy Areas along the continental shelf](https://www.boem.gov/newsroom/notes-stakeholders/boem-rescinds-designated-wind-energy-areas-outer-continental-shelf)
@@ -226,7 +228,7 @@ More completely stop water from the  Sacramento and San Joaquin rivers from flow
 
 ## [Rescissions of "Harmful E.O.s" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)  {background-opacity="0.15" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
 
-Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like re-opening schools and offices after the pandemic] 
+Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like reopening schools and offices after the pandemic] 
 
 **Highlights:** Federal agencies should: 
  
@@ -320,6 +322,9 @@ railroad) was reasonably explained."
 foreseeable, but that does not mean that those effects are
 relevant to the agency’s decisionmaking process"
 
+
+
+
 # Policies Under Consideration 
 
 
@@ -346,7 +351,7 @@ Allows building on most wetlands without a permit by limiting Clean Water Act pr
 Court's options for recourse.
 Increases procedural barriers to establishing water quality criteria and increases opportunities for litigation.
 
-## National Defense Authorization Act for 2026.
+## 2026 National Defense Authorization
 
 - "Climate resilient" changed to "resilient"
 - Little indication that DOD is backing away from transition to electric vehicles and climate adaptation plans
@@ -357,8 +362,8 @@ Increases procedural barriers to establishing water quality criteria and increas
 
 <!--https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61X4RoMGBtL._SY522_.jpg&f=1&nofb=1&ipt=5bed1e068b0dd6e9098f84809cebeb5168d73c1016ecc1effe0130b9059871c4&ipo=images--> 
 
-- "2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further." [NYT](https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
-- https://eelp.law.harvard.edu/tracker-type/regulatory-tracker/
+- "2024 Brought the World to a Dangerous Warming Threshold. Now What? Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further." - [NYT](https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html)
+- <https://eelp.law.harvard.edu/tracker-type/regulatory-tracker/>
 
 
 <!--
