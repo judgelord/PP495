@@ -172,3 +172,29 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 ::: footer
 [ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) <!--https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge?trk=public_post_comment-text--> 
 :::
+
+## {background-image="https://pup-assets.imgix.net/onix/images/9780691245249.jpg" background-size="contain"  data-menu-title="Existential Politics"}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+### New Research:  
+
+The political economy of climate policy
+
+
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="25%"}
+ Aklin and Mildenberger. 2020. [“Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
+ 
+ Colgan,  Green, and Hale. 2020. [“Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*](https://doi.org/10.1017/S0020818320000296)
+:::
+
+::::
