@@ -91,10 +91,17 @@ execute:
 
 # Good News  <br> (2) Political change
 
-
+<!--
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain" data-menu-title="YPCCC: Voters want more on climate"}
+---> 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="in schools"}
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="YPCCC: Voters want more climate policy"}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="more in schools"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
@@ -108,19 +115,17 @@ execute:
 --> 
 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts"}
-
-::: footer
-[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
-:::
-
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain" data-menu-title="more enforcement"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="more policy"}
+
+
+
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
@@ -172,6 +177,11 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 ::: footer
 [ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) <!--https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge?trk=public_post_comment-text--> 
 :::
+
+
+# 📍 [Renewables +109% of new demand](https://e360.yale.edu/digest/iea-renewable-energy-2025)
+
+Renewables to double by 2030
 
 ## {background-image="https://pup-assets.imgix.net/onix/images/9780691245249.jpg" background-size="contain"  data-menu-title="Existential Politics"}
 
