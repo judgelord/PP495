@@ -1,0 +1,52 @@
+---
+title: "Possible Changes to U.S.  Climate-Relevant Policy"
+subtitle: ""
+title-slide-attributes:
+    data-background-image: "https://www.whoi.edu/wp-content/uploads/2022/02/WHOI-Ward-Cover2.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: false   
+   smaller: false
+   scrollable: true
+   theme: [michigan.scss, oil.scss]
+css: styles.css
+---
+
+# 2025
+
+## OFFICE OF SCIENCE AND TECHNOLOGY POLICY (OSTP)
+
+
+The President should reshape the U.S. Global Change Research Program (USGCRP) and related climate change research programs. The USGCRP produces strategic plans and research (for example, the National Climate Assessment) that reduce the scope of legally proper options in presidential decision-making and in agency rulemakings and adjudications. Also, since much environmental policymaking must run the gauntlet of judicial review, USGCRP actions can frustrate successful litigation defense. 
+
+- The process for producing assessments should include [diverse viewpoints](). 
+- The OSTP and OMB should jointly [assess the independence of the contractors]() used to conduct much of this outsourced government research that serves as the basis for policymaking. 
+- [refuse to accept any USGCRP assessment prepared under the Biden Administration]().
+
+The President should restore EOP research components to their purely informational and advisory roles, including the OSTP; the NSTC’s Committee on Environment; the USGCRP’s Interagency Groups (for example, the Carbon Cycle Interagency Working Group); and the Federal Coordinating Council for Science, Engineering, and Technology.
+
+- [separate the scientific risk assessment function from the risk management function]()
+- climate fanaticism...should be reversed and [scrubbed from all policy manuals, guidance documents, and agendas]() ⏳
+
+## COUNCIL ON ENVIRONMENTAL QUALITY (CEQ)
+
+[instruct the CEQ to rewrite its regulations implementing NEPA]() along the lines of the 2020 effort, such as banning the cumulative impact analysis.  ❌
+
+- incorporate more aggressive reform options that were not included in the 2020 reform package with the overall goal of streamlining the process  ❌
+- It should frame the new regulations to [limit the scope for judicial review]() of agency NEPA analysis and judicial remedies   ✅   
+
+[Make The Federal Permitting Improvement Steering Council (FPISC) Executive Director an EOP appointee with delegated presidential directive authority]() over executive branch permitting agencies. 
+
+- a new executive order to create a unified process for major infrastructure projects that includes giving [project proponents more control of any regulatory clocks]().
+
+The President should issue an executive order [establishing a Senior Advisor]() to coordinate the policy development and implementation of relevant energy and environment policy by officials across the EOP (for example, the policy staff of the NSC, NEC, DPC, CEQ, and OSTP)
+
+- [abolish the Office of Domestic Climate Policy]()
+- [eliminate the Interagency Working Group on the Social Cost of Carbon (SCC)]() and by
+executive order should [end the use of SCC analysis](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/ "done") ✅
+
+Finally, the President should work with Congress to establish a sweeping modernization of the entire permitting system across all departments and agencies that is aimed at [reducing litigation risk]() and giving agencies the authority to [establish programmatic, general, and provisional permits]().
+
+

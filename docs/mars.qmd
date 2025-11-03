@@ -1,32 +1,18 @@
 ---
 title: "Colonizing Mars"
 subtitle: "How do different environmental worldviews travel to space?"
-title-block-banner: "#001B35" # banner.png
-title-block-banner-color: body-bg
 title-slide-attributes:
-    data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-image: "https://eoimages.gsfc.nasa.gov/images/imagerecords/82000/82693/earthrise_vis_1092.jpg"
     data-background-size: cover
     data-background-opacity: "0.5"
 format:
  revealjs:
    incremental: true   
-   background-opacity: 0.2
-   #background-image: "earthrise_vis_1092_lrg.png"
-   #background-opacity: "0.2"
-   data-background-image: "earthrise_vis_1092_lrg.png"
-   data-background-size: cover
-   data-background-opacity: "0.2"
-   background-image-size: "cover"
-   smaller: true
    scrollable: true
-   theme: michigan.scss
-css: styles.css
-execute:
-  echo: false
-  engine: knitr
+   theme: [michigan.scss, earthrise.scss]
 ---
 
-# The Provedencial Worldview {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
+# The Provedencial Worldview 
 
 > “[T]he moon and other celestial bodies... shall be the province of all mankind.” <br>
 — Article 1, 1967 Outer Space Treaty
@@ -51,12 +37,12 @@ It is to explore the vastness.
 Of heaven.
 
 
-# The Romantic Worldview  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}  
+# The Romantic Worldview   
 
 ## {background-opacity="1" background-image="https://s.yimg.com/ny/api/res/1.2/u5PcHZP0i1G2cpbplLC4Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ5MjtjZj13ZWJw/https://o.aolcdn.com/hss/storage/midas/4d0f44e6a83d4d2a217244a020be649a/202001264/mars-travel-lede.jpg"}
 
 
-# The Utilitarian Worldview  {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"}  
+# The Utilitarian Worldview   
 
 > “[E]xploration and use of outer space, including the moon and other celestial bodies, shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development, and shall be the province of all mankind.”
 — Article 1, 1967 Outer Space Treaty
@@ -67,7 +53,7 @@ Of heaven.
 
 (What is Mars useful for?)
 
-# The Ecological Worldview {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
+# The Ecological Worldview 
 
 
 ## {background-opacity="1" background-size="cover" background-image="https://upload.wikimedia.org/wikipedia/en/7/76/Mars_trilogy.jpg"}
@@ -75,7 +61,7 @@ Of heaven.
 
 ## {background-opacity="1" background-size="cover" background-image="https://miro.medium.com/v2/resize:fit:629/1*xvy41q5xRrMRN_nc8z7gFA.png"}
 
-# What kind of Democraratic Exo-anthropocene? {background-opacity="0.2" background-image="earthrise_vis_1092_lrg.png"} 
+# What kind of Democraratic Exo-anthropocene? 
 
 ##
 

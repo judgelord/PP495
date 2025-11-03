@@ -177,9 +177,12 @@ You will not receive participation points for classes where you are on a screen 
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/). I expect the same. 
 
-Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are [excellent at helping us conform to grammar conventions^[I recommend <https://app.grammarly.com/>] but incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason. Language is always in flux, but I see "reasoning" and "intelligence" are misnomers when applied to LLMs. 
+Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are [excellent at helping us conform to grammar conventions^[I recommend <https://app.grammarly.com/>] but incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the work you produce to be yours and for you to stand by it as an intellectual project. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and [do not reason](https://www.anildash.com//2023/06/08/ai-is-unreasonable/).
+Language is always in flux, but I see "reasoning" and "intelligence" are misnomers when applied to LLMs. 
 
 Beyond grammar conventions, I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich white men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
+
+I basically agree with your colleague, [Siena Beres](https://www.michigandaily.com/statement/ai-ate-my-homework-my-experience-with-the-universitys-ai-toolkit/), that the university pushing you all to use chat bots is very likely not all it is hyped up to be. Some shortcuts are helpful. Some cause you to miss out on the important parts of the journey.
 
 Good policy and political strategy rest on good evidence. LLMs can fabricate evidence. Even when the sources are real, unless it is an exact quote, LLMs cannot guarantee a reasonable link between a claim and a source (LLMs don't reason), only a statistically probable word order. Extruded text is often sensible, but there is no guarantee. Be careful. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.-->  
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will check to make sure sources of evidence are used appropriately. 
@@ -1071,7 +1074,7 @@ Further Reading:
 
 > [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
 
->  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
+
 
 
 
@@ -1091,6 +1094,9 @@ Further Reading:
 
 ::: {.callout-note collapse="true" title="Further reading"}
 Further reading: 
+
+
+-  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 2020)](https://scholars.org/podcast/fight-climate-justice) (31 min) 🎧
 
 - [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
 
@@ -1437,9 +1443,12 @@ Criticism of the critics:
 
 ::: {.callout-note collapse="true" title="Further reading"}
 
+
 - [House of Cards: Florida and Property Insurance in the Age of Climate Change - America Adapts the Climate Change Podcast]( https://podcasts.apple.com/us/podcast/america-adapts-the-climate-change-podcast/id1133023095?i=1000663737970) 🎧
 
 - [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund on the need for central planning to cope with the climate crisis (F.T. article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
+
+- [New York Is Going to Flood. Here’s What the City Can Do to Survive.](https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html)
 
 - [After the Fire, Should Some Parts of Los Angeles Never Rebuild?](https://www.bloomberg.com/news/articles/2025-01-21/la-fires-what-is-managed-retreat-and-does-it-apply-to-los-angeles?srnd=phx-green)
 
