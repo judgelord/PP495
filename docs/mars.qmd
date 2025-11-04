@@ -7,7 +7,7 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
  revealjs:
-   incremental: true   
+   incremental: false   
    scrollable: true
    theme: [michigan.scss, earthrise.scss]
 ---
@@ -39,7 +39,7 @@ Of heaven.
 
 # The Romantic Worldview   
 
-## {background-opacity="1" background-image="https://s.yimg.com/ny/api/res/1.2/u5PcHZP0i1G2cpbplLC4Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ5MjtjZj13ZWJw/https://o.aolcdn.com/hss/storage/midas/4d0f44e6a83d4d2a217244a020be649a/202001264/mars-travel-lede.jpg"}
+## {background-opacity="1" background-size="contain" background-image="https://s.yimg.com/ny/api/res/1.2/u5PcHZP0i1G2cpbplLC4Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ5MjtjZj13ZWJw/https://o.aolcdn.com/hss/storage/midas/4d0f44e6a83d4d2a217244a020be649a/202001264/mars-travel-lede.jpg"}
 
 
 # The Utilitarian Worldview   
@@ -56,7 +56,7 @@ Of heaven.
 # The Ecological Worldview 
 
 
-## {background-opacity="1" background-size="cover" background-image="https://upload.wikimedia.org/wikipedia/en/7/76/Mars_trilogy.jpg"}
+## {background-opacity="1"  background-size="contain" background-image="https://upload.wikimedia.org/wikipedia/en/7/76/Mars_trilogy.jpg"}
 
 
 ## {background-opacity="1" background-size="cover" background-image="https://miro.medium.com/v2/resize:fit:629/1*xvy41q5xRrMRN_nc8z7gFA.png"}
