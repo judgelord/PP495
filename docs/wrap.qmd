@@ -155,7 +155,7 @@ The State of Ann Arbor Climate Policy:
 
 - Optional Background:  [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
 
-Public Opinion:
+## Week 5: Politics:  Public Opinion
 
 - How has public opinion on climate change shifted since 2017? 
 - What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
@@ -173,6 +173,87 @@ Public Opinion:
   Skim: [Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223) via [the library](https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845)
 
   Skim: [Climate change belief systems across political groups in the United States by Sanguk Lee, Matthew H. Goldberg, Seth A. Rosenthal, Edward W. Maibach, John E. Kotcher, and Anthony Leiserowitz. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0300048)
+
+
+
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="more in schools" background-opacity=1}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="YPCCC: Voters want more climate policy" background-opacity=1}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
+
+<!--
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.2-scaled.png" background-size="contain"}
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-1.1-scaled.png" background-size="contain"}
+--> 
+
+
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain" data-menu-title="more enforcement" background-opacity=1}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
+
+
+
+
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts" background-opacity=1}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
+:::
+
+## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/08/fig1_maps_final-3.png" background-size="contain" data-menu-title="YPCCC: Most think global warming is affecting..." background-opacity=1}
+
+::: footer
+[ℹ️](https://climatecommunication.yale.edu/publications/attribution-across-america/)
+:::
+
+## In sum {data-menu-title="In sum, most Republicans..."}
+
+::: {.column width="50%"}
+Most Republicans [support](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/): 
+
+- Schools teaching about global warming
+- US participation in Paris Agreement
+- Funding research for wind and solar
+- Regulating CO2
+- Tax credits for electrification 
+- Using more renewables, less fossil fuels
+- Solar and wind on public lands
+
+Most Republicans [oppose](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/): 
+
+- Blocking offshore wind farms
+- Ordering agencies to stop researching global warming 
+- Ordering agencies to stop providing info on global warming to the public 
+- Eliminating FEMA
+:::
+
+::: {.column width="50%"}
+
+Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, South Carolina, Georgia (and most other states) believe that climate change is [already causing](https://climatecommunication.yale.edu/publications/attribution-across-america/)
+
+- Extreme heat
+- Wildfires
+- Flooding
+- Hurricanes 
+- Drought AND 
+- Rising sea levels
+
+(only in WV and ND do majorities **not** think climate change is already having an impact)
+:::
+
 
 
 ## Week 6: Utilitarianism and Technology
@@ -412,6 +493,13 @@ The backlash against ESG is continuing, with a string of lawsuits aimed at shutt
 
 
    [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
+   
+## {background-image="https://loquatinc.io/wp-content/uploads/2024/07/kthhmssen6ybhpbnl_v4s2cgf4ry-loquat_li-12-07-24-min.jpg" background-size="contain" data-menu-title="Economist: Here comes the sun" background-opacity=1}
+
+::: footer
+[ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) <!--https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge?trk=public_post_comment-text--> 
+:::
+
 
 
 ## The End (Beginning?)
