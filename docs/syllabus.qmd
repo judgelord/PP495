@@ -1331,6 +1331,11 @@ Further reading:
 > To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
 --> 
 
+::: {.callout-note collapse="true" title="Further reading"}
+
+https://grist.org/article/discount-rates-a-boring-thing-you-should-know-about-with-otters/
+:::
+
 ### Tuesday: Efficiency & Regulation Today
 
 
