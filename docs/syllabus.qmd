@@ -541,7 +541,9 @@ There are many "further" readings, and some required readings (especially the lo
 
 >  To Discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/) `(Canvas->Perusall)`
 
-
+::: {.callout-note collapse="true" title="Further reading"}
+- [COMIC: How young people are taking action against climate change](https://www.npr.org/2022/04/22/1092847883/how-young-people-are-taking-action-against-climate-change)
+:::
 
 ## Week 2: Policy 
 

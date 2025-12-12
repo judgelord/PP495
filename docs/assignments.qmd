@@ -20,10 +20,10 @@ The main assignments for this class all build to one highly-polished op-ed criti
 
 These assignments are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
-Critiquing those we severely disagree with is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
+Critiquing those we severely disagree with is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not required that the organizations you address be activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
 The most difficult part of this assignment is finding your own authoritative voice. Op-eds are often written by people with special experience or credentials to speak on a topic. 
-What experience do you have as a college student that allows you to speak authentically and authoritatively. 
+What experience do you have as a college student that allows you to speak authentically and authoritatively? 
 This can be challenging.
 In the past, students in this class have found their voice as: 
 
@@ -33,7 +33,9 @@ In the past, students in this class have found their voice as:
 
 This is far from a complete list. 
 
-Because finding firm ground from which to speak authoritatively is a challenge, for every 100 words of writing, you should include one **original evidence** that adds credibility to your claims. 
+<mark> The critical element is *your personal journey*---details about your life experiences that lead you to have the opinions and critiques you do and help the readers see the world through your eyes, and, hopefully, come to share your perspective. </mark>
+
+Because finding firm ground from which to speak authoritatively is a challenge, for every 200 words of writing, you should include one **original evidence** that adds credibility to your claims. 
 These must take the form of an image or video (<1 minute). 
 Some ideas: 
 
@@ -41,6 +43,8 @@ Some ideas:
 - An infographic-style chart or graph with original analysis of data
 - A clip from an archived video or an archival document that has not previously been used to support the point you are making (if a video clip, picture, or document has already been used to make the same point you are making, you are not adding to the conversation and thus not helping yourself speak with distinct authority)
 - Art that moves the reader to see from the perspective you are trying to advance
+- A survey of fellow students or community members
+- A composite image that shows a comparison or contradiction
 
 ### Find your voice
 
@@ -69,45 +73,45 @@ Use footnotes for annotated bibliographies to make it easier for your peer revie
 
 In the middle third of the semester, you will narrow your focus to three ideas and then two ideas and write the first half of each through multiple rounds of revision. 
 
-I expect the annotated bibliographies to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+I expect the annotated bibliographies to grow significantly as you address critiques, bolster your argument, and respond to potential counterarguments. 
 
 As above, include a word count between the title and the essay.
 
 #### Responding to comments 
 
-Each time you submit your revised essays, you must include a Google sheet detailing your thoughtful responses to all of the comments you have received thus far. This spreadsheet must have a row for each suggestion and columns with the exact text of the suggestion, who made it, what you think about it, and the change (if any) made to the essay. This is your opportunity to show your work in doing the revision. 
+Each time you submit your revised essays, you must include a Google sheet detailing your thoughtful responses to all of the comments you have received thus far. This spreadsheet must have a row for each suggestion, with columns for the exact text of the suggestion, who made it, what you think about it, and any change (if any) made to the essay. This is your opportunity to show your work as you revise. 
 - Three revised headlines and the first 400 words for each + four bits of original visual evidence for each + annotated bibliographies + a link to a Google sheet with one row for each bit of feedback you received and how you are addressing it
 - Two revised first 400 words + annotated bibliographies + the link to your revision tracking Google sheet
 
-To be clear, you do not need to include all of my exact comments in the spreadsheet (though you are welcome to do so if you are comfortable sharing them); paraphrasing is fine. The key is to communicate the gist of each bit of feedback so that your peer reviewer can help you make sure it is "thoughtfully addressed" in the next draft. 
+To be clear, you do not need to include all of my exact comments in the spreadsheet (though you are welcome to do so if you are comfortable sharing them); paraphrasing is fine. The key is to communicate the gist of each piece of feedback so your peer reviewer can help you ensure it is "thoughtfully addressed" in the next draft. 
 
 For example: 
 
-- if I had a bunch of spelling and grammar notes, you don't need a line for each one. Just saying "Grammar" | "All fixed" on one line is fine. (But please use a grammar checker.)
-- if I told you that something was factually incorrect, you don't need to include my exact words; just something like "Revise description of X" is fine.
+- If I had a bunch of spelling and grammar notes, I don't need a line for each one. Just saying "Grammar" | "All fixed" on one line is fine. (But please use a grammar checker.)
+- If I told you that something was factually incorrect, you don't need to include my exact words; just something like "Revise description of X" is fine.
 
-This spreadsheet will grow longer as you receive more suggestions from myself and your peers. 
+This spreadsheet will grow longer as you receive more suggestions from your peers and me. 
 
-You must share this spreadsheet with me each time you resubmit your revised essay(s). <mark>Put a link to your google sheet at the top of your essay.</mark> I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like a rubric to assess your thoughtful engagement with my feedback and your peer reviews.
+You must share this spreadsheet with me each time you resubmit your revised essay(s). <mark>Put a link to your Google sheet at the top of your essay.</mark> I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like a rubric to assess your thoughtful engagement with my feedback and your peer reviews.
 
 It is up to you whether you want to share this spreadsheet with your peer reviewers. 
 
 ### Hone your critique 
 
-Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (writing can always be improved). 
+Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (We can always improve our writing). 
 
-Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+Again, I expect your annotated bibliography to grow significantly as you address critiques, bolster your argument, and respond to potential counterarguments. 
 
 - One 750-800-word op-ed + eight bits of original visual evidence + annotated bibliography + the link to your revision tracking Google sheet
 - Final op-ed + annotated bibliography + the link to your revision tracking Google sheet
 
 # Assessment 
 
-Assessment is based on your <mark> thoughtful engagement with the ideas</mark>  in the reading and with my feedback on your writing. 
+Assessment is based on your <mark> thoughtful engagement with the ideas</mark> in the reading and with my feedback on your writing. 
 
 Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. 
 
-Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. <mark> I am mostly grading on how you respond to feedback.</mark>  This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. <!--If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.--> 
+Instead, consider the feedback I give you and your peer reviews to be the "rubric" for the next version. <mark> I am mostly grading on how you respond to feedback.</mark>  This does not mean that you must adopt every suggested change---just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. <!--If you would like, you can include revision comments on the document in Canvas, addressing any points where you feel context is needed for me to understand how you incorporated feedback.--> 
 
 
 
@@ -151,7 +155,7 @@ Sources, context, & evidence:
 - You've supported your argument with enough evidence. This material is also well chosen and clearly explained, enough for readers to understand 
 - The op-ed contains all necessary background information, but not more than necessary
 - Any quotations are well chosen (relevant & meaningful)
-- Any personal examples and observations are not too long and very relevant to your larger thesis/message
+- Any personal examples and observations are very relevant to your larger thesis/message
 
 Analysis:
 
@@ -220,9 +224,9 @@ Overall, good work on the revision.
 
 Here are a few things to keep working on: 
 - justification for "should" statements (a campaign promise is good, but can we go deeper, perhaps to arguments rooted in history or moral philosophy that people have not encountered before? Or perhaps put what you are calling attention to in the context of things that people think matter ---i.e., if you think x matters, then you must believe that y matters even more.)
-- relatedly, responses to critics
+- Relatedly, responses to critics
 - specificity (the BLM gigawatt goal is good; what else? "awareness" is still vague. ). Research will help.
-- lead with the conflict rather than background facts. Foreground your most controversial opinion
+- Lead with the conflict rather than background facts. Foreground your most controversial opinion
 ---> 
 
 
@@ -230,17 +234,17 @@ Here are a few things to keep working on:
 
 While the main focus of this class is persuasive writing, there is a small related assignment to give a short (2-3-minute) presentation. 
 
-The presentation assignment gives you practice testing out your argument and presentation skills. This is an opportunity to get quick feedback from the class. I also find that I am able to arrive at more elegant ways to say things when I say them out loud. It engages different parts of the brain and is a great way to workshop ideas.
+The presentation assignment gives you practice testing out your argument and presentation skills. This is an opportunity to get quick feedback from the class. I also find that I can arrive at more elegant ways to say things when I say them out loud. It engages different parts of the brain and is a great way to workshop ideas.
 
 This is intended to be a **low-stakes practice** oral presentation. It is ungraded: I award points just for doing it. 
 
 It is also intended as an opportunity to get constructive feedback on your line of critique and how you are pitching it. 
 
-I hope you will find it valuable enough that you will want to do it again, but you are only required to do it once. 
+I hope you find it valuable enough to want to do it again, but you are only required to do it once. 
 
-We will do up to 2 pitches per day. While you are welcome to do more than one, the first priority goes to those practicing for the first time. 
+We will do up to 2 pitches per day. While you are welcome to do more than one, the priority goes to those practicing for the first time. 
 
-I've noticed a tendency for some presenters to offer a lot of preface and explanation before going into the heart of their pitch. I think you are better off without it. 
+I've noticed a tendency among some presenters to offer a lot of preamble and explanation before getting to the heart of their pitch. I think you are better off without it. 
 
 You want feedback on the pitch itself, including on how compelling the hook is (i.e., how you are getting people's attention and why people should care) and the clarity of your BLUF (Bottom Line Up Front, i.e., the clarity of your thesis statement/argument).  
 
@@ -251,11 +255,11 @@ Thus, when you get up to present, I would just launch right in and grab people's
 
 My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
-This means <mark> at least a page of written feedback</mark>  (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), <mark> as well as some notes or markup of their writing.</mark>  Writing can always be improved. 
+This means <mark> at least a page of written feedback</mark>  (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), <mark> as well as some notes or markup of their writing.</mark>  We can alwasy improve our writing. 
 
 ### How to submit your review
 
-You can use the <mark> markup features on Canvas</mark>  as you read. </mark> Your written critique should then be uploaded for the peer critique assignment **and** sent to your colleague.</mark>  (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) <mark> Make sure to submit it in both places.</mark>  The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
+You can use the <mark>markup features on Canvas</mark> as you read. </mark> You should then upload your written critique for the peer critique assignment **and** sent to your colleague.</mark>  (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) <mark> Make sure to submit it in both places.</mark>  The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
 
 Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
 
@@ -270,7 +274,7 @@ From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.h
 - Offer suggestions, not commands.
 - Editorial comments should be appropriate and constructive. There is no need to be rude. Be respectful and considerate of the writer's feelings.
 - Be sure that your comments are clear and text-specific so that your peer will know what you are referring to (for example, terms such as "unclear" or "vague" are too general to be helpful).
-- As a reader, raise questions that cross your mind, points that may have not occurred to your peer author.
+- As a reader, raise questions that cross your mind, points that may not have occurred to your peer author.
 - Try not to overwhelm your peer with too much commentary. Follow the feedback form and the issues you are supposed to address.
 - Be careful not to let your own opinions bias your review (for example, don't suggest that your peer completely rewrite the paper just because you don't agree with his/her point of view).
 - Reread your comments before passing them on to your peer. Make sure all your comments make sense and are easy to follow.

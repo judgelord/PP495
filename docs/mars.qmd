@@ -12,6 +12,8 @@ format:
    theme: [michigan.scss, earthrise.scss]
 ---
 
+
+
 # The Provedencial Worldview 
 
 > “[T]he moon and other celestial bodies... shall be the province of all mankind.” <br>
