@@ -1,0 +1,30 @@
+---
+title: "Charleston"
+subtitle: "Race, Water, and the Coming Storm"
+author: "Susan Crawford"
+title-slide-attributes:
+ #   data-background-image: "earthrise_vis_1092_lrg.png"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: true   
+   background-opacity: 0.2
+   theme: [michigan.scss, charleston.scss]
+css: styles.css
+---
+
+
+![](https://i.pinimg.com/600x315/29/86/c4/2986c42c9807f3ff50d4292023102e1a.jpg)
+
+
+## What is different 
+
+- 5 billion tones of concrete *per year*
+- 1 billions humans live on coasts, 200 million must move in your lifetime, 2 million from Florida
+- speed of change 
+
+## 
+
+![](https://static01.nyt.com/images/2025/10/15/multimedia/2025-09-03-future-wet-nyc-index/2025-09-03-future-wet-nyc-index-videoSixteenByNineJumbo1600-v5.jpg)
+
