@@ -1,9 +1,9 @@
 ---
-title: "PubPol 495<br>Climate Change and Democracy <br><br><br>"
+title: "PubPol 495 <br> Climate Change and Democracy <br><br><br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
-# pdf: default
+ pdf: default
  html:
    toc: true
    toc-location: left
@@ -61,7 +61,7 @@ Links to course resources:
 
 ---
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus.html). The current version is [here](syllabus.html).
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus.html). The current version is [here](https://judgelord.github.io/PP495/).
 
 <!--
 This course advanced my understanding of the subject matter. Q1631*
@@ -466,12 +466,18 @@ Attribution Science
 
 - [BBC series *Memories of the Future*](https://www.bbc.com/reel/playlist/2045-memories-of-the-future)
 
+Net-zero by industry
+
   - [Energy](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29d1n)
   - [Fashion](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29j76)
   - [Cities](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29qsy)
   - [Houseing](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29q4r)
   - [Food](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29rgs)
   - [Aviation](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29sn1)
+  
+Carbon Capture
+
+- [Exxon’s new greenwashing ploy. The oil giant claims it can eliminate more than 90 percent of emissions from gas-powered AI facilities. Critics say that’s nonsense. - by Emily Sanders, Dec 18, 2025 Heated](https://heated.world/p/exxons-new-greenwashing-ploy?utm_source=post-email-title&publication_id=2473&post_id=181832230)
 
 ## Background on Climate Policy
 
@@ -1226,6 +1232,10 @@ Critique of the nationalist critique:
 - Background: Human rights perspective: --> 
 
 ::: {.callout-note collapse="true" title="Further reading"}
+
+Opposing views from environmentalists on borders and the environment: 
+
+- https://www.sierraclub.org/borderlands
 
 Further reading on climate migration: 
 
