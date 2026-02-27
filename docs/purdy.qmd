@@ -1,7 +1,5 @@
 ---
 title: "Notes on *After Nature* by Jedediah Purdy"
-title-block-banner: "#001B35" # banner.png
-title-block-banner-color: body-bg
 title-slide-attributes:
     data-background-image: "earthrise_vis_1092_lrg.png"
     data-background-size: cover
@@ -18,11 +16,8 @@ format:
    background-image-size: "cover"
    smaller: true
    scrollable: true
-   theme: michigan.scss
+   theme: [michigan.scss, earthrise.scss]
 css: styles.css
-execute:
-  echo: false
-  engine: knitr
 ---
 
 
